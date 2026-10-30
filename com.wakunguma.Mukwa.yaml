@@ -25,6 +25,7 @@ modules:
         CARGO_NET_OFFLINE: 'true'
         SKIA_BINARIES_URL: file:///run/build/mukwa/skia-binaries.tar.gz
     build-commands:
+      - rm -f .cargo/config.toml rust-toolchain.toml
       - cargo fetch --offline
       - cargo build --offline -r -p mukwa
       - install -Dm755 target/release/mukwa /app/bin/mukwa
