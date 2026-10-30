@@ -4,6 +4,7 @@ runtime-version: "26.08"
 sdk: org.freedesktop.Sdk
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.rust-stable
+  - org.freedesktop.Sdk.Extension.llvm22
 command: mukwa
 rename-icon: mukwa
 finish-args:
@@ -13,7 +14,7 @@ finish-args:
   - --device=dri
   - --talk-name=org.a11y.Bus
 build-options:
-  append-path: "/usr/lib/sdk/rust-stable/bin"
+  append-path: "/usr/lib/sdk/rust-stable/bin:/usr/lib/sdk/llvm22/bin"
 modules:
   - name: mukwa
     buildsystem: simple
@@ -24,6 +25,7 @@ modules:
         CARGO_NET_OFFLINE: 'true'
         SKIA_BINARIES_URL: file:///run/build/mukwa/skia-binaries.tar.gz
     build-commands:
+      - rm -f .cargo/config.toml rust-toolchain.toml
       - cargo fetch --offline
       - cargo build --offline -r -p mukwa
       - install -Dm755 target/release/mukwa /app/bin/mukwa
@@ -32,8 +34,8 @@ modules:
       - install -Dm644 crates/mukwa/resources/mukwa.metainfo.xml /app/share/metainfo/com.wakunguma.Mukwa.metainfo.xml
     sources:
       - type: archive
-        url: https://github.com/snubwoody/mukwa/archive/refs/tags/v0.2.4.tar.gz
-        sha256: 1fc69057e316cb1a34d58849385e4e4665709f56300f356d9f7d6002890a668e
+        url: https://github.com/snubwoody/mukwa/archive/refs/tags/v0.3.2.tar.gz
+        sha256: 1bd9e588a06049c6c154c86e2e12b287ee98bdff6e1173a4fc578243a70433e4
       - type: file
         url: https://github.com/rust-skia/skia-binaries/releases/download/0.153.3/skia-binaries-b7f043e0b1e2a850e702-x86_64-unknown-linux-gnu-ganesh-gl-jpegd-jpege-pdf-vulkan.tar.gz
         dest-filename: skia-binaries.tar.gz
