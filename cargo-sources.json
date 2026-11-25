@@ -2,8 +2,8 @@
     {
         "type": "git",
         "url": "https://github.com/snubwoody/slint",
-        "commit": "552e4dd32ace35fa2a442521f5694f48d3794884",
-        "dest": "flatpak-cargo/git/slint-552e4dd"
+        "commit": "310029655433a1af88550b3e5ba60746814eacdc",
+        "dest": "flatpak-cargo/git/slint-3100296"
     },
     {
         "type": "archive",
@@ -34,105 +34,105 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/accesskit/accesskit-0.24.1.crate",
-        "sha256": "d3b7f7f85a7e5f68090000ed7622545829afd484d210358702ae4cb97dd0c320",
-        "dest": "cargo/vendor/accesskit-0.24.1"
+        "url": "https://static.crates.io/crates/accesskit/accesskit-0.25.2.crate",
+        "sha256": "4e883d1d28c5fd5568c79ed2d2bd48d9f2fd3945c8974ed0f53690ceddb051be",
+        "dest": "cargo/vendor/accesskit-0.25.2"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"d3b7f7f85a7e5f68090000ed7622545829afd484d210358702ae4cb97dd0c320\", \"files\": {}}",
-        "dest": "cargo/vendor/accesskit-0.24.1",
+        "contents": "{\"package\": \"4e883d1d28c5fd5568c79ed2d2bd48d9f2fd3945c8974ed0f53690ceddb051be\", \"files\": {}}",
+        "dest": "cargo/vendor/accesskit-0.25.2",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/accesskit_atspi_common/accesskit_atspi_common-0.19.1.crate",
-        "sha256": "023da0e5097f46df7092d5280b02efb9bbf8d93298daeced42652463e357d636",
-        "dest": "cargo/vendor/accesskit_atspi_common-0.19.1"
+        "url": "https://static.crates.io/crates/accesskit_atspi_common/accesskit_atspi_common-0.21.1.crate",
+        "sha256": "24f5baf62e34a4a6c30e3d697e4782f821a7337049c44c3b40576a27dfbb580d",
+        "dest": "cargo/vendor/accesskit_atspi_common-0.21.1"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"023da0e5097f46df7092d5280b02efb9bbf8d93298daeced42652463e357d636\", \"files\": {}}",
-        "dest": "cargo/vendor/accesskit_atspi_common-0.19.1",
+        "contents": "{\"package\": \"24f5baf62e34a4a6c30e3d697e4782f821a7337049c44c3b40576a27dfbb580d\", \"files\": {}}",
+        "dest": "cargo/vendor/accesskit_atspi_common-0.21.1",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/accesskit_consumer/accesskit_consumer-0.38.0.crate",
-        "sha256": "5d10a236f96f87d70732e44520046785431ef01d5bcd6b041317bfadd2f88245",
-        "dest": "cargo/vendor/accesskit_consumer-0.38.0"
+        "url": "https://static.crates.io/crates/accesskit_consumer/accesskit_consumer-0.39.2.crate",
+        "sha256": "f3da8f27636015191b2264ee1df681503170a632cafd832fdc1edfdd4e3a2fd3",
+        "dest": "cargo/vendor/accesskit_consumer-0.39.2"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"5d10a236f96f87d70732e44520046785431ef01d5bcd6b041317bfadd2f88245\", \"files\": {}}",
-        "dest": "cargo/vendor/accesskit_consumer-0.38.0",
+        "contents": "{\"package\": \"f3da8f27636015191b2264ee1df681503170a632cafd832fdc1edfdd4e3a2fd3\", \"files\": {}}",
+        "dest": "cargo/vendor/accesskit_consumer-0.39.2",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/accesskit_ios/accesskit_ios-0.1.2.crate",
-        "sha256": "750c4e9f6ce888dfe8a10c0f1b5ceb646a7854fd46579d74919219d1bb314083",
-        "dest": "cargo/vendor/accesskit_ios-0.1.2"
+        "url": "https://static.crates.io/crates/accesskit_ios/accesskit_ios-0.2.2.crate",
+        "sha256": "a5280724673bbfa8b30a838c013500b719392989be3b97c5a9964062c252c232",
+        "dest": "cargo/vendor/accesskit_ios-0.2.2"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"750c4e9f6ce888dfe8a10c0f1b5ceb646a7854fd46579d74919219d1bb314083\", \"files\": {}}",
-        "dest": "cargo/vendor/accesskit_ios-0.1.2",
+        "contents": "{\"package\": \"a5280724673bbfa8b30a838c013500b719392989be3b97c5a9964062c252c232\", \"files\": {}}",
+        "dest": "cargo/vendor/accesskit_ios-0.2.2",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/accesskit_macos/accesskit_macos-0.26.3.crate",
-        "sha256": "ce02dc63b43f0c9296af9ac946312a2dc8814427d7a64d2d600971dac55b6076",
-        "dest": "cargo/vendor/accesskit_macos-0.26.3"
+        "url": "https://static.crates.io/crates/accesskit_macos/accesskit_macos-0.27.2.crate",
+        "sha256": "123828ceeec755b05255e3976cb0852993202de98a0626c97dd8d34246991f84",
+        "dest": "cargo/vendor/accesskit_macos-0.27.2"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"ce02dc63b43f0c9296af9ac946312a2dc8814427d7a64d2d600971dac55b6076\", \"files\": {}}",
-        "dest": "cargo/vendor/accesskit_macos-0.26.3",
+        "contents": "{\"package\": \"123828ceeec755b05255e3976cb0852993202de98a0626c97dd8d34246991f84\", \"files\": {}}",
+        "dest": "cargo/vendor/accesskit_macos-0.27.2",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/accesskit_unix/accesskit_unix-0.22.1.crate",
-        "sha256": "03e156ed3802e35eefe894ef2671bc6c889303d8a7e110b5e1b48f504b91362f",
-        "dest": "cargo/vendor/accesskit_unix-0.22.1"
+        "url": "https://static.crates.io/crates/accesskit_unix/accesskit_unix-0.24.1.crate",
+        "sha256": "30d5192871228c54f1b0fb4a85cef000e11a3804f25d2165f14afa0daa67f3f6",
+        "dest": "cargo/vendor/accesskit_unix-0.24.1"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"03e156ed3802e35eefe894ef2671bc6c889303d8a7e110b5e1b48f504b91362f\", \"files\": {}}",
-        "dest": "cargo/vendor/accesskit_unix-0.22.1",
+        "contents": "{\"package\": \"30d5192871228c54f1b0fb4a85cef000e11a3804f25d2165f14afa0daa67f3f6\", \"files\": {}}",
+        "dest": "cargo/vendor/accesskit_unix-0.24.1",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/accesskit_windows/accesskit_windows-0.34.0.crate",
-        "sha256": "106c2b961215864d1c2e703ee63269c25c4e80a577ffb2c1017b9c17dcdf83a1",
-        "dest": "cargo/vendor/accesskit_windows-0.34.0"
+        "url": "https://static.crates.io/crates/accesskit_windows/accesskit_windows-0.35.2.crate",
+        "sha256": "498668b90da9995302a0055aaecad4756932333da2ddef6baee1c00844c430fc",
+        "dest": "cargo/vendor/accesskit_windows-0.35.2"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"106c2b961215864d1c2e703ee63269c25c4e80a577ffb2c1017b9c17dcdf83a1\", \"files\": {}}",
-        "dest": "cargo/vendor/accesskit_windows-0.34.0",
+        "contents": "{\"package\": \"498668b90da9995302a0055aaecad4756932333da2ddef6baee1c00844c430fc\", \"files\": {}}",
+        "dest": "cargo/vendor/accesskit_windows-0.35.2",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/accesskit_winit/accesskit_winit-0.33.2.crate",
-        "sha256": "d5b41e63a69f36d9f1f41e70464c7e5f72eee485ef26aab19f0b4f86e6c0a84c",
-        "dest": "cargo/vendor/accesskit_winit-0.33.2"
+        "url": "https://static.crates.io/crates/accesskit_winit/accesskit_winit-0.34.2.crate",
+        "sha256": "cd4ab4437b520ff03088fbe48676a11e7d44a929535e64b31432c1073e48dbcc",
+        "dest": "cargo/vendor/accesskit_winit-0.34.2"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"d5b41e63a69f36d9f1f41e70464c7e5f72eee485ef26aab19f0b4f86e6c0a84c\", \"files\": {}}",
-        "dest": "cargo/vendor/accesskit_winit-0.33.2",
+        "contents": "{\"package\": \"cd4ab4437b520ff03088fbe48676a11e7d44a929535e64b31432c1073e48dbcc\", \"files\": {}}",
+        "dest": "cargo/vendor/accesskit_winit-0.34.2",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -827,14 +827,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/bindgen/bindgen-0.72.1.crate",
-        "sha256": "993776b509cfb49c750f11b8f07a46fa23e0a1386ffc01fb1e7d343efc387895",
-        "dest": "cargo/vendor/bindgen-0.72.1"
+        "url": "https://static.crates.io/crates/bindgen/bindgen-0.73.2.crate",
+        "sha256": "787ef8ef523575546b106a58213d6e6b06198a05c2f757258c68a74273670cfa",
+        "dest": "cargo/vendor/bindgen-0.73.2"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"993776b509cfb49c750f11b8f07a46fa23e0a1386ffc01fb1e7d343efc387895\", \"files\": {}}",
-        "dest": "cargo/vendor/bindgen-0.72.1",
+        "contents": "{\"package\": \"787ef8ef523575546b106a58213d6e6b06198a05c2f757258c68a74273670cfa\", \"files\": {}}",
+        "dest": "cargo/vendor/bindgen-0.73.2",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -1134,6 +1134,19 @@
         "type": "inline",
         "contents": "{\"package\": \"95a66a987056935f7efce4ab5668920b5d0dac4a7c99991a67395f13702ddd20\", \"files\": {}}",
         "dest": "cargo/vendor/calloop-wayland-source-0.3.0",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/calloop-wayland-source/calloop-wayland-source-0.4.1.crate",
+        "sha256": "138efcf0940a02ebf0cc8d1eff41a1682a46b431630f4c52450d6265876021fa",
+        "dest": "cargo/vendor/calloop-wayland-source-0.4.1"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"138efcf0940a02ebf0cc8d1eff41a1682a46b431630f4c52450d6265876021fa\", \"files\": {}}",
+        "dest": "cargo/vendor/calloop-wayland-source-0.4.1",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -1451,12 +1464,12 @@
     {
         "type": "shell",
         "commands": [
-            "cp -r --reflink=auto \"flatpak-cargo/git/slint-552e4dd/helper_crates/const-field-offset\" \"cargo/vendor/const-field-offset\""
+            "cp -r --reflink=auto \"flatpak-cargo/git/slint-3100296/helper_crates/const-field-offset\" \"cargo/vendor/const-field-offset\""
         ]
     },
     {
         "type": "inline",
-        "contents": "[package]\nname = \"const-field-offset\"\nversion = \"0.2.1\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nrust-version = \"1.88\"\nlicense = \"MIT OR Apache-2.0\"\ndescription = \"Derive macro providing const field offsets using core::mem::offset_of!\"\nrepository = \"https://github.com/slint-ui/slint\"\nhomepage = \"https://slint.dev\"\n\n[dependencies]\nfield-offset = \"0.3.2\"\n\n[dependencies.const-field-offset-macro]\nversion = \"=0.2.1\"\npath = \"./macro\"\n",
+        "contents": "[package]\nname = \"const-field-offset\"\nversion = \"0.2.1\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nrust-version = \"1.95\"\nlicense = \"MIT OR Apache-2.0\"\ndescription = \"Derive macro providing const field offsets using core::mem::offset_of!\"\nrepository = \"https://github.com/slint-ui/slint\"\nhomepage = \"https://slint.dev\"\n\n[dependencies]\nfield-offset = \"0.3.2\"\n\n[dependencies.const-field-offset-macro]\nversion = \"=0.2.1\"\npath = \"./macro\"\n",
         "dest": "cargo/vendor/const-field-offset",
         "dest-filename": "Cargo.toml"
     },
@@ -1469,12 +1482,12 @@
     {
         "type": "shell",
         "commands": [
-            "cp -r --reflink=auto \"flatpak-cargo/git/slint-552e4dd/helper_crates/const-field-offset/macro\" \"cargo/vendor/const-field-offset-macro\""
+            "cp -r --reflink=auto \"flatpak-cargo/git/slint-3100296/helper_crates/const-field-offset/macro\" \"cargo/vendor/const-field-offset-macro\""
         ]
     },
     {
         "type": "inline",
-        "contents": "[package]\nname = \"const-field-offset-macro\"\nversion = \"0.2.1\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nrust-version = \"1.88\"\nlicense = \"MIT OR Apache-2.0\"\ndescription = \"Procedural macro to generate constant field offsets using core::mem::offset_of!\"\nrepository = \"https://github.com/slint-ui/slint\"\nhomepage = \"https://slint.dev\"\n\n[lib]\npath = \"macro.rs\"\nproc-macro = true\n\n[dependencies]\nquote = \"1.0\"\nproc-macro2 = \"1.0\"\n\n[dependencies.syn]\nversion = \"3.0\"\nfeatures = [\"derive\"]\n\n[dev-dependencies]\nmemoffset = \"0.9.0\"\n\n[dev-dependencies.const-field-offset]\npath = \"..\"\n",
+        "contents": "[package]\nname = \"const-field-offset-macro\"\nversion = \"0.2.1\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nrust-version = \"1.95\"\nlicense = \"MIT OR Apache-2.0\"\ndescription = \"Procedural macro to generate constant field offsets using core::mem::offset_of!\"\nrepository = \"https://github.com/slint-ui/slint\"\nhomepage = \"https://slint.dev\"\n\n[lib]\npath = \"macro.rs\"\nproc-macro = true\n\n[dependencies]\nquote = \"1.0\"\nproc-macro2 = \"1.0\"\n\n[dependencies.syn]\nversion = \"3.0\"\nfeatures = [\"derive\"]\n\n[dev-dependencies]\nmemoffset = \"0.9.0\"\n\n[dev-dependencies.const-field-offset]\npath = \"..\"\n",
         "dest": "cargo/vendor/const-field-offset-macro",
         "dest-filename": "Cargo.toml"
     },
@@ -2410,14 +2423,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/femtovg/femtovg-0.27.0.crate",
-        "sha256": "31eebf3ab1b76359ccd5f850c07a7c6b2722c64d9127c40e02358e83f3ff9b1a",
-        "dest": "cargo/vendor/femtovg-0.27.0"
+        "url": "https://static.crates.io/crates/femtovg/femtovg-0.28.0.crate",
+        "sha256": "bdd6dfbb6f827356c8a284b9b7ab83828d6d630fe5457aa59f56092ee49f407a",
+        "dest": "cargo/vendor/femtovg-0.28.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"31eebf3ab1b76359ccd5f850c07a7c6b2722c64d9127c40e02358e83f3ff9b1a\", \"files\": {}}",
-        "dest": "cargo/vendor/femtovg-0.27.0",
+        "contents": "{\"package\": \"bdd6dfbb6f827356c8a284b9b7ab83828d6d630fe5457aa59f56092ee49f407a\", \"files\": {}}",
+        "dest": "cargo/vendor/femtovg-0.28.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -2475,19 +2488,6 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/fixedbitset/fixedbitset-0.5.9.crate",
-        "sha256": "5905ec755cc8386d7928353e4d356d2be3e89e81e5ca01fe630a1ca4d08dc175",
-        "dest": "cargo/vendor/fixedbitset-0.5.9"
-    },
-    {
-        "type": "inline",
-        "contents": "{\"package\": \"5905ec755cc8386d7928353e4d356d2be3e89e81e5ca01fe630a1ca4d08dc175\", \"files\": {}}",
-        "dest": "cargo/vendor/fixedbitset-0.5.9",
-        "dest-filename": ".cargo-checksum.json"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
         "url": "https://static.crates.io/crates/flate2/flate2-1.1.11.crate",
         "sha256": "626d4928326b646e70f65ed36fc7cf9f206bdb68a0019ee7c6b4709da4e084c4",
         "dest": "cargo/vendor/flate2-1.1.11"
@@ -2522,19 +2522,6 @@
         "type": "inline",
         "contents": "{\"package\": \"3f9eec918d3f24069decb9af1554cad7c880e2da24a9afd88aca000531ab82c1\", \"files\": {}}",
         "dest": "cargo/vendor/fnv-1.0.7",
-        "dest-filename": ".cargo-checksum.json"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/foldhash/foldhash-0.1.5.crate",
-        "sha256": "d9c4f5dac5e15c24eb999c26181a6ca40b39fe946cbe4c263c7209467bc83af2",
-        "dest": "cargo/vendor/foldhash-0.1.5"
-    },
-    {
-        "type": "inline",
-        "contents": "{\"package\": \"d9c4f5dac5e15c24eb999c26181a6ca40b39fe946cbe4c263c7209467bc83af2\", \"files\": {}}",
-        "dest": "cargo/vendor/foldhash-0.1.5",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -2592,14 +2579,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/fontique/fontique-0.11.1.crate",
-        "sha256": "6688bc1294fe7117d788937b6c53480169b29c566954af490830d4c09da9516a",
-        "dest": "cargo/vendor/fontique-0.11.1"
+        "url": "https://static.crates.io/crates/fontique/fontique-0.12.0.crate",
+        "sha256": "bbf1df16263783918b7da396077521f92b729ef7c429444dfcf03581f1448b77",
+        "dest": "cargo/vendor/fontique-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"6688bc1294fe7117d788937b6c53480169b29c566954af490830d4c09da9516a\", \"files\": {}}",
-        "dest": "cargo/vendor/fontique-0.11.1",
+        "contents": "{\"package\": \"bbf1df16263783918b7da396077521f92b729ef7c429444dfcf03581f1448b77\", \"files\": {}}",
+        "dest": "cargo/vendor/fontique-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -3034,19 +3021,6 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/grid/grid-1.0.1.crate",
-        "sha256": "b40ca9252762c466af32d0b1002e91e4e1bc5398f77455e55474deb466355ff5",
-        "dest": "cargo/vendor/grid-1.0.1"
-    },
-    {
-        "type": "inline",
-        "contents": "{\"package\": \"b40ca9252762c466af32d0b1002e91e4e1bc5398f77455e55474deb466355ff5\", \"files\": {}}",
-        "dest": "cargo/vendor/grid-1.0.1",
-        "dest-filename": ".cargo-checksum.json"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
         "url": "https://static.crates.io/crates/h2/h2-0.4.20.crate",
         "sha256": "7d29020232d6aa3fb1daca64c1127cf662cf97f254ae16c18c05b8ab635fc118",
         "dest": "cargo/vendor/h2-0.4.20"
@@ -3094,19 +3068,6 @@
         "type": "inline",
         "contents": "{\"package\": \"e5274423e17b7c9fc20b6e7e208532f9b19825d82dfd615708b70edd83df41f1\", \"files\": {}}",
         "dest": "cargo/vendor/hashbrown-0.14.5",
-        "dest-filename": ".cargo-checksum.json"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/hashbrown/hashbrown-0.15.5.crate",
-        "sha256": "9229cfe53dfd69f0609a49f65461bd93001ea1ef889cd5529dd176593f5338a1",
-        "dest": "cargo/vendor/hashbrown-0.15.5"
-    },
-    {
-        "type": "inline",
-        "contents": "{\"package\": \"9229cfe53dfd69f0609a49f65461bd93001ea1ef889cd5529dd176593f5338a1\", \"files\": {}}",
-        "dest": "cargo/vendor/hashbrown-0.15.5",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -3372,12 +3333,12 @@
     {
         "type": "shell",
         "commands": [
-            "cp -r --reflink=auto \"flatpak-cargo/git/slint-552e4dd/internal/backends/linuxkms\" \"cargo/vendor/i-slint-backend-linuxkms\""
+            "cp -r --reflink=auto \"flatpak-cargo/git/slint-3100296/internal/backends/linuxkms\" \"cargo/vendor/i-slint-backend-linuxkms\""
         ]
     },
     {
         "type": "inline",
-        "contents": "[package]\nname = \"i-slint-backend-linuxkms\"\ndescription = \"OpenGL rendering backend for Slint\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.92\"\nversion = \"1.18.1\"\nbuild = \"build.rs\"\n\n[package.metadata.docs.rs]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\nrenderer-skia = [\"renderer-skia-opengl\"]\nrenderer-skia-vulkan = [\"unstable-wgpu-30\", \"i-slint-renderer-skia/vulkan\"]\nunstable-wgpu-29 = [\"i-slint-renderer-skia/wgpu-29\", \"drm\", \"dep:memmap2\"]\nunstable-wgpu-30 = [\"i-slint-renderer-skia/wgpu-30\", \"drm\", \"dep:memmap2\", \"dep:wgpu-30\"]\nrenderer-skia-opengl = [\"i-slint-renderer-skia/opengl\", \"drm\", \"gbm\", \"glutin\", \"raw-window-handle\", \"dep:memmap2\"]\nrenderer-femtovg = [\"i-slint-renderer-femtovg/opengl\", \"drm\", \"gbm\", \"glutin\", \"raw-window-handle\"]\nrenderer-femtovg-wgpu = [\"i-slint-renderer-femtovg/wgpu\", \"drm\", \"dep:wgpu-30\"]\nrenderer-software = [\"i-slint-renderer-software/std\", \"drm\", \"dep:bytemuck\", \"dep:memmap2\"]\nrenderer-vello = [\"dep:i-slint-renderer-anyrender\", \"i-slint-renderer-anyrender/vello\", \"i-slint-core/unstable-wgpu-29\", \"drm\", \"dep:memmap2\"]\nlibseat = [\"dep:libseat\"]\nlibinput = [\"dep:input\", \"dep:xkbcommon\"]\ndefault = []\n\n[dependencies.i-slint-core]\nfeatures = [\"default\", \"image-decoders\", \"svg\"]\nversion = \"=1.18.1\"\npath = \"internal/core\"\ndefault-features = false\n\n[dependencies.i-slint-common]\nfeatures = [\"default\"]\nversion = \"=1.18.1\"\npath = \"internal/common\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-skia]\nfeatures = [\"default\", \"kms\"]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/renderers/skia\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-anyrender]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/renderers/anyrender\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-femtovg]\nfeatures = [\"default\"]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/renderers/femtovg\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-software]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/renderers/software\"\ndefault-features = false\n\n[dependencies.wgpu-30]\noptional = true\nfeatures = [\"drm\"]\npackage = \"wgpu\"\nversion = \"30\"\ndefault-features = false\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.input]\ndefault-features = false\noptional = true\nversion = \"0.10.0\"\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.xkbcommon]\nversion = \"0.9.0\"\noptional = true\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.calloop]\nversion = \"0.14.1\"\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.libseat]\nversion = \"0.2.1\"\noptional = true\ndefault-features = false\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.nix]\nversion = \"0.31.0\"\nfeatures = [\"fs\", \"ioctl\"]\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.drm]\nversion = \"0.14.0\"\noptional = true\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.gbm]\nversion = \"0.18.0\"\noptional = true\ndefault-features = false\nfeatures = [\"drm-support\"]\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.glutin]\noptional = true\ndefault-features = false\nfeatures = [\"libloading\", \"egl\"]\nversion = \"0.32.0\"\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.raw-window-handle]\nversion = \"0.6.2\"\noptional = true\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.bytemuck]\noptional = true\nfeatures = [\"derive\"]\nversion = \"1.13.1\"\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.memmap2]\nversion = \"0.9.4\"\noptional = true\n\n[build-dependencies.cfg_aliases]\nversion = \"0.2.2\"\n",
+        "contents": "[package]\nname = \"i-slint-backend-linuxkms\"\ndescription = \"Linux KMS/DRM backend for Slint, to run full-screen on embedded Linux without a windowing system\"\ncategories = [\"gui\", \"embedded\", \"os::linux-apis\"]\nkeywords = [\"embedded-linux\", \"kms\", \"drm\", \"gui\", \"ui\"]\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.95\"\nversion = \"1.19.0\"\nbuild = \"build.rs\"\n\n[package.metadata.docs.rs]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\nimage-pixel-format-gray8 = [\"i-slint-core/image-pixel-format-gray8\", \"i-slint-renderer-skia?/image-pixel-format-gray8\", \"i-slint-renderer-femtovg?/image-pixel-format-gray8\", \"i-slint-renderer-software?/image-pixel-format-gray8\", \"i-slint-renderer-anyrender?/image-pixel-format-gray8\"]\nimage-pixel-format-rgb565 = [\"i-slint-core/image-pixel-format-rgb565\", \"i-slint-renderer-skia?/image-pixel-format-rgb565\", \"i-slint-renderer-femtovg?/image-pixel-format-rgb565\", \"i-slint-renderer-software?/image-pixel-format-rgb565\", \"i-slint-renderer-anyrender?/image-pixel-format-rgb565\"]\nrenderer-skia = [\"renderer-skia-opengl\"]\nrenderer-skia-vulkan = [\"unstable-wgpu-30\", \"i-slint-renderer-skia/vulkan\"]\nunstable-wgpu-29 = [\"i-slint-renderer-skia/unstable-wgpu-29\", \"drm\", \"dep:memmap2\"]\nunstable-wgpu-30 = [\"i-slint-renderer-skia/unstable-wgpu-30\", \"drm\", \"gbm\", \"dep:memmap2\", \"dep:wgpu-30\", \"wgpu-30/vulkan\", \"dep:ash\"]\nrenderer-skia-opengl = [\"i-slint-renderer-skia/opengl\", \"drm\", \"gbm\", \"glutin\", \"raw-window-handle\", \"dep:memmap2\"]\nrenderer-skia-software = [\"i-slint-renderer-skia\", \"drm\", \"dep:memmap2\"]\nrenderer-femtovg = [\"i-slint-renderer-femtovg/opengl\", \"drm\", \"gbm\", \"glutin\", \"raw-window-handle\"]\nrenderer-femtovg-wgpu = [\"i-slint-renderer-femtovg/wgpu\", \"drm\", \"gbm\", \"dep:wgpu-30\", \"wgpu-30/vulkan\", \"dep:ash\"]\nrenderer-software = [\"i-slint-renderer-software/std\", \"drm\", \"dep:bytemuck\", \"dep:memmap2\"]\nrenderer-vello = [\"dep:i-slint-renderer-anyrender\", \"i-slint-renderer-anyrender/vello\", \"i-slint-core/unstable-wgpu-30\", \"drm\", \"dep:memmap2\", \"dep:wgpu-30\"]\nlibseat = [\"dep:libseat\"]\nlibinput = [\"dep:input\", \"dep:xkbcommon\", \"dep:libudev-sys\", \"nix/time\"]\ngbm = [\"dep:gbm\", \"dep:gbm-sys\"]\ndlopen = [\"dep:libloading\"]\nlibdlmclient = []\ndefault = []\n\n[dependencies.i-slint-core]\nfeatures = [\"default\", \"image-decoders\", \"svg\"]\nversion = \"=1.19.0\"\npath = \"internal/core\"\ndefault-features = false\n\n[dependencies.i-slint-common]\nfeatures = [\"default\"]\nversion = \"=1.19.0\"\npath = \"internal/common\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-skia]\nfeatures = [\"kms\"]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/renderers/skia\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-anyrender]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/renderers/anyrender\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-femtovg]\nfeatures = [\"default\"]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/renderers/femtovg\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-software]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/renderers/software\"\ndefault-features = false\n\n[dependencies.wgpu-30]\noptional = true\nfeatures = [\"drm\"]\npackage = \"wgpu\"\nversion = \"30\"\ndefault-features = false\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.input]\ndefault-features = false\noptional = true\nversion = \"0.10.0\"\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.xkbcommon]\nversion = \"0.9.0\"\noptional = true\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.calloop]\nversion = \"0.14.1\"\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.libseat]\nversion = \"0.2.1\"\noptional = true\ndefault-features = false\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.nix]\nversion = \"0.31.0\"\nfeatures = [\"fs\", \"ioctl\"]\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.drm]\nversion = \"0.14.0\"\noptional = true\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.gbm]\nversion = \"0.18.0\"\noptional = true\ndefault-features = false\nfeatures = [\"drm-support\"]\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.glutin]\noptional = true\ndefault-features = false\nfeatures = [\"libloading\", \"egl\"]\nversion = \"0.32.0\"\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.raw-window-handle]\nversion = \"0.6.2\"\noptional = true\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.bytemuck]\noptional = true\nfeatures = [\"derive\"]\nversion = \"1.13.1\"\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.memmap2]\nversion = \"0.9.4\"\noptional = true\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.ash]\nversion = \"^0.38.0\"\noptional = true\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.libloading]\nversion = \"0.9\"\noptional = true\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.libudev-sys]\nversion = \"0.1.4\"\noptional = true\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.gbm-sys]\nversion = \"0.4\"\noptional = true\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dev-dependencies]\ndrm-ffi = \"0.9.1\"\n\n[build-dependencies]\npkg-config = \"0.3\"\n\n[build-dependencies.cfg_aliases]\nversion = \"0.2.2\"\n\n[dev-dependencies.log]\nversion = \"0.4.17\"\n\n[dev-dependencies.nix]\nversion = \"0.31.0\"\nfeatures = [\"poll\"]\n\n[dev-dependencies.slint]\npath = \"../../../api/rs/slint\"\ndefault-features = false\nfeatures = [\"std\", \"compat-1-2\"]\n",
         "dest": "cargo/vendor/i-slint-backend-linuxkms",
         "dest-filename": "Cargo.toml"
     },
@@ -3390,12 +3351,12 @@
     {
         "type": "shell",
         "commands": [
-            "cp -r --reflink=auto \"flatpak-cargo/git/slint-552e4dd/internal/backends/selector\" \"cargo/vendor/i-slint-backend-selector\""
+            "cp -r --reflink=auto \"flatpak-cargo/git/slint-3100296/internal/backends/selector\" \"cargo/vendor/i-slint-backend-selector\""
         ]
     },
     {
         "type": "inline",
-        "contents": "[package]\nname = \"i-slint-backend-selector\"\ndescription = \"Helper crate to pick the default rendering backend for Slint\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.92\"\nversion = \"1.18.1\"\nbuild = \"build.rs\"\n\n[package.metadata.docs.rs]\nfeatures = [\"renderer-software\"]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\nbackend-winit = [\"backend-winit-x11\", \"backend-winit-wayland\"]\nbackend-winit-x11 = [\"i-slint-backend-winit/x11\"]\nbackend-winit-wayland = [\"i-slint-backend-winit/wayland\"]\nbackend-linuxkms = [\"i-slint-backend-linuxkms\"]\nbackend-linuxkms-libseat = [\"backend-linuxkms\", \"i-slint-backend-linuxkms/libseat\"]\nbackend-linuxkms-libinput = [\"backend-linuxkms\", \"i-slint-backend-linuxkms/libinput\"]\nbackend-linuxkms-noseat = [\"backend-linuxkms-libinput\"]\nbackend-qt = [\"i-slint-backend-qt/enable\"]\nbackend-testing = [\"i-slint-backend-testing/internal\"]\nrenderer-femtovg = [\"dep:i-slint-renderer-femtovg\", \"i-slint-backend-winit?/renderer-femtovg\", \"i-slint-backend-linuxkms?/renderer-femtovg\"]\nrenderer-femtovg-wgpu = [\"i-slint-renderer-femtovg/wgpu\", \"i-slint-backend-winit?/renderer-femtovg-wgpu\", \"i-slint-backend-linuxkms?/renderer-femtovg-wgpu\"]\nrenderer-skia = [\"dep:i-slint-renderer-skia\", \"i-slint-backend-winit?/renderer-skia\", \"i-slint-backend-linuxkms?/renderer-skia\", \"i-slint-backend-testing?/renderer-skia\"]\nrenderer-skia-opengl = [\"i-slint-backend-winit?/renderer-skia-opengl\", \"i-slint-backend-linuxkms?/renderer-skia-opengl\", \"i-slint-renderer-skia/opengl\"]\nrenderer-skia-vulkan = [\"i-slint-backend-winit?/renderer-skia-vulkan\", \"i-slint-backend-linuxkms?/renderer-skia-vulkan\", \"i-slint-renderer-skia/vulkan\"]\nrenderer-software = [\"i-slint-backend-winit?/renderer-software\", \"i-slint-backend-linuxkms?/renderer-software\", \"i-slint-backend-testing?/renderer-software\"]\nrenderer-vello = [\"i-slint-backend-winit?/renderer-vello\", \"i-slint-backend-linuxkms?/renderer-vello\"]\nrtti = [\"i-slint-core/rtti\", \"i-slint-backend-qt?/rtti\"]\naccessibility = [\"i-slint-backend-winit?/accessibility\"]\nraw-window-handle-06 = [\"i-slint-core/raw-window-handle-06\", \"i-slint-backend-winit?/raw-window-handle-06\"]\nsystem-testing = [\"renderer-software\", \"i-slint-backend-testing/system-testing\"]\nmcp = [\"renderer-software\", \"i-slint-backend-testing/mcp\"]\nunstable-wgpu-29 = [\"i-slint-core/unstable-wgpu-29\", \"i-slint-renderer-skia?/unstable-wgpu-29\", \"i-slint-backend-winit?/unstable-wgpu-29\", \"i-slint-backend-linuxkms?/unstable-wgpu-29\"]\nunstable-wgpu-30 = [\"i-slint-core/unstable-wgpu-30\", \"i-slint-renderer-skia?/unstable-wgpu-30\", \"i-slint-renderer-femtovg?/unstable-wgpu-30\", \"i-slint-backend-winit?/unstable-wgpu-30\", \"i-slint-backend-linuxkms?/unstable-wgpu-30\"]\nunstable-winit-030 = [\"i-slint-backend-winit\"]\nunstable-libinput-09 = [\"dep:input\", \"i-slint-backend-linuxkms?/libinput\"]\nbackend-android-activity = [\"dep:i-slint-backend-android-activity\"]\ndefault = [\"backend-winit\"]\n\n[dependencies]\ncfg-if = \"1\"\n\n[dependencies.i-slint-core]\nversion = \"=1.18.1\"\npath = \"internal/core\"\ndefault-features = false\n\n[dependencies.i-slint-backend-testing]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/backends/testing\"\ndefault-features = false\n\n[dependencies.i-slint-core-macros]\nversion = \"=1.18.1\"\npath = \"internal/core-macros\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-skia]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/renderers/skia\"\ndefault-features = false\n\n[target.\"cfg(not(target_os = \\\"android\\\"))\".dependencies.i-slint-backend-winit]\nfeatures = [\"default\", \"muda\"]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/backends/winit\"\ndefault-features = false\n\n[target.\"cfg(not(target_os = \\\"android\\\"))\".dependencies.i-slint-renderer-femtovg]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/renderers/femtovg\"\ndefault-features = false\n\n[target.\"cfg(target_os = \\\"android\\\")\".dependencies.i-slint-backend-android-activity]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/backends/android-activity\"\ndefault-features = false\n\n[target.\"cfg(not(target_os = \\\"wasm\\\"))\".dependencies.i-slint-backend-qt]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/backends/qt\"\ndefault-features = false\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.i-slint-backend-linuxkms]\nfeatures = [\"default\"]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/backends/linuxkms\"\ndefault-features = false\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.input]\noptional = true\nversion = \"0.10.0\"\ndefault-features = false\n\n[build-dependencies.cfg_aliases]\nversion = \"0.2.2\"\n\n[build-dependencies.i-slint-common]\nversion = \"=1.18.1\"\npath = \"internal/common\"\ndefault-features = false\n\n[dev-dependencies.slint]\npath = \"../../../api/rs/slint\"\ndefault-features = false\nfeatures = [\"std\", \"compat-1-2\", \"backend-winit\", \"renderer-software\", \"unstable-winit-030\"]\n",
+        "contents": "[package]\nname = \"i-slint-backend-selector\"\ndescription = \"Helper crate to pick the default rendering backend for Slint\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.95\"\nversion = \"1.19.0\"\nbuild = \"build.rs\"\n\n[package.metadata.docs.rs]\nfeatures = [\"renderer-software\"]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\nbackend-winit = [\"backend-winit-x11\", \"backend-winit-wayland\"]\nbackend-winit-x11 = [\"i-slint-backend-winit/x11\"]\nbackend-winit-wayland = [\"i-slint-backend-winit/wayland\"]\nbackend-linuxkms = [\"i-slint-backend-linuxkms\"]\nbackend-linuxkms-libseat = [\"backend-linuxkms\", \"i-slint-backend-linuxkms/libseat\"]\nbackend-linuxkms-libinput = [\"backend-linuxkms\", \"i-slint-backend-linuxkms/libinput\"]\nbackend-linuxkms-noseat = [\"backend-linuxkms-libinput\"]\nbackend-linuxkms-libdlmclient = [\"backend-linuxkms\", \"i-slint-backend-linuxkms/libdlmclient\"]\nbackend-qt = [\"i-slint-backend-qt/enable\"]\nbackend-testing = [\"i-slint-backend-testing/internal\"]\nimage-pixel-format-rgb565 = [\"i-slint-core/image-pixel-format-rgb565\", \"i-slint-backend-qt?/image-pixel-format-rgb565\", \"i-slint-backend-winit?/image-pixel-format-rgb565\", \"i-slint-backend-linuxkms?/image-pixel-format-rgb565\", \"i-slint-renderer-femtovg?/image-pixel-format-rgb565\", \"i-slint-renderer-skia?/image-pixel-format-rgb565\"]\nimage-pixel-format-gray8 = [\"i-slint-core/image-pixel-format-gray8\", \"i-slint-backend-qt?/image-pixel-format-gray8\", \"i-slint-backend-winit?/image-pixel-format-gray8\", \"i-slint-backend-linuxkms?/image-pixel-format-gray8\", \"i-slint-renderer-femtovg?/image-pixel-format-gray8\", \"i-slint-renderer-skia?/image-pixel-format-gray8\"]\nrenderer-femtovg = [\"dep:i-slint-renderer-femtovg\", \"i-slint-backend-winit?/renderer-femtovg\", \"i-slint-backend-linuxkms?/renderer-femtovg\"]\nrenderer-femtovg-wgpu = [\"i-slint-renderer-femtovg/wgpu\", \"i-slint-backend-winit?/renderer-femtovg-wgpu\", \"i-slint-backend-linuxkms?/renderer-femtovg-wgpu\"]\nrenderer-skia = [\"dep:i-slint-renderer-skia\", \"i-slint-backend-winit?/renderer-skia\", \"i-slint-backend-linuxkms?/renderer-skia\", \"i-slint-backend-testing?/renderer-skia\"]\nrenderer-skia-opengl = [\"i-slint-backend-winit?/renderer-skia-opengl\", \"i-slint-backend-linuxkms?/renderer-skia-opengl\", \"i-slint-renderer-skia/opengl\"]\nrenderer-skia-vulkan = [\"i-slint-backend-winit?/renderer-skia-vulkan\", \"i-slint-backend-linuxkms?/renderer-skia-vulkan\", \"i-slint-renderer-skia/vulkan\"]\nrenderer-skia-software = [\"i-slint-backend-winit?/renderer-skia-software\", \"i-slint-backend-linuxkms?/renderer-skia-software\"]\nrenderer-software = [\"i-slint-backend-winit?/renderer-software\", \"i-slint-backend-linuxkms?/renderer-software\", \"i-slint-backend-testing?/renderer-software\"]\nrenderer-vello = [\"i-slint-backend-winit?/renderer-vello\", \"i-slint-backend-linuxkms?/renderer-vello\"]\nrtti = [\"i-slint-core/rtti\", \"i-slint-backend-qt?/rtti\"]\naccessibility = [\"i-slint-backend-winit?/accessibility\"]\nraw-window-handle-06 = [\"i-slint-core/raw-window-handle-06\", \"i-slint-backend-winit?/raw-window-handle-06\"]\nsystem-testing = [\"renderer-software\", \"i-slint-backend-testing/system-testing\"]\nmcp = [\"renderer-software\", \"i-slint-backend-testing/mcp\"]\nunstable-wgpu-29 = [\"i-slint-core/unstable-wgpu-29\", \"i-slint-renderer-skia?/unstable-wgpu-29\", \"i-slint-backend-winit?/unstable-wgpu-29\", \"i-slint-backend-linuxkms?/unstable-wgpu-29\"]\nunstable-wgpu-30 = [\"i-slint-core/unstable-wgpu-30\", \"i-slint-renderer-skia?/unstable-wgpu-30\", \"i-slint-renderer-femtovg?/unstable-wgpu-30\", \"i-slint-backend-winit?/unstable-wgpu-30\", \"i-slint-backend-linuxkms?/unstable-wgpu-30\"]\nunstable-winit-030 = [\"i-slint-backend-winit\"]\nunstable-libinput-09 = [\"dep:input\", \"i-slint-backend-linuxkms?/libinput\"]\nbackend-android-activity = [\"dep:i-slint-backend-android-activity\"]\ndefault = [\"backend-winit\"]\n\n[dependencies.i-slint-core]\nversion = \"=1.19.0\"\npath = \"internal/core\"\ndefault-features = false\n\n[dependencies.i-slint-backend-testing]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/backends/testing\"\ndefault-features = false\n\n[dependencies.i-slint-core-macros]\nversion = \"=1.19.0\"\npath = \"internal/core-macros\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-skia]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/renderers/skia\"\ndefault-features = false\n\n[target.\"cfg(not(target_os = \\\"android\\\"))\".dependencies.i-slint-backend-winit]\nfeatures = [\"default\", \"muda\"]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/backends/winit\"\ndefault-features = false\n\n[target.\"cfg(not(target_os = \\\"android\\\"))\".dependencies.i-slint-renderer-femtovg]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/renderers/femtovg\"\ndefault-features = false\n\n[target.\"cfg(target_os = \\\"android\\\")\".dependencies.i-slint-backend-android-activity]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/backends/android-activity\"\ndefault-features = false\n\n[target.\"cfg(not(target_arch = \\\"wasm32\\\"))\".dependencies.i-slint-backend-qt]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/backends/qt\"\ndefault-features = false\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.i-slint-backend-linuxkms]\nfeatures = [\"default\"]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/backends/linuxkms\"\ndefault-features = false\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.input]\noptional = true\nversion = \"0.10.0\"\ndefault-features = false\n\n[build-dependencies.cfg_aliases]\nversion = \"0.2.2\"\n\n[build-dependencies.i-slint-common]\nversion = \"=1.19.0\"\npath = \"internal/common\"\ndefault-features = false\n\n[dev-dependencies.slint]\npath = \"../../../api/rs/slint\"\ndefault-features = false\nfeatures = [\"std\", \"compat-1-2\", \"backend-winit\", \"renderer-software\", \"unstable-winit-030\"]\n",
         "dest": "cargo/vendor/i-slint-backend-selector",
         "dest-filename": "Cargo.toml"
     },
@@ -3408,12 +3369,12 @@
     {
         "type": "shell",
         "commands": [
-            "cp -r --reflink=auto \"flatpak-cargo/git/slint-552e4dd/internal/backends/testing\" \"cargo/vendor/i-slint-backend-testing\""
+            "cp -r --reflink=auto \"flatpak-cargo/git/slint-3100296/internal/backends/testing\" \"cargo/vendor/i-slint-backend-testing\""
         ]
     },
     {
         "type": "inline",
-        "contents": "[package]\nname = \"i-slint-backend-testing\"\ndescription = \"Testing backend for Slint\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.92\"\nversion = \"1.18.1\"\nbuild = \"build.rs\"\n\n[package.metadata.docs.rs]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\ninternal = []\nffi = []\nrenderer-software = [\"dep:i-slint-renderer-software\", \"i-slint-renderer-software/std\"]\nrenderer-skia = [\"dep:i-slint-renderer-skia\"]\nsystem-testing = [\"prost\", \"pbjson\", \"serde\", \"slotmap\", \"async-net\", \"futures-lite\", \"byteorder\", \"image\", \"prost-build\", \"prost-types\", \"pbjson-build\", \"protox\", \"renderer-software\"]\nmcp = [\"prost\", \"pbjson\", \"serde\", \"serde_json\", \"slotmap\", \"async-net\", \"futures-lite\", \"image\", \"base64\", \"httparse\", \"prost-build\", \"prost-types\", \"pbjson-build\", \"protox\", \"renderer-software\"]\n\n[dependencies.i-slint-core]\nfeatures = [\"std\", \"shared-parley\"]\nversion = \"=1.18.1\"\npath = \"internal/core\"\ndefault-features = false\n\n[dependencies.i-slint-common]\nfeatures = [\"shared-fontique\"]\nversion = \"=1.18.1\"\npath = \"internal/common\"\ndefault-features = false\n\n[dependencies.vtable]\nversion = \"0.5\"\npath = \"helper_crates/vtable\"\n\n[dependencies.prost]\nversion = \"0.14\"\noptional = true\n\n[dependencies.pbjson]\nversion = \"0.9\"\noptional = true\n\n[dependencies.serde]\nversion = \"1\"\noptional = true\n\n[dependencies.serde_json]\noptional = true\nversion = \"1.0.96\"\n\n[dependencies.base64]\nversion = \"0.23\"\noptional = true\n\n[dependencies.httparse]\nversion = \"1\"\noptional = true\n\n[dependencies.slotmap]\nversion = \"1.1\"\noptional = true\n\n[dependencies.async-net]\nversion = \"2.0.0\"\noptional = true\n\n[dependencies.futures-lite]\nversion = \"2.3.0\"\noptional = true\n\n[dependencies.byteorder]\nversion = \"1.5.0\"\noptional = true\n\n[dependencies.image]\noptional = true\nfeatures = [\"png\", \"png\", \"jpeg\"]\nversion = \"0.25\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-software]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/renderers/software\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-skia]\ndefault-features = false\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/renderers/skia\"\n\n[target.\"cfg(not(target_arch = \\\"wasm32\\\"))\".dependencies.i-slint-core]\nfeatures = [\"image-decoders\", \"svg\"]\nversion = \"=1.18.1\"\npath = \"internal/core\"\ndefault-features = false\n\n[build-dependencies.cfg_aliases]\nversion = \"0.2.2\"\n\n[build-dependencies.prost]\nversion = \"0.14\"\noptional = true\n\n[build-dependencies.prost-build]\nversion = \"0.14\"\noptional = true\n\n[build-dependencies.prost-types]\nversion = \"0.14\"\noptional = true\n\n[build-dependencies.pbjson-build]\nversion = \"0.9\"\noptional = true\n\n[build-dependencies.protox]\nversion = \"0.9\"\noptional = true\n\n[dev-dependencies.slint]\npath = \"../../../api/rs/slint\"\ndefault-features = false\nfeatures = [\"std\", \"compat-1-2\"]\n\n[dev-dependencies.i-slint-core-macros]\npath = \"../../core-macros\"\n\n[dev-dependencies.i-slint-common]\npath = \"../../common\"\n",
+        "contents": "[package]\nname = \"i-slint-backend-testing\"\ndescription = \"Testing backend for Slint\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.95\"\nversion = \"1.19.0\"\nbuild = \"build.rs\"\n\n[package.metadata.docs.rs]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\ninternal = []\nffi = []\nrenderer-software = [\"dep:i-slint-renderer-software\", \"i-slint-renderer-software/std\"]\nrenderer-skia = [\"dep:i-slint-renderer-skia\"]\nsystem-testing = [\"prost\", \"pbjson\", \"serde\", \"slotmap\", \"async-net\", \"futures-lite\", \"byteorder\", \"image\", \"prost-build\", \"prost-types\", \"pbjson-build\", \"protox\", \"renderer-software\"]\nmcp = [\"prost\", \"pbjson\", \"serde\", \"serde_json\", \"slotmap\", \"async-net\", \"futures-lite\", \"image\", \"base64\", \"httparse\", \"prost-build\", \"prost-types\", \"pbjson-build\", \"protox\", \"renderer-software\"]\n\n[dependencies.i-slint-core]\nfeatures = [\"std\", \"shared-parley\"]\nversion = \"=1.19.0\"\npath = \"internal/core\"\ndefault-features = false\n\n[dependencies.i-slint-common]\nfeatures = [\"shared-fontique\"]\nversion = \"=1.19.0\"\npath = \"internal/common\"\ndefault-features = false\n\n[dependencies.vtable]\nversion = \"0.5.1\"\npath = \"helper_crates/vtable\"\n\n[dependencies.prost]\nversion = \"0.14\"\noptional = true\n\n[dependencies.pbjson]\nversion = \"0.9\"\noptional = true\n\n[dependencies.serde]\nversion = \"1\"\noptional = true\n\n[dependencies.serde_json]\noptional = true\nversion = \"1.0.96\"\n\n[dependencies.base64]\nversion = \"0.23\"\noptional = true\n\n[dependencies.httparse]\nversion = \"1\"\noptional = true\n\n[dependencies.slotmap]\nversion = \"1.1\"\noptional = true\n\n[dependencies.async-net]\nversion = \"2.0.0\"\noptional = true\n\n[dependencies.futures-lite]\nversion = \"2.3.0\"\noptional = true\n\n[dependencies.byteorder]\nversion = \"1.5.0\"\noptional = true\n\n[dependencies.image]\noptional = true\nfeatures = [\"png\", \"png\", \"jpeg\"]\nversion = \"0.25.10\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-software]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/renderers/software\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-skia]\ndefault-features = false\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/renderers/skia\"\n\n[target.\"cfg(not(target_arch = \\\"wasm32\\\"))\".dependencies.i-slint-core]\nfeatures = [\"image-decoders\", \"svg\"]\nversion = \"=1.19.0\"\npath = \"internal/core\"\ndefault-features = false\n\n[build-dependencies.cfg_aliases]\nversion = \"0.2.2\"\n\n[build-dependencies.prost]\nversion = \"0.14\"\noptional = true\n\n[build-dependencies.prost-build]\nversion = \"0.14\"\noptional = true\n\n[build-dependencies.prost-types]\nversion = \"0.14\"\noptional = true\n\n[build-dependencies.pbjson-build]\nversion = \"0.9\"\noptional = true\n\n[build-dependencies.protox]\nversion = \"0.10\"\noptional = true\n\n[dev-dependencies.slint]\npath = \"../../../api/rs/slint\"\ndefault-features = false\nfeatures = [\"std\", \"compat-1-2\"]\n\n[dev-dependencies.i-slint-core-macros]\npath = \"../../core-macros\"\n\n[dev-dependencies.i-slint-common]\npath = \"../../common\"\n",
         "dest": "cargo/vendor/i-slint-backend-testing",
         "dest-filename": "Cargo.toml"
     },
@@ -3426,12 +3387,12 @@
     {
         "type": "shell",
         "commands": [
-            "cp -r --reflink=auto \"flatpak-cargo/git/slint-552e4dd/internal/backends/winit\" \"cargo/vendor/i-slint-backend-winit\""
+            "cp -r --reflink=auto \"flatpak-cargo/git/slint-3100296/internal/backends/winit\" \"cargo/vendor/i-slint-backend-winit\""
         ]
     },
     {
         "type": "inline",
-        "contents": "[package]\nname = \"i-slint-backend-winit\"\ndescription = \"Winit backend for Slint\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.92\"\nversion = \"1.18.1\"\nbuild = \"build.rs\"\n\n[package.metadata.docs.rs]\nfeatures = [\"wayland\", \"renderer-software\", \"raw-window-handle-06\"]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\nwayland = [\"winit/wayland\", \"winit/wayland-csd-adwaita\", \"glutin?/wayland\", \"glutin-winit?/wayland\", \"dep:arboard\", \"arboard/wayland-data-control\", \"i-slint-renderer-skia?/wayland\", \"softbuffer?/wayland\", \"softbuffer?/wayland-dlopen\"]\nx11 = [\"winit/x11\", \"glutin?/x11\", \"glutin?/glx\", \"glutin-winit?/x11\", \"glutin-winit?/glx\", \"dep:arboard\", \"i-slint-renderer-skia?/x11\", \"softbuffer?/x11\", \"softbuffer?/x11-dlopen\"]\nrenderer-femtovg = [\"i-slint-renderer-femtovg/opengl\", \"dep:glutin\", \"dep:glutin-winit\", \"windows/Win32_Graphics_OpenGL\"]\nrenderer-femtovg-wgpu = [\"i-slint-renderer-femtovg/wgpu\", \"dep:i-slint-renderer-femtovg\", \"unstable-wgpu-30\"]\nrenderer-skia = [\"i-slint-renderer-skia\"]\nrenderer-vello = [\"dep:i-slint-renderer-anyrender\", \"i-slint-renderer-anyrender/vello\", \"unstable-wgpu-29\"]\nrenderer-skia-opengl = [\"renderer-skia\", \"i-slint-renderer-skia/opengl\"]\nrenderer-skia-vulkan = [\"renderer-skia\", \"i-slint-renderer-skia/vulkan\"]\nrenderer-software = [\"dep:softbuffer\", \"dep:imgref\", \"dep:rgb\", \"dep:i-slint-renderer-software\", \"i-slint-renderer-software/std\", \"dep:bytemuck\"]\naccessibility = [\"dep:accesskit\", \"dep:accesskit_winit\", \"i-slint-core/accessibility-text\"]\nraw-window-handle-06 = [\"i-slint-core/raw-window-handle-06\"]\nunstable-wgpu-29 = [\"i-slint-core/unstable-wgpu-29\", \"i-slint-renderer-skia?/unstable-wgpu-29\"]\nunstable-wgpu-30 = [\"i-slint-core/unstable-wgpu-30\", \"i-slint-renderer-femtovg?/unstable-wgpu-30\", \"i-slint-renderer-skia?/unstable-wgpu-30\"]\ndefault = []\n\n[dependencies]\ncfg-if = \"1\"\npin-weak = \"1\"\nscoped-tls-hkt = \"0.1\"\nwebbrowser = \"1.2.0\"\n\n[dependencies.i-slint-core]\nfeatures = [\"default\"]\nversion = \"=1.18.1\"\npath = \"internal/core\"\ndefault-features = false\n\n[dependencies.i-slint-core-macros]\nfeatures = [\"default\"]\nversion = \"=1.18.1\"\npath = \"internal/core-macros\"\ndefault-features = false\n\n[dependencies.i-slint-common]\nfeatures = [\"default\"]\nversion = \"=1.18.1\"\npath = \"internal/common\"\ndefault-features = false\n\n[dependencies.lyon_path]\nversion = \"1.0\"\ndefault-features = false\n\n[dependencies.strum]\nversion = \"0.28\"\ndefault-features = false\nfeatures = [\"derive\"]\n\n[dependencies.winit]\nversion = \"0.30.2\"\ndefault-features = false\nfeatures = [\"rwh_06\"]\n\n[dependencies.raw-window-handle]\nversion = \"0.6\"\nfeatures = [\"alloc\"]\n\n[dependencies.scopeguard]\nversion = \"1.1.0\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-femtovg]\nfeatures = [\"default\"]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/renderers/femtovg\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-skia]\nfeatures = [\"default\"]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/renderers/skia\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-anyrender]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/renderers/anyrender\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-software]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/renderers/software\"\ndefault-features = false\n\n[dependencies.softbuffer]\noptional = true\ndefault-features = false\nversion = \"0.4.4\"\n\n[dependencies.imgref]\nversion = \"1.6.1\"\noptional = true\n\n[dependencies.rgb]\nversion = \"0.8.27\"\noptional = true\n\n[dependencies.bytemuck]\noptional = true\nfeatures = [\"derive\"]\nversion = \"1.13.1\"\n\n[target.\"cfg(any(target_os = \\\"macos\\\", target_family = \\\"windows\\\"))\".dependencies.muda]\nversion = \"0.19.0\"\noptional = true\ndefault-features = false\n\n[target.\"cfg(any(target_os = \\\"macos\\\", target_family = \\\"windows\\\"))\".dependencies.vtable]\nversion = \"0.5\"\npath = \"helper_crates/vtable\"\n\n[target.\"cfg(target_arch = \\\"wasm32\\\")\".dependencies.web-sys]\nfeatures = [\"HtmlInputElement\", \"HtmlCanvasElement\", \"Window\", \"Document\", \"Event\", \"EventTarget\", \"FocusEvent\", \"KeyboardEvent\", \"InputEvent\", \"CompositionEvent\", \"DomStringMap\", \"ClipboardEvent\", \"DataTransfer\", \"Node\", \"WebGlContextEvent\"]\nversion = \"0.3.72\"\ndefault-features = false\n\n[target.\"cfg(target_arch = \\\"wasm32\\\")\".dependencies.wasm-bindgen]\nversion = \"0.2\"\n\n[target.\"cfg(all(not(target_arch = \\\"wasm32\\\"), not(all(target_vendor = \\\"apple\\\", not(target_os = \\\"macos\\\")))))\".dependencies.glutin]\noptional = true\ndefault-features = false\nfeatures = [\"egl\", \"wgl\"]\nversion = \"0.32.0\"\n\n[target.\"cfg(all(not(target_arch = \\\"wasm32\\\"), not(all(target_vendor = \\\"apple\\\", not(target_os = \\\"macos\\\")))))\".dependencies.glutin-winit]\nversion = \"0.5\"\noptional = true\ndefault-features = false\nfeatures = [\"egl\", \"wgl\"]\n\n[target.\"cfg(not(target_arch = \\\"wasm32\\\"))\".dependencies.accesskit]\nversion = \"0.24\"\noptional = true\n\n[target.\"cfg(not(target_arch = \\\"wasm32\\\"))\".dependencies.accesskit_winit]\nversion = \"0.33\"\noptional = true\ndefault-features = false\nfeatures = [\"accesskit_unix\", \"async-io\", \"rwh_06\"]\n\n[target.\"cfg(not(target_arch = \\\"wasm32\\\"))\".dependencies.i-slint-core]\nfeatures = [\"image-decoders\", \"svg\"]\nversion = \"=1.18.1\"\npath = \"internal/core\"\ndefault-features = false\n\n[target.\"cfg(not(any(target_family = \\\"windows\\\", target_vendor = \\\"apple\\\", target_arch = \\\"wasm32\\\", target_os = \\\"android\\\")))\".dependencies.zbus]\nversion = \"5.14.0\"\ndefault-features = false\nfeatures = [\"async-io\"]\n\n[target.\"cfg(not(any(target_family = \\\"windows\\\", target_vendor = \\\"apple\\\", target_arch = \\\"wasm32\\\", target_os = \\\"android\\\")))\".dependencies.futures]\nversion = \"0.3.31\"\n\n[target.\"cfg(not(any(target_family = \\\"windows\\\", target_vendor = \\\"apple\\\", target_arch = \\\"wasm32\\\", target_os = \\\"android\\\")))\".dependencies.arboard]\nversion = \"3.6\"\ndefault-features = false\noptional = true\n\n[target.\"cfg(target_os = \\\"macos\\\")\".dependencies]\nblock2 = \"0.6.2\"\n\n[target.\"cfg(target_os = \\\"macos\\\")\".dependencies.objc2]\nversion = \"0.6.3\"\n\n[target.\"cfg(target_os = \\\"macos\\\")\".dependencies.objc2-app-kit]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"std\", \"NSColor\", \"NSView\", \"NSWindow\", \"NSResponder\", \"objc2-core-foundation\", \"objc2-quartz-core\"]\n\n[target.\"cfg(target_os = \\\"macos\\\")\".dependencies.objc2-foundation]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"std\", \"block2\", \"NSString\", \"NSNotification\", \"NSOperation\", \"NSRunLoop\", \"NSObjCRuntime\", \"NSUserDefaults\"]\n\n[target.\"cfg(target_os = \\\"macos\\\")\".dependencies.objc2-quartz-core]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"CADisplayLink\"]\n\n[target.\"cfg(target_os = \\\"macos\\\")\".dependencies.arboard]\nversion = \"3.6\"\ndefault-features = false\n\n[target.\"cfg(all(target_vendor = \\\"apple\\\", not(target_os = \\\"macos\\\")))\".dependencies.i-slint-renderer-skia]\nfeatures = [\"default\"]\nversion = \"=1.18.1\"\npath = \"internal/renderers/skia\"\ndefault-features = false\n\n[target.\"cfg(target_os = \\\"ios\\\")\".dependencies]\nblock2 = \"0.6.2\"\n\n[target.\"cfg(target_os = \\\"ios\\\")\".dependencies.objc2]\nversion = \"0.6.3\"\n\n[target.\"cfg(target_os = \\\"ios\\\")\".dependencies.objc2-foundation]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"std\", \"block2\", \"NSString\", \"NSNotification\", \"NSOperation\", \"NSGeometry\", \"NSRunLoop\", \"objc2-core-foundation\"]\n\n[target.\"cfg(target_os = \\\"ios\\\")\".dependencies.objc2-ui-kit]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"UIApplication\", \"UIScene\", \"UISceneDefinitions\", \"UISceneOptions\", \"UISceneSession\", \"UIScreen\", \"UIWindow\", \"UIWindowScene\", \"UIView\", \"UIViewAnimating\", \"UIViewPropertyAnimator\", \"UIResponder\", \"UIInterface\", \"UIPasteboard\", \"UITrait\", \"UITraitCollection\", \"UIFont\", \"UIFontDescriptor\", \"objc2-core-foundation\", \"objc2-quartz-core\", \"block2\"]\n\n[target.\"cfg(target_os = \\\"ios\\\")\".dependencies.objc2-quartz-core]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"CADisplayLink\", \"CATransaction\", \"CAFrameRateRange\"]\n\n[target.\"cfg(target_os = \\\"windows\\\")\".dependencies.windows]\nfeatures = [\"Win32_UI_WindowsAndMessaging\", \"Win32_UI_HiDpi\", \"Win32_Graphics_Gdi\", \"Win32_Graphics_Dwm\"]\nversion = \"0.62\"\n\n[target.\"cfg(target_os = \\\"windows\\\")\".dependencies.arboard]\nversion = \"3.6\"\ndefault-features = false\n\n[build-dependencies.cfg_aliases]\nversion = \"0.2.2\"\n\n[dev-dependencies.slint]\npath = \"../../../api/rs/slint\"\ndefault-features = false\nfeatures = [\"std\", \"compat-1-2\", \"backend-winit\", \"renderer-software\", \"raw-window-handle-06\", \"unstable-winit-030\"]\n\n[[test]]\nname = \"menubar_borrow\"\nharness = false\n\n[[test]]\nname = \"hide_from_window_event\"\nharness = false\n\n[[test]]\nname = \"hide_with_external_reference\"\nharness = false\n",
+        "contents": "[package]\nname = \"i-slint-backend-winit\"\ndescription = \"Winit backend for Slint\"\ncategories = [\"gui\", \"wasm\"]\nkeywords = [\"winit\", \"desktop\", \"gui\", \"ui\", \"accessibility\"]\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.95\"\nversion = \"1.19.0\"\nbuild = \"build.rs\"\n\n[package.metadata.docs.rs]\nfeatures = [\"wayland\", \"renderer-software\", \"raw-window-handle-06\"]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\nimage-pixel-format-gray8 = [\"i-slint-core/image-pixel-format-gray8\", \"i-slint-renderer-femtovg?/image-pixel-format-gray8\", \"i-slint-renderer-skia?/image-pixel-format-gray8\", \"i-slint-renderer-software?/image-pixel-format-gray8\", \"i-slint-renderer-anyrender?/image-pixel-format-gray8\"]\nimage-pixel-format-rgb565 = [\"i-slint-core/image-pixel-format-rgb565\", \"i-slint-renderer-femtovg?/image-pixel-format-rgb565\", \"i-slint-renderer-skia?/image-pixel-format-rgb565\", \"i-slint-renderer-software?/image-pixel-format-rgb565\", \"i-slint-renderer-anyrender?/image-pixel-format-rgb565\"]\nwayland = [\"winit/wayland\", \"winit/wayland-csd-adwaita\", \"glutin?/wayland\", \"glutin-winit?/wayland\", \"dep:arboard\", \"dep:smithay-clipboard\", \"i-slint-renderer-skia?/wayland\", \"softbuffer?/wayland\", \"softbuffer?/wayland-dlopen\"]\nx11 = [\"winit/x11\", \"glutin?/x11\", \"glutin?/glx\", \"glutin-winit?/x11\", \"glutin-winit?/glx\", \"dep:arboard\", \"i-slint-renderer-skia?/x11\", \"softbuffer?/x11\", \"softbuffer?/x11-dlopen\"]\nrenderer-femtovg = [\"i-slint-renderer-femtovg/opengl\", \"dep:glutin\", \"dep:glutin-winit\", \"windows/Win32_Graphics_OpenGL\"]\nrenderer-femtovg-wgpu = [\"i-slint-renderer-femtovg/wgpu\", \"dep:i-slint-renderer-femtovg\", \"unstable-wgpu-30\"]\nrenderer-skia = [\"i-slint-renderer-skia/default\"]\nrenderer-vello = [\"dep:i-slint-renderer-anyrender\", \"i-slint-renderer-anyrender/vello\", \"unstable-wgpu-30\"]\nrenderer-skia-opengl = [\"renderer-skia\", \"i-slint-renderer-skia/opengl\"]\nrenderer-skia-vulkan = [\"renderer-skia\", \"i-slint-renderer-skia/vulkan\"]\nrenderer-skia-software = [\"i-slint-renderer-skia/softbuffer\"]\nrenderer-software = [\"dep:softbuffer\", \"dep:imgref\", \"dep:rgb\", \"dep:i-slint-renderer-software\", \"i-slint-renderer-software/std\", \"dep:bytemuck\"]\naccessibility = [\"dep:accesskit\", \"dep:accesskit_winit\", \"i-slint-core/accessibility-text\"]\nraw-window-handle-06 = [\"i-slint-core/raw-window-handle-06\"]\nunstable-wgpu-29 = [\"i-slint-core/unstable-wgpu-29\", \"i-slint-renderer-skia?/unstable-wgpu-29\"]\nunstable-wgpu-30 = [\"i-slint-core/unstable-wgpu-30\", \"i-slint-renderer-femtovg?/unstable-wgpu-30\", \"i-slint-renderer-skia?/unstable-wgpu-30\"]\ndefault = []\n\n[dependencies]\npin-weak = \"1\"\nscoped-tls-hkt = \"0.1\"\nwebbrowser = \"1.2.0\"\n\n[dependencies.i-slint-core]\nfeatures = [\"default\"]\nversion = \"=1.19.0\"\npath = \"internal/core\"\ndefault-features = false\n\n[dependencies.i-slint-core-macros]\nfeatures = [\"default\"]\nversion = \"=1.19.0\"\npath = \"internal/core-macros\"\ndefault-features = false\n\n[dependencies.i-slint-common]\nfeatures = [\"default\"]\nversion = \"=1.19.0\"\npath = \"internal/common\"\ndefault-features = false\n\n[dependencies.lyon_path]\nversion = \"1.0\"\ndefault-features = false\n\n[dependencies.strum]\nversion = \"0.28\"\ndefault-features = false\nfeatures = [\"derive\"]\n\n[dependencies.winit]\nversion = \"0.30.2\"\ndefault-features = false\nfeatures = [\"rwh_06\"]\n\n[dependencies.raw-window-handle]\nversion = \"0.6\"\nfeatures = [\"alloc\"]\n\n[dependencies.scopeguard]\nversion = \"1.1.0\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-femtovg]\nfeatures = [\"default\"]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/renderers/femtovg\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-skia]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/renderers/skia\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-anyrender]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/renderers/anyrender\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-software]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/renderers/software\"\ndefault-features = false\n\n[dependencies.softbuffer]\noptional = true\ndefault-features = false\nversion = \"0.4.4\"\n\n[dependencies.imgref]\nversion = \"1.6.1\"\noptional = true\n\n[dependencies.rgb]\nversion = \"0.8.27\"\noptional = true\n\n[dependencies.bytemuck]\noptional = true\nfeatures = [\"derive\"]\nversion = \"1.13.1\"\n\n[dependencies.itertools]\nversion = \"0.15\"\n\n[target.\"cfg(any(target_os = \\\"macos\\\", target_family = \\\"windows\\\"))\".dependencies.muda]\nversion = \"0.21.1\"\noptional = true\ndefault-features = false\n\n[target.\"cfg(any(target_os = \\\"macos\\\", target_family = \\\"windows\\\"))\".dependencies.vtable]\nversion = \"0.5.1\"\npath = \"helper_crates/vtable\"\n\n[target.\"cfg(target_arch = \\\"wasm32\\\")\".dependencies.web-sys]\nfeatures = [\"HtmlInputElement\", \"HtmlCanvasElement\", \"Window\", \"Document\", \"Event\", \"EventTarget\", \"FocusEvent\", \"KeyboardEvent\", \"InputEvent\", \"CompositionEvent\", \"DomStringMap\", \"ClipboardEvent\", \"DataTransfer\", \"Node\", \"WebGlContextEvent\"]\nversion = \"0.3.72\"\ndefault-features = false\n\n[target.\"cfg(target_arch = \\\"wasm32\\\")\".dependencies.wasm-bindgen]\nversion = \"0.2\"\n\n[target.\"cfg(all(not(target_arch = \\\"wasm32\\\"), not(all(target_vendor = \\\"apple\\\", not(target_os = \\\"macos\\\")))))\".dependencies.glutin]\noptional = true\ndefault-features = false\nfeatures = [\"egl\", \"wgl\"]\nversion = \"0.32.0\"\n\n[target.\"cfg(all(not(target_arch = \\\"wasm32\\\"), not(all(target_vendor = \\\"apple\\\", not(target_os = \\\"macos\\\")))))\".dependencies.glutin-winit]\nversion = \"0.5\"\noptional = true\ndefault-features = false\nfeatures = [\"egl\", \"wgl\"]\n\n[target.\"cfg(not(target_arch = \\\"wasm32\\\"))\".dependencies.accesskit]\nversion = \"0.25\"\noptional = true\n\n[target.\"cfg(not(target_arch = \\\"wasm32\\\"))\".dependencies.accesskit_winit]\nversion = \"0.34\"\noptional = true\ndefault-features = false\nfeatures = [\"accesskit_unix\", \"async-io\", \"rwh_06\"]\n\n[target.\"cfg(not(target_arch = \\\"wasm32\\\"))\".dependencies.i-slint-core]\nfeatures = [\"image-decoders\", \"svg\"]\nversion = \"=1.19.0\"\npath = \"internal/core\"\ndefault-features = false\n\n[target.\"cfg(not(any(target_family = \\\"windows\\\", target_vendor = \\\"apple\\\", target_arch = \\\"wasm32\\\", target_os = \\\"android\\\")))\".dependencies.zbus]\nversion = \"5.14.0\"\ndefault-features = false\nfeatures = [\"async-io\"]\n\n[target.\"cfg(not(any(target_family = \\\"windows\\\", target_vendor = \\\"apple\\\", target_arch = \\\"wasm32\\\", target_os = \\\"android\\\")))\".dependencies.futures]\nversion = \"0.3.31\"\n\n[target.\"cfg(not(any(target_family = \\\"windows\\\", target_vendor = \\\"apple\\\", target_arch = \\\"wasm32\\\", target_os = \\\"android\\\")))\".dependencies.arboard]\nversion = \"3.6\"\ndefault-features = false\noptional = true\n\n[target.\"cfg(not(any(target_family = \\\"windows\\\", target_vendor = \\\"apple\\\", target_arch = \\\"wasm32\\\", target_os = \\\"android\\\")))\".dependencies.smithay-clipboard]\nversion = \"0.7\"\noptional = true\n\n[target.\"cfg(target_os = \\\"macos\\\")\".dependencies]\nblock2 = \"0.6.2\"\n\n[target.\"cfg(target_os = \\\"macos\\\")\".dependencies.objc2]\nversion = \"0.6.3\"\n\n[target.\"cfg(target_os = \\\"macos\\\")\".dependencies.objc2-app-kit]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"std\", \"NSColor\", \"NSEvent\", \"NSView\", \"NSWindow\", \"NSResponder\", \"objc2-core-foundation\", \"objc2-quartz-core\"]\n\n[target.\"cfg(target_os = \\\"macos\\\")\".dependencies.objc2-foundation]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"std\", \"block2\", \"NSString\", \"NSNotification\", \"NSOperation\", \"NSRunLoop\", \"NSObjCRuntime\", \"NSUserDefaults\"]\n\n[target.\"cfg(target_os = \\\"macos\\\")\".dependencies.objc2-quartz-core]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"CADisplayLink\"]\n\n[target.\"cfg(target_os = \\\"macos\\\")\".dependencies.arboard]\nversion = \"3.6\"\ndefault-features = false\n\n[target.\"cfg(all(target_vendor = \\\"apple\\\", not(target_os = \\\"macos\\\")))\".dependencies.i-slint-renderer-skia]\nfeatures = [\"default\"]\nversion = \"=1.19.0\"\npath = \"internal/renderers/skia\"\ndefault-features = false\n\n[target.\"cfg(target_os = \\\"ios\\\")\".dependencies]\nblock2 = \"0.6.2\"\n\n[target.\"cfg(target_os = \\\"ios\\\")\".dependencies.objc2]\nversion = \"0.6.3\"\n\n[target.\"cfg(target_os = \\\"ios\\\")\".dependencies.objc2-foundation]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"std\", \"block2\", \"NSString\", \"NSNotification\", \"NSOperation\", \"NSGeometry\", \"NSRunLoop\", \"objc2-core-foundation\"]\n\n[target.\"cfg(target_os = \\\"ios\\\")\".dependencies.objc2-ui-kit]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"UIApplication\", \"UIScene\", \"UISceneDefinitions\", \"UISceneOptions\", \"UISceneSession\", \"UIScreen\", \"UIWindow\", \"UIWindowScene\", \"UIView\", \"UIViewAnimating\", \"UIViewPropertyAnimator\", \"UIResponder\", \"UIInterface\", \"UIPasteboard\", \"UITrait\", \"UITraitCollection\", \"UIFont\", \"UIFontDescriptor\", \"objc2-core-foundation\", \"objc2-quartz-core\", \"block2\"]\n\n[target.\"cfg(target_os = \\\"ios\\\")\".dependencies.objc2-quartz-core]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"CADisplayLink\", \"CATransaction\", \"CAFrameRateRange\"]\n\n[target.\"cfg(target_os = \\\"windows\\\")\".dependencies.windows]\nfeatures = [\"Win32_UI_Input_KeyboardAndMouse\", \"Win32_UI_WindowsAndMessaging\", \"Win32_UI_Shell\", \"Win32_Graphics_Gdi\", \"Win32_Graphics_Dwm\", \"Win32_System_Threading\"]\nversion = \"0.62\"\n\n[target.\"cfg(target_os = \\\"windows\\\")\".dependencies.arboard]\nversion = \"3.6\"\ndefault-features = false\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dev-dependencies.x11rb]\nversion = \"0.13.2\"\ndefault-features = false\n\n[build-dependencies.cfg_aliases]\nversion = \"0.2.2\"\n\n[dev-dependencies.slint]\npath = \"../../../api/rs/slint\"\ndefault-features = false\nfeatures = [\"std\", \"compat-1-2\", \"backend-winit\", \"renderer-software\", \"raw-window-handle-06\", \"unstable-winit-030\"]\n\n[[test]]\nname = \"menubar_borrow\"\nharness = false\n\n[[test]]\nname = \"hide_from_window_event\"\nharness = false\n\n[[test]]\nname = \"hide_with_external_reference\"\nharness = false\n\n[[test]]\nname = \"redraw_before_reshow\"\nharness = false\n\n[[test]]\nname = \"hidden_window_frame_throttle\"\nharness = false\n\n[[test]]\nname = \"initial_window_icon\"\nharness = false\nrequired-features = [\"x11\", \"renderer-software\"]\n",
         "dest": "cargo/vendor/i-slint-backend-winit",
         "dest-filename": "Cargo.toml"
     },
@@ -3444,12 +3405,12 @@
     {
         "type": "shell",
         "commands": [
-            "cp -r --reflink=auto \"flatpak-cargo/git/slint-552e4dd/internal/common\" \"cargo/vendor/i-slint-common\""
+            "cp -r --reflink=auto \"flatpak-cargo/git/slint-3100296/internal/common\" \"cargo/vendor/i-slint-common\""
         ]
     },
     {
         "type": "inline",
-        "contents": "[package]\nname = \"i-slint-common\"\ndescription = \"Helper crate for sharing code & data structures between i-slint-core and slint-compiler\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\ndocumentation = \"https://slint.dev/docs\"\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.92\"\nversion = \"1.18.1\"\n\n[package.metadata.docs.rs]\nrustdoc-args = [\"--generate-link-to-definition\"]\nall-features = true\n\n[lib]\npath = \"lib.rs\"\n\n[features]\ndefault = []\nshared-fontique = [\"dep:fontique\", \"dep:skrifa\"]\nsvg-text = [\"dep:resvg\"]\ncolor-parsing = []\nfontconfig-dlopen = [\"fontique?/fontconfig-dlopen\"]\nmarkdown = [\"dep:pulldown-cmark\", \"dep:htmlparser\", \"dep:derive_more\", \"color-parsing\"]\nlocale-decimal-separator = [\"dep:icu_decimal\", \"dep:icu_locale_core\", \"dep:icu_provider\"]\n\n[dependencies.fontique]\noptional = true\nversion = \"0.11.1\"\n\n[dependencies.skrifa]\noptional = true\nversion = \"0.44\"\n\n[dependencies.resvg]\noptional = true\nversion = \"0.48.1\"\ndefault-features = false\nfeatures = [\"text\", \"raster-images\", \"svgz\"]\n\n[dependencies.pulldown-cmark]\nversion = \"0.13.0\"\noptional = true\ndefault-features = false\n\n[dependencies.htmlparser]\nversion = \"0.2.1\"\noptional = true\n\n[dependencies.derive_more]\noptional = true\nfeatures = [\"error\", \"display\", \"deref\", \"deref_mut\", \"into\", \"from\", \"add\", \"add_assign\", \"mul\", \"not\", \"display\"]\nversion = \"2.0.0\"\ndefault-features = false\n\n[dependencies.icu_decimal]\nversion = \"2\"\noptional = true\nfeatures = [\"compiled_data\"]\n\n[dependencies.icu_locale_core]\nversion = \"2\"\noptional = true\n\n[dependencies.icu_provider]\nversion = \"2\"\noptional = true\n",
+        "contents": "[package]\nname = \"i-slint-common\"\ndescription = \"Helper crate for sharing code & data structures between i-slint-core and slint-compiler\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\ndocumentation = \"https://slint.dev/docs\"\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.95\"\nversion = \"1.19.0\"\n\n[package.metadata.docs.rs]\nrustdoc-args = [\"--generate-link-to-definition\"]\nall-features = true\n\n[lib]\npath = \"lib.rs\"\n\n[features]\ndefault = []\nshared-fontique = [\"dep:fontique\", \"dep:skrifa\", \"dep:objc2\"]\nsvg-text = [\"dep:resvg\"]\ncolor-parsing = []\nfontconfig-dlopen = [\"fontique?/fontconfig-dlopen\"]\nmarkdown = [\"dep:pulldown-cmark\", \"dep:htmlparser\", \"dep:derive_more\", \"color-parsing\"]\nlocale-decimal-separator = [\"dep:icu_decimal\", \"dep:icu_locale_core\", \"dep:icu_provider\"]\nimage-pixel-format-gray8 = []\nimage-pixel-format-rgb565 = []\nserde = [\"dep:serde\", \"euclid/serde\"]\n\n[dependencies.euclid]\nversion = \"0.22.1\"\ndefault-features = false\n\n[dependencies.fontique]\noptional = true\nversion = \"0.12.0\"\n\n[dependencies.serde]\noptional = true\nfeatures = [\"alloc\", \"derive\"]\nversion = \"1.0.163\"\ndefault-features = false\n\n[dependencies.skrifa]\noptional = true\nversion = \"0.44\"\n\n[dependencies.resvg]\noptional = true\nversion = \"0.49.0\"\ndefault-features = false\nfeatures = [\"text\", \"raster-images\", \"svgz\"]\n\n[dependencies.pulldown-cmark]\nversion = \"0.13.0\"\noptional = true\ndefault-features = false\n\n[dependencies.htmlparser]\nversion = \"0.2.1\"\noptional = true\n\n[dependencies.derive_more]\noptional = true\nfeatures = [\"error\", \"display\", \"deref\", \"deref_mut\", \"into\", \"from\", \"add\", \"add_assign\", \"mul\", \"not\", \"display\"]\nversion = \"2.0.0\"\ndefault-features = false\n\n[dependencies.icu_decimal]\nversion = \"2\"\noptional = true\nfeatures = [\"compiled_data\"]\n\n[dependencies.icu_locale_core]\nversion = \"2\"\noptional = true\n\n[dependencies.icu_provider]\nversion = \"2\"\noptional = true\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.objc2]\noptional = true\nversion = \"0.6.3\"\n",
         "dest": "cargo/vendor/i-slint-common",
         "dest-filename": "Cargo.toml"
     },
@@ -3462,12 +3423,12 @@
     {
         "type": "shell",
         "commands": [
-            "cp -r --reflink=auto \"flatpak-cargo/git/slint-552e4dd/internal/compiler\" \"cargo/vendor/i-slint-compiler\""
+            "cp -r --reflink=auto \"flatpak-cargo/git/slint-3100296/internal/compiler\" \"cargo/vendor/i-slint-compiler\""
         ]
     },
     {
         "type": "inline",
-        "contents": "[package]\nname = \"i-slint-compiler\"\ndescription = \"Internal Slint Compiler Library\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.92\"\nversion = \"1.18.1\"\nbuild = \"build.rs\"\n\n[package.metadata.docs.rs]\nfeatures = [\"renderer-software\", \"display-diagnostics\", \"bundle-translations\", \"cpp\", \"rust\", \"python\", \"experimental-library-module\"]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\ncpp = []\nrust = [\"quote\", \"proc-macro2\"]\npython = [\"dep:pathdiff\", \"dep:serde\", \"smol_str/serde\", \"dep:serde_json\", \"dep:flate2\", \"dep:base64\"]\nbuiltin-docs = []\nslint-sc = [\"quote\", \"proc-macro2\", \"proc-macro2/span-locations\", \"image\"]\nproc_macro_span = [\"quote\", \"proc-macro2\"]\ndisplay-diagnostics = [\"dep:annotate-snippets\"]\nrenderer-software = [\"image\", \"dep:resvg\", \"dep:swash\", \"dep:skrifa\", \"i-slint-common/shared-fontique\", \"i-slint-common/svg-text\", \"dep:rayon\"]\nimage-default-formats = [\"image?/default-formats\"]\nsdf-fonts = [\"renderer-software\", \"dep:fdsm\", \"dep:fdsm-ttf-parser\", \"dep:nalgebra\", \"dep:rayon\"]\nbundle-translations = [\"dep:rspolib\", \"i-slint-common/locale-decimal-separator\"]\nexperimental-library-module = []\ndefault = []\n\n[dependencies]\nnum_enum = \"0.7\"\nlyon_extra = \"1.0.1\"\nurl = \"2.2.1\"\nindexmap = \"2.14\"\ntyped-index-collections = \"3.2\"\ndata-url = \"0.3.2\"\n\n[dependencies.i-slint-common]\nfeatures = [\"default\", \"color-parsing\", \"markdown\"]\nversion = \"=1.18.1\"\npath = \"internal/common\"\ndefault-features = false\n\n[dependencies.icu_normalizer]\nversion = \"2\"\ndefault-features = false\nfeatures = [\"compiled_data\"]\n\n[dependencies.icu_properties]\nversion = \"2.2.0\"\nfeatures = [\"compiled_data\"]\n\n[dependencies.unicode-segmentation]\nversion = \"1.12.0\"\n\n[dependencies.strum]\nversion = \"0.28\"\ndefault-features = false\nfeatures = [\"derive\"]\n\n[dependencies.rowan]\nversion = \"0.17.0\"\n\n[dependencies.smol_str]\nversion = \"0.3.1\"\n\n[dependencies.derive_more]\nversion = \"2.0.0\"\ndefault-features = false\nfeatures = [\"deref\", \"deref_mut\", \"into\", \"from\", \"add\", \"add_assign\", \"mul\", \"not\", \"display\"]\n\n[dependencies.annotate-snippets]\nversion = \"0.12.9\"\noptional = true\n\n[dependencies.quote]\nversion = \"1.0\"\noptional = true\n\n[dependencies.proc-macro2]\nversion = \"1.0.17\"\noptional = true\n\n[dependencies.lyon_path]\nfeatures = [\"std\"]\nversion = \"1.0\"\ndefault-features = false\n\n[dependencies.by_address]\nversion = \"1.0.4\"\n\n[dependencies.itertools]\nversion = \"0.15\"\n\n[dependencies.image]\noptional = true\nversion = \"0.25\"\ndefault-features = false\nfeatures = [\"png\", \"jpeg\"]\n\n[dependencies.resvg]\noptional = true\nversion = \"0.48.1\"\ndefault-features = false\nfeatures = [\"text\", \"raster-images\", \"svgz\"]\n\n[dependencies.swash]\noptional = true\nfeatures = [\"scale\", \"render\", \"std\"]\nversion = \"0.2.7\"\ndefault-features = false\n\n[dependencies.skrifa]\noptional = true\nversion = \"0.44\"\n\n[dependencies.fdsm]\nversion = \"0.8.0\"\noptional = true\n\n[dependencies.fdsm-ttf-parser]\nversion = \"0.2\"\noptional = true\n\n[dependencies.nalgebra]\nversion = \"0.34.0\"\noptional = true\n\n[dependencies.rayon]\noptional = true\nversion = \"1.10.0\"\ndefault-features = false\n\n[dependencies.rspolib]\nversion = \"0.1.2\"\noptional = true\n\n[dependencies.pathdiff]\nversion = \"0.2.3\"\noptional = true\n\n[dependencies.serde]\noptional = true\nversion = \"1.0.163\"\ndefault-features = false\nfeatures = [\"derive\"]\n\n[dependencies.serde_json]\noptional = true\nversion = \"1.0.96\"\n\n[dependencies.flate2]\nversion = \"1.1.5\"\noptional = true\n\n[dependencies.base64]\nversion = \"0.23\"\noptional = true\n\n[dev-dependencies]\nregex = \"1.3.7\"\ndivan = \"0.1.14\"\n\n[dev-dependencies.i-slint-parser-test-macro]\npath = \"./parser-test-macro\"\n\n[dev-dependencies.serde_json]\nversion = \"1.0.96\"\n\n[dev-dependencies.spin_on]\nversion = \"0.1\"\n\n[dev-dependencies.rayon]\nversion = \"1.10.0\"\ndefault-features = false\n\n[[bench]]\nname = \"semantic_analysis\"\nharness = false\nrequired-features = [\"rust\"]\n",
+        "contents": "[package]\nname = \"i-slint-compiler\"\ndescription = \"Internal Slint Compiler Library\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.95\"\nversion = \"1.19.0\"\nbuild = \"build.rs\"\n\n[package.metadata.docs.rs]\nfeatures = [\"renderer-software\", \"display-diagnostics\", \"bundle-translations\", \"cpp\", \"rust\", \"python\", \"typescript\", \"experimental-library-module\"]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\ndefault = [\"std\"]\nstd = [\"i-slint-common/color-parsing\", \"i-slint-common/markdown\", \"dep:num_enum\", \"dep:icu_normalizer\", \"dep:icu_properties\", \"dep:unicode-segmentation\", \"dep:rowan\", \"dep:lyon_path\", \"dep:lyon_extra\", \"dep:by_address\", \"dep:itertools\", \"dep:url\", \"dep:indexmap\", \"dep:serde_json\", \"dep:data-url\", \"once_cell/std\", \"serde/std\", \"smol_str/std\", \"strum/std\", \"typed-index-collections/std\"]\ncpp = [\"std\"]\nrust = [\"std\", \"quote\", \"proc-macro2\", \"dep:syn\"]\npython = [\"std\", \"dep:pathdiff\", \"smol_str/serde\", \"dep:flate2\", \"dep:base64\"]\ntypescript = [\"std\"]\nbuiltin-docs = [\"std\"]\nslint-sc = [\"std\", \"quote\", \"proc-macro2\", \"proc-macro2/span-locations\", \"image\"]\nproc_macro_span = [\"std\", \"quote\", \"proc-macro2\"]\ndisplay-diagnostics = [\"std\", \"dep:annotate-snippets\"]\nrenderer-software = [\"std\", \"image\", \"dep:resvg\", \"dep:swash\", \"dep:skrifa\", \"i-slint-common/shared-fontique\", \"i-slint-common/svg-text\", \"dep:rayon\"]\nimage-default-formats = [\"image?/default-formats\"]\nsdf-fonts = [\"renderer-software\", \"dep:fdsm\", \"dep:fdsm-ttf-parser\", \"dep:nalgebra\", \"dep:rayon\"]\nbundle-translations = [\"std\", \"dep:rspolib\", \"i-slint-common/locale-decimal-separator\"]\nserde = [\"serde/rc\", \"i-slint-common/serde\", \"dep:postcard\", \"either/serde\", \"smol_str/serde\", \"typed-index-collections/serde-alloc\", \"url?/serde\"]\nexperimental-library-module = [\"std\"]\n\n[dependencies.i-slint-common]\nversion = \"=1.19.0\"\npath = \"internal/common\"\ndefault-features = false\n\n[dependencies.num_enum]\nversion = \"0.7\"\noptional = true\n\n[dependencies.icu_normalizer]\noptional = true\nversion = \"2\"\ndefault-features = false\nfeatures = [\"compiled_data\"]\n\n[dependencies.icu_properties]\noptional = true\nversion = \"2\"\nfeatures = [\"compiled_data\"]\n\n[dependencies.unicode-segmentation]\noptional = true\nversion = \"1.12.0\"\n\n[dependencies.strum]\nversion = \"0.28\"\ndefault-features = false\nfeatures = [\"derive\"]\n\n[dependencies.rowan]\nversion = \"0.17.0\"\noptional = true\n\n[dependencies.smol_str]\nversion = \"0.3.1\"\ndefault-features = false\n\n[dependencies.derive_more]\nversion = \"2.0.0\"\ndefault-features = false\nfeatures = [\"deref\", \"deref_mut\", \"into\", \"from\", \"add\", \"add_assign\", \"mul\", \"not\", \"display\"]\n\n[dependencies.annotate-snippets]\nversion = \"0.12.9\"\noptional = true\n\n[dependencies.quote]\nversion = \"1.0\"\noptional = true\n\n[dependencies.proc-macro2]\nversion = \"1.0.17\"\noptional = true\n\n[dependencies.syn]\nversion = \"3.0\"\noptional = true\ndefault-features = false\nfeatures = [\"derive\", \"parsing\", \"printing\"]\n\n[dependencies.lyon_path]\noptional = true\nfeatures = [\"std\"]\nversion = \"1.0\"\ndefault-features = false\n\n[dependencies.lyon_extra]\nversion = \"1.0.1\"\noptional = true\n\n[dependencies.by_address]\noptional = true\nversion = \"1.0.4\"\n\n[dependencies.itertools]\noptional = true\nversion = \"0.15\"\n\n[dependencies.url]\nversion = \"2.2.1\"\noptional = true\n\n[dependencies.indexmap]\nversion = \"2.14\"\noptional = true\n\n[dependencies.typed-index-collections]\nfeatures = [\"alloc\"]\nversion = \"3.2\"\ndefault-features = false\n\n[dependencies.either]\nversion = \"1.13\"\ndefault-features = false\n\n[dependencies.once_cell]\nversion = \"1.5\"\ndefault-features = false\nfeatures = [\"critical-section\"]\n\n[dependencies.image]\noptional = true\nversion = \"0.25.10\"\ndefault-features = false\nfeatures = [\"png\", \"jpeg\"]\n\n[dependencies.resvg]\noptional = true\nversion = \"0.49.0\"\ndefault-features = false\nfeatures = [\"text\", \"raster-images\", \"svgz\"]\n\n[dependencies.swash]\noptional = true\nfeatures = [\"scale\", \"render\", \"std\"]\nversion = \"0.2.7\"\ndefault-features = false\n\n[dependencies.skrifa]\noptional = true\nversion = \"0.44\"\n\n[dependencies.fdsm]\nversion = \"0.8.0\"\noptional = true\n\n[dependencies.fdsm-ttf-parser]\nversion = \"0.2\"\noptional = true\n\n[dependencies.nalgebra]\nversion = \"0.34.0\"\noptional = true\n\n[dependencies.rayon]\noptional = true\nversion = \"1.10.0\"\ndefault-features = false\n\n[dependencies.rspolib]\nversion = \"0.1.2\"\noptional = true\n\n[dependencies.pathdiff]\nversion = \"0.2.3\"\noptional = true\n\n[dependencies.serde]\nfeatures = [\"alloc\", \"derive\"]\nversion = \"1.0.163\"\ndefault-features = false\n\n[dependencies.serde_json]\noptional = true\nversion = \"1.0.96\"\n\n[dependencies.postcard]\nversion = \"1.1.3\"\ndefault-features = false\nfeatures = [\"alloc\"]\noptional = true\n\n[dependencies.flate2]\nversion = \"1.1.5\"\noptional = true\n\n[dependencies.base64]\nversion = \"0.23\"\noptional = true\n\n[dependencies.data-url]\nversion = \"0.3.2\"\noptional = true\n\n[dev-dependencies]\nregex = \"1.3.7\"\ndivan = \"0.1.14\"\n\n[dev-dependencies.i-slint-parser-test-macro]\npath = \"./parser-test-macro\"\n\n[dev-dependencies.serde_json]\nversion = \"1.0.96\"\n\n[dev-dependencies.spin_on]\nversion = \"0.1\"\n\n[dev-dependencies.rayon]\nversion = \"1.10.0\"\ndefault-features = false\n\n[[bench]]\nname = \"semantic_analysis\"\nharness = false\nrequired-features = [\"rust\"]\n",
         "dest": "cargo/vendor/i-slint-compiler",
         "dest-filename": "Cargo.toml"
     },
@@ -3480,12 +3441,12 @@
     {
         "type": "shell",
         "commands": [
-            "cp -r --reflink=auto \"flatpak-cargo/git/slint-552e4dd/internal/core\" \"cargo/vendor/i-slint-core\""
+            "cp -r --reflink=auto \"flatpak-cargo/git/slint-3100296/internal/core\" \"cargo/vendor/i-slint-core\""
         ]
     },
     {
         "type": "inline",
-        "contents": "[package]\nname = \"i-slint-core\"\ndescription = \"Internal Slint Runtime Library.\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\ndocumentation = \"https://slint.dev/docs\"\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nkeywords = [\"gui\", \"toolkit\", \"graphics\", \"design\", \"ui\"]\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.92\"\nversion = \"1.18.1\"\ncategories = [\"gui\", \"development-tools\", \"no-std\"]\n\n[package.metadata.docs.rs]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\nffi = [\"dep:static_assertions\", \"i-slint-core-macros/ffi\"]\nlibm = [\"num-traits/libm\", \"euclid/libm\"]\nrtti = []\nstd = [\"euclid/std\", \"once_cell/std\", \"dep:web-time\", \"path\", \"raw-window-handle-06?/std\", \"chrono/std\", \"chrono/wasmbind\", \"chrono/clock\", \"dep:sys-locale\", \"shared-fontique\", \"i-slint-common/locale-decimal-separator\", \"i-slint-common/color-parsing\", \"i-slint-common/markdown\", \"taffy/std\"]\nunsafe-single-threaded = []\nunicode = [\"unicode-script\", \"unicode-linebreak\"]\nimage-decoders = [\"dep:image\", \"dep:clru\"]\nimage-default-formats = [\"image?/default-formats\"]\nsvg = [\"dep:resvg\", \"i-slint-common/svg-text\"]\nbox-shadow-cache = []\ntesting = []\nshared-fontique = [\"i-slint-common/shared-fontique\"]\nraw-window-handle-06 = [\"dep:raw-window-handle-06\"]\nwgpu-29 = [\"dep:wgpu-29\"]\nwgpu-30 = [\"dep:wgpu-30\"]\nunstable-wgpu-29 = [\"wgpu-29\"]\nunstable-wgpu-30 = [\"wgpu-30\"]\nlog = [\"dep:log\"]\ntr = [\"dep:tr\"]\n32-bit-color = []\ndefault = [\"std\", \"unicode\", \"shared-parley\"]\nsystem-tray = [\"dep:ksni\", \"dep:async-channel\", \"ksni/async-io\", \"ksni/blocking\"]\nshared-parley = [\"shared-fontique\", \"dep:parley\", \"dep:skrifa\", \"dep:icu_normalizer\"]\naccessibility-text = [\"std\", \"shared-parley\", \"dep:accesskit\", \"parley?/accesskit\"]\nshared-swash = [\"dep:swash\"]\npath = [\"dep:lyon_path\", \"dep:lyon_geom\", \"dep:lyon_algorithms\", \"dep:lyon_extra\"]\n\n[dependencies]\ncfg-if = \"1\"\npin-project = \"1\"\nrgb = \"0.8.27\"\n\n[dependencies.i-slint-common]\nfeatures = [\"default\"]\nversion = \"=1.18.1\"\npath = \"internal/common\"\ndefault-features = false\n\n[dependencies.i-slint-core-macros]\nfeatures = [\"default\"]\nversion = \"=1.18.1\"\npath = \"internal/core-macros\"\ndefault-features = false\n\n[dependencies.const-field-offset]\nversion = \"0.2.1\"\npath = \"../../helper_crates/const-field-offset\"\n\n[dependencies.vtable]\nversion = \"0.5\"\npath = \"helper_crates/vtable\"\n\n[dependencies.portable-atomic]\nversion = \"1\"\nfeatures = [\"critical-section\"]\n\n[dependencies.derive_more]\nfeatures = [\"error\", \"deref\", \"deref_mut\", \"deref\", \"deref_mut\", \"into\", \"from\", \"add\", \"add_assign\", \"mul\", \"not\", \"display\"]\nversion = \"2.0.0\"\ndefault-features = false\n\n[dependencies.euclid]\nversion = \"0.22.1\"\ndefault-features = false\n\n[dependencies.lyon_algorithms]\nversion = \"1.0\"\noptional = true\ndefault-features = false\n\n[dependencies.lyon_geom]\nversion = \"1.0\"\noptional = true\ndefault-features = false\n\n[dependencies.lyon_path]\noptional = true\ndefault-features = false\nversion = \"1.0\"\n\n[dependencies.lyon_extra]\nversion = \"1.1\"\noptional = true\ndefault-features = false\n\n[dependencies.num-traits]\nversion = \"0.2\"\ndefault-features = false\n\n[dependencies.once_cell]\nversion = \"1.5\"\ndefault-features = false\nfeatures = [\"critical-section\"]\n\n[dependencies.pin-weak]\nversion = \"1.1\"\ndefault-features = false\n\n[dependencies.scopeguard]\nversion = \"1.1.0\"\ndefault-features = false\n\n[dependencies.slab]\nversion = \"0.4.3\"\ndefault-features = false\n\n[dependencies.static_assertions]\nversion = \"1.1\"\noptional = true\n\n[dependencies.strum]\nversion = \"0.28\"\ndefault-features = false\nfeatures = [\"derive\"]\n\n[dependencies.log]\noptional = true\nversion = \"0.4.17\"\n\n[dependencies.unicode-segmentation]\nversion = \"1.12.0\"\n\n[dependencies.unicode-linebreak]\nversion = \"0.1.5\"\noptional = true\n\n[dependencies.unicode-script]\nversion = \"0.5.7\"\noptional = true\n\n[dependencies.icu_normalizer]\noptional = true\nversion = \"2\"\ndefault-features = false\nfeatures = [\"compiled_data\"]\n\n[dependencies.sys-locale]\nversion = \"0.3.2\"\noptional = true\nfeatures = [\"js\"]\n\n[dependencies.accesskit]\nversion = \"0.24\"\noptional = true\n\n[dependencies.image]\noptional = true\ndefault-features = false\nversion = \"0.25\"\nfeatures = [\"png\", \"jpeg\"]\n\n[dependencies.clru]\noptional = true\nversion = \"0.6.0\"\n\n[dependencies.resvg]\noptional = true\nversion = \"0.48.1\"\ndefault-features = false\nfeatures = [\"text\", \"raster-images\", \"svgz\"]\n\n[dependencies.serde]\noptional = true\nversion = \"1.0.163\"\ndefault-features = false\nfeatures = [\"derive\"]\n\n[dependencies.raw-window-handle-06]\noptional = true\npackage = \"raw-window-handle\"\nversion = \"0.6\"\nfeatures = [\"alloc\"]\n\n[dependencies.bitflags]\nversion = \"2.4.2\"\n\n[dependencies.chrono]\nversion = \"0.4\"\ndefault-features = false\nfeatures = [\"alloc\"]\n\n[dependencies.skrifa]\noptional = true\nversion = \"0.44\"\n\n[dependencies.swash]\noptional = true\nfeatures = [\"scale\"]\nversion = \"0.2.7\"\ndefault-features = false\n\n[dependencies.wgpu-29]\noptional = true\npackage = \"wgpu\"\nversion = \"29.0.4\"\ndefault-features = false\n\n[dependencies.wgpu-30]\noptional = true\npackage = \"wgpu\"\nversion = \"30\"\ndefault-features = false\n\n[dependencies.tr]\noptional = true\nversion = \"0.1\"\ndefault-features = false\n\n[dependencies.taffy]\nversion = \"0.10\"\ndefault-features = false\nfeatures = [\"flexbox\", \"taffy_tree\", \"alloc\"]\n\n[target.\"cfg(target_family = \\\"unix\\\")\".dependencies.gettext-rs]\nversion = \"0.7.1\"\noptional = true\nfeatures = [\"gettext-system\"]\n\n[target.\"cfg(target_os = \\\"macos\\\")\".dependencies.objc2]\nversion = \"0.6.3\"\n\n[target.\"cfg(target_os = \\\"macos\\\")\".dependencies.objc2-app-kit]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"std\", \"NSStatusBar\", \"NSStatusItem\", \"NSStatusBarButton\", \"NSButton\", \"NSControl\", \"NSResponder\", \"NSView\", \"NSImage\", \"NSMenu\", \"NSMenuItem\", \"NSApplication\", \"NSAppearance\", \"objc2-core-foundation\"]\n\n[target.\"cfg(target_os = \\\"macos\\\")\".dependencies.objc2-foundation]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"std\", \"NSArray\", \"NSData\", \"NSDictionary\", \"NSKeyValueObserving\", \"NSString\", \"NSGeometry\", \"NSObjCRuntime\"]\n\n[target.\"cfg(target_os = \\\"macos\\\")\".dependencies.image]\ndefault-features = false\nfeatures = [\"png\", \"png\", \"jpeg\"]\nversion = \"0.25\"\n\n[target.\"cfg(target_os = \\\"windows\\\")\".dependencies.windows]\nfeatures = [\"Win32_Foundation\", \"Win32_Graphics_Gdi\", \"Win32_System_LibraryLoader\", \"Win32_UI_Shell\", \"Win32_UI_WindowsAndMessaging\"]\nversion = \"0.62\"\n\n[target.\"cfg(all(target_family = \\\"unix\\\", not(target_vendor = \\\"apple\\\"), not(target_os = \\\"android\\\")))\".dependencies.ksni]\nversion = \"0.3.3\"\noptional = true\ndefault-features = false\n\n[target.\"cfg(all(target_family = \\\"unix\\\", not(target_vendor = \\\"apple\\\"), not(target_os = \\\"android\\\")))\".dependencies.async-channel]\nversion = \"2\"\noptional = true\n\n[target.\"cfg(not(target_arch = \\\"wasm32\\\"))\".dependencies.parley]\nversion = \"0.11.1\"\noptional = true\nfeatures = [\"complex-scripts\"]\n\n[target.\"cfg(target_arch = \\\"wasm32\\\")\".dependencies.parley]\nversion = \"0.11.1\"\noptional = true\n\n[target.\"cfg(target_arch = \\\"wasm32\\\")\".dependencies.web-time]\nversion = \"1.0\"\noptional = true\n\n[target.\"cfg(target_arch = \\\"wasm32\\\")\".dependencies.wasm-bindgen]\nversion = \"0.2\"\n\n[target.\"cfg(target_arch = \\\"wasm32\\\")\".dependencies.js-sys]\nversion = \"0.3\"\ndefault-features = false\nfeatures = [\"std\"]\n\n[target.\"cfg(target_arch = \\\"wasm32\\\")\".dependencies.clru]\nversion = \"0.6.0\"\n\n[target.\"cfg(target_arch = \\\"wasm32\\\")\".dependencies.web-sys]\nfeatures = [\"HtmlImageElement\", \"Navigator\", \"Blob\", \"BlobPropertyBag\", \"Url\", \"DomParser\", \"SupportedType\", \"Document\", \"Element\"]\nversion = \"0.3.72\"\ndefault-features = false\n\n[dev-dependencies]\ntiny-skia = \"0.12.0\"\ncriterion = \"0.8\"\n\n[dev-dependencies.slint]\npath = \"../../api/rs/slint\"\ndefault-features = false\nfeatures = [\"std\", \"compat-1-2\", \"renderer-software\"]\n\n[dev-dependencies.i-slint-backend-testing]\npath = \"../backends/testing\"\nfeatures = [\"internal\"]\n\n[dev-dependencies.rustybuzz]\nversion = \"0.20.0\"\n\n[dev-dependencies.ttf-parser]\nversion = \"0.25\"\n\n[dev-dependencies.serde_json]\nversion = \"1.0.96\"\n\n[dev-dependencies.tokio]\nversion = \"1.35\"\nfeatures = [\"rt-multi-thread\", \"macros\", \"time\", \"net\", \"io-util\"]\n\n[dev-dependencies.async-compat]\nversion = \"0.2.4\"\n\n[dev-dependencies.tempfile]\nversion = \"3.12.0\"\n\n[dev-dependencies.fontique]\nversion = \"0.11.1\"\n\n[lints.rust.unexpected_cfgs]\nlevel = \"warn\"\ncheck-cfg = [\"cfg(slint_debug_property)\", \"cfg(cbindgen)\", \"cfg(slint_int_coord)\", \"cfg(slint_nightly_test)\"]\n\n[lints.clippy.unnecessary_cast]\nlevel = \"allow\"\n\n[[bench]]\nname = \"string\"\nharness = false\n",
+        "contents": "[package]\nname = \"i-slint-core\"\ndescription = \"Internal Slint Runtime Library.\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\ndocumentation = \"https://slint.dev/docs\"\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nkeywords = [\"gui\", \"ui\", \"runtime\"]\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.95\"\nversion = \"1.19.0\"\ncategories = [\"gui\", \"development-tools\", \"no-std\"]\n\n[package.metadata.docs.rs]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\nffi = [\"dep:static_assertions\", \"i-slint-core-macros/ffi\"]\nlibm = [\"num-traits/libm\", \"euclid/libm\"]\nrtti = []\nstd = [\"euclid/std\", \"once_cell/std\", \"dep:web-time\", \"path\", \"raw-window-handle-06?/std\", \"chrono/std\", \"chrono/wasmbind\", \"chrono/clock\", \"dep:sys-locale\", \"shared-fontique\", \"i-slint-common/locale-decimal-separator\", \"i-slint-common/color-parsing\", \"i-slint-common/markdown\", \"taffy/std\"]\nunsafe-single-threaded = []\nunicode = [\"unicode-script\", \"unicode-linebreak\"]\nimage-decoders = [\"dep:image\", \"dep:clru\"]\nimage-default-formats = [\"image?/default-formats\"]\nsvg = [\"dep:resvg\", \"i-slint-common/svg-text\"]\nimage-pixel-format-rgb565 = [\"i-slint-common/image-pixel-format-rgb565\"]\nimage-pixel-format-gray8 = [\"i-slint-common/image-pixel-format-gray8\"]\nowned-pre-rendered-resources = []\nbox-shadow-cache = []\ntesting = []\nshared-fontique = [\"i-slint-common/shared-fontique\"]\nraw-window-handle-06 = [\"dep:raw-window-handle-06\"]\nwgpu-29 = [\"dep:wgpu-29\"]\nwgpu-30 = [\"dep:wgpu-30\"]\nunstable-wgpu-29 = [\"wgpu-29\"]\nunstable-wgpu-30 = [\"wgpu-30\"]\nlog = [\"dep:log\"]\ntr = [\"dep:tr\"]\n32-bit-color = []\ndefault = [\"std\", \"unicode\", \"shared-parley\"]\nsystem-tray = [\"dep:ksni\", \"dep:async-channel\", \"ksni/async-io\", \"ksni/blocking\"]\nshared-parley = [\"shared-fontique\", \"dep:parley\", \"dep:skrifa\", \"dep:icu_normalizer\"]\naccessibility-text = [\"std\", \"shared-parley\", \"dep:accesskit\"]\nshared-swash = [\"dep:swash\"]\npath = [\"dep:lyon_path\", \"dep:lyon_geom\", \"dep:lyon_algorithms\", \"dep:lyon_extra\"]\n\n[dependencies]\npin-project = \"1\"\nrgb = \"0.8.27\"\n\n[dependencies.i-slint-common]\nfeatures = [\"default\"]\nversion = \"=1.19.0\"\npath = \"internal/common\"\ndefault-features = false\n\n[dependencies.i-slint-core-macros]\nfeatures = [\"default\"]\nversion = \"=1.19.0\"\npath = \"internal/core-macros\"\ndefault-features = false\n\n[dependencies.const-field-offset]\nversion = \"0.2.1\"\npath = \"../../helper_crates/const-field-offset\"\n\n[dependencies.vtable]\nversion = \"0.5.1\"\npath = \"helper_crates/vtable\"\n\n[dependencies.portable-atomic]\nversion = \"1\"\nfeatures = [\"critical-section\"]\n\n[dependencies.bytemuck]\nfeatures = [\"derive\"]\nversion = \"1.13.1\"\n\n[dependencies.derive_more]\nfeatures = [\"error\", \"deref\", \"deref_mut\", \"deref\", \"deref_mut\", \"into\", \"from\", \"add\", \"add_assign\", \"mul\", \"not\", \"display\"]\nversion = \"2.0.0\"\ndefault-features = false\n\n[dependencies.euclid]\nversion = \"0.22.1\"\ndefault-features = false\n\n[dependencies.lyon_algorithms]\nversion = \"1.0\"\noptional = true\ndefault-features = false\n\n[dependencies.lyon_geom]\nversion = \"1.0\"\noptional = true\ndefault-features = false\n\n[dependencies.lyon_path]\noptional = true\ndefault-features = false\nversion = \"1.0\"\n\n[dependencies.lyon_extra]\nversion = \"1.1\"\noptional = true\ndefault-features = false\n\n[dependencies.num-traits]\nversion = \"0.2\"\ndefault-features = false\n\n[dependencies.once_cell]\nversion = \"1.5\"\ndefault-features = false\nfeatures = [\"critical-section\"]\n\n[dependencies.pin-weak]\nversion = \"1.1\"\ndefault-features = false\n\n[dependencies.scopeguard]\nversion = \"1.1.0\"\ndefault-features = false\n\n[dependencies.slab]\nversion = \"0.4.3\"\ndefault-features = false\n\n[dependencies.static_assertions]\nversion = \"1.1\"\noptional = true\n\n[dependencies.strum]\nversion = \"0.28\"\ndefault-features = false\nfeatures = [\"derive\"]\n\n[dependencies.log]\noptional = true\nversion = \"0.4.17\"\n\n[dependencies.unicode-segmentation]\nversion = \"1.12.0\"\n\n[dependencies.unicode-linebreak]\nversion = \"0.1.5\"\noptional = true\n\n[dependencies.unicode-script]\nversion = \"0.5.7\"\noptional = true\n\n[dependencies.icu_normalizer]\noptional = true\nversion = \"2\"\ndefault-features = false\nfeatures = [\"compiled_data\"]\n\n[dependencies.sys-locale]\nversion = \"0.3.2\"\noptional = true\nfeatures = [\"js\"]\n\n[dependencies.accesskit]\nversion = \"0.25\"\noptional = true\n\n[dependencies.image]\noptional = true\ndefault-features = false\nversion = \"0.25.10\"\nfeatures = [\"png\", \"jpeg\"]\n\n[dependencies.clru]\noptional = true\nversion = \"0.6.0\"\n\n[dependencies.resvg]\noptional = true\nversion = \"0.49.0\"\ndefault-features = false\nfeatures = [\"text\", \"raster-images\", \"svgz\"]\n\n[dependencies.serde]\noptional = true\nversion = \"1.0.163\"\ndefault-features = false\nfeatures = [\"derive\"]\n\n[dependencies.raw-window-handle-06]\noptional = true\npackage = \"raw-window-handle\"\nversion = \"0.6\"\nfeatures = [\"alloc\"]\n\n[dependencies.bitflags]\nversion = \"2.4.2\"\n\n[dependencies.chrono]\nversion = \"0.4\"\ndefault-features = false\nfeatures = [\"alloc\"]\n\n[dependencies.skrifa]\noptional = true\nversion = \"0.44\"\n\n[dependencies.swash]\noptional = true\nfeatures = [\"scale\"]\nversion = \"0.2.7\"\ndefault-features = false\n\n[dependencies.wgpu-29]\noptional = true\npackage = \"wgpu\"\nversion = \"29.0.4\"\ndefault-features = false\n\n[dependencies.wgpu-30]\noptional = true\npackage = \"wgpu\"\nversion = \"30\"\ndefault-features = false\n\n[dependencies.tr]\noptional = true\nversion = \"0.1\"\ndefault-features = false\n\n[dependencies.taffy]\nversion = \"0.15\"\ndefault-features = false\nfeatures = [\"flexbox\", \"taffy_tree\", \"alloc\"]\n\n[target.\"cfg(target_family = \\\"unix\\\")\".dependencies.gettext-rs]\nversion = \"0.8.0\"\noptional = true\nfeatures = [\"gettext-system\"]\n\n[target.\"cfg(target_os = \\\"macos\\\")\".dependencies.objc2]\nversion = \"0.6.3\"\n\n[target.\"cfg(target_os = \\\"macos\\\")\".dependencies.objc2-app-kit]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"std\", \"NSStatusBar\", \"NSStatusItem\", \"NSStatusBarButton\", \"NSButton\", \"NSControl\", \"NSResponder\", \"NSView\", \"NSImage\", \"NSMenu\", \"NSMenuItem\", \"NSApplication\", \"NSAppearance\", \"objc2-core-foundation\"]\n\n[target.\"cfg(target_os = \\\"macos\\\")\".dependencies.objc2-foundation]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"std\", \"NSArray\", \"NSData\", \"NSDictionary\", \"NSKeyValueObserving\", \"NSString\", \"NSGeometry\", \"NSObjCRuntime\"]\n\n[target.\"cfg(target_os = \\\"macos\\\")\".dependencies.image]\ndefault-features = false\nfeatures = [\"png\", \"png\", \"jpeg\"]\nversion = \"0.25.10\"\n\n[target.\"cfg(target_os = \\\"windows\\\")\".dependencies.windows]\nfeatures = [\"Win32_Foundation\", \"Win32_Graphics_Gdi\", \"Win32_System_LibraryLoader\", \"Win32_UI_Shell\", \"Win32_UI_WindowsAndMessaging\"]\nversion = \"0.62\"\n\n[target.\"cfg(all(target_family = \\\"unix\\\", not(target_vendor = \\\"apple\\\"), not(target_os = \\\"android\\\")))\".dependencies.ksni]\nversion = \"0.3.4\"\noptional = true\ndefault-features = false\n\n[target.\"cfg(all(target_family = \\\"unix\\\", not(target_vendor = \\\"apple\\\"), not(target_os = \\\"android\\\")))\".dependencies.async-channel]\nversion = \"2\"\noptional = true\n\n[target.\"cfg(not(target_arch = \\\"wasm32\\\"))\".dependencies.parley]\nversion = \"0.12.0\"\noptional = true\nfeatures = [\"bytemuck\", \"complex-scripts\"]\n\n[target.\"cfg(target_arch = \\\"wasm32\\\")\".dependencies.parley]\nversion = \"0.12.0\"\noptional = true\nfeatures = [\"bytemuck\"]\n\n[target.\"cfg(target_arch = \\\"wasm32\\\")\".dependencies.web-time]\nversion = \"1.0\"\noptional = true\n\n[target.\"cfg(all(target_arch = \\\"wasm32\\\", not(target_os = \\\"emscripten\\\")))\".dependencies.wasm-bindgen]\nversion = \"0.2\"\n\n[target.\"cfg(all(target_arch = \\\"wasm32\\\", not(target_os = \\\"emscripten\\\")))\".dependencies.js-sys]\nversion = \"0.3\"\ndefault-features = false\nfeatures = [\"std\"]\n\n[target.\"cfg(all(target_arch = \\\"wasm32\\\", not(target_os = \\\"emscripten\\\")))\".dependencies.clru]\nversion = \"0.6.0\"\n\n[target.\"cfg(all(target_arch = \\\"wasm32\\\", not(target_os = \\\"emscripten\\\")))\".dependencies.web-sys]\nfeatures = [\"HtmlImageElement\", \"Navigator\", \"Blob\", \"BlobPropertyBag\", \"Url\", \"DomParser\", \"SupportedType\", \"Document\", \"Element\", \"WebGlTexture\"]\nversion = \"0.3.72\"\ndefault-features = false\n\n[dev-dependencies]\ntiny-skia = \"0.12.0\"\n\n[dev-dependencies.slint]\npath = \"../../api/rs/slint\"\ndefault-features = false\nfeatures = [\"std\", \"compat-1-2\", \"renderer-software\", \"image-pixel-format-rgb565\", \"image-pixel-format-gray8\"]\n\n[dev-dependencies.i-slint-backend-testing]\npath = \"../backends/testing\"\nfeatures = [\"internal\"]\n\n[dev-dependencies.rustybuzz]\nversion = \"0.20.0\"\n\n[dev-dependencies.ttf-parser]\nversion = \"0.25\"\n\n[dev-dependencies.serde_json]\nversion = \"1.0.96\"\n\n[dev-dependencies.tokio]\nversion = \"1.35\"\nfeatures = [\"rt-multi-thread\", \"macros\", \"time\", \"net\", \"io-util\"]\n\n[dev-dependencies.async-compat]\nversion = \"0.2.4\"\n\n[dev-dependencies.tempfile]\nversion = \"3.12.0\"\n\n[dev-dependencies.fontique]\nversion = \"0.12.0\"\n\n[lints.rust.unexpected_cfgs]\nlevel = \"warn\"\ncheck-cfg = [\"cfg(slint_debug_property)\", \"cfg(cbindgen)\", \"cfg(slint_int_coord)\", \"cfg(slint_nightly_test)\"]\n\n[lints.clippy.unnecessary_cast]\nlevel = \"allow\"\n",
         "dest": "cargo/vendor/i-slint-core",
         "dest-filename": "Cargo.toml"
     },
@@ -3498,12 +3459,12 @@
     {
         "type": "shell",
         "commands": [
-            "cp -r --reflink=auto \"flatpak-cargo/git/slint-552e4dd/internal/core-macros\" \"cargo/vendor/i-slint-core-macros\""
+            "cp -r --reflink=auto \"flatpak-cargo/git/slint-3100296/internal/core-macros\" \"cargo/vendor/i-slint-core-macros\""
         ]
     },
     {
         "type": "inline",
-        "contents": "[package]\nname = \"i-slint-core-macros\"\ndescription = \"Helper macro for i-slint-core\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.92\"\nversion = \"1.18.1\"\n\n[package.metadata.docs.rs]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[features]\ndefault = []\nffi = []\n\n[lib]\nproc-macro = true\npath = \"lib.rs\"\n\n[dependencies]\nquote = \"1.0\"\n\n[dependencies.syn]\nversion = \"3.0\"\nfeatures = [\"full\", \"visit-mut\"]\n\n[dependencies.serde_json]\nversion = \"1.0.96\"\n",
+        "contents": "[package]\nname = \"i-slint-core-macros\"\ndescription = \"Helper macro for i-slint-core\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.95\"\nversion = \"1.19.0\"\n\n[package.metadata.docs.rs]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[features]\ndefault = []\nffi = []\n\n[lib]\nproc-macro = true\npath = \"lib.rs\"\n\n[dependencies]\nquote = \"1.0\"\n\n[dependencies.syn]\nversion = \"3.0\"\nfeatures = [\"full\", \"visit-mut\"]\n\n[dependencies.serde_json]\nversion = \"1.0.96\"\n",
         "dest": "cargo/vendor/i-slint-core-macros",
         "dest-filename": "Cargo.toml"
     },
@@ -3516,12 +3477,12 @@
     {
         "type": "shell",
         "commands": [
-            "cp -r --reflink=auto \"flatpak-cargo/git/slint-552e4dd/internal/renderers/femtovg\" \"cargo/vendor/i-slint-renderer-femtovg\""
+            "cp -r --reflink=auto \"flatpak-cargo/git/slint-3100296/internal/renderers/femtovg\" \"cargo/vendor/i-slint-renderer-femtovg\""
         ]
     },
     {
         "type": "inline",
-        "contents": "[package]\nname = \"i-slint-renderer-femtovg\"\ndescription = \"FemtoVG based renderer for Slint\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.92\"\nversion = \"1.18.1\"\n\n[package.metadata.docs.rs]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\ndefault = []\nopengl = []\nwgpu = [\"wgpu-30\"]\nwgpu-30 = [\"dep:wgpu-30\", \"femtovg/wgpu\", \"i-slint-core/wgpu-30\"]\nunstable-wgpu-30 = [\"wgpu-30\", \"i-slint-core/unstable-wgpu-30\"]\n\n[dependencies]\ncfg-if = \"1\"\npin-weak = \"1\"\n\n[dependencies.i-slint-core]\nfeatures = [\"default\", \"box-shadow-cache\", \"shared-fontique\", \"shared-parley\"]\nversion = \"=1.18.1\"\npath = \"internal/core\"\ndefault-features = false\n\n[dependencies.i-slint-core-macros]\nfeatures = [\"default\"]\nversion = \"=1.18.1\"\npath = \"internal/core-macros\"\ndefault-features = false\n\n[dependencies.i-slint-common]\nfeatures = [\"default\", \"shared-fontique\"]\nversion = \"=1.18.1\"\npath = \"internal/common\"\ndefault-features = false\n\n[dependencies.const-field-offset]\nversion = \"0.2.1\"\npath = \"../../../helper_crates/const-field-offset\"\n\n[dependencies.lyon_path]\nversion = \"1.0\"\ndefault-features = false\n\n[dependencies.femtovg]\nversion = \"0.27\"\ndefault-features = false\nfeatures = [\"swash\"]\n\n[dependencies.imgref]\nversion = \"1.6.1\"\n\n[dependencies.rgb]\nversion = \"0.8.27\"\n\n[dependencies.glow]\nversion = \"0.18\"\n\n[dependencies.wgpu-30]\noptional = true\ndefault-features = false\npackage = \"wgpu\"\nversion = \"30\"\n\n[target.\"cfg(target_arch = \\\"wasm32\\\")\".dependencies.web-sys]\nfeatures = [\"console\", \"WebGlContextAttributes\", \"CanvasRenderingContext2d\", \"HtmlInputElement\", \"HtmlCanvasElement\", \"Window\", \"Document\"]\nversion = \"0.3.72\"\ndefault-features = false\n\n[target.\"cfg(target_arch = \\\"wasm32\\\")\".dependencies.wasm-bindgen]\nversion = \"0.2\"\n\n[target.\"cfg(target_arch = \\\"wasm32\\\")\".dependencies.wgpu-30]\noptional = true\nfeatures = [\"webgl\"]\npackage = \"wgpu\"\nversion = \"30\"\ndefault-features = false\n\n[target.\"cfg(not(target_arch = \\\"wasm32\\\"))\".dependencies.i-slint-core]\nfeatures = [\"image-decoders\", \"svg\"]\nversion = \"=1.18.1\"\npath = \"internal/core\"\ndefault-features = false\n\n[lints.rust.unexpected_cfgs]\nlevel = \"warn\"\ncheck-cfg = [\"cfg(slint_nightly_test)\"]\n",
+        "contents": "[package]\nname = \"i-slint-renderer-femtovg\"\ndescription = \"FemtoVG based renderer for Slint\"\ncategories = [\"gui\", \"rendering\", \"wasm\"]\nkeywords = [\"femtovg\", \"opengl\", \"wgpu\", \"gui\", \"ui\"]\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.95\"\nversion = \"1.19.0\"\n\n[package.metadata.docs.rs]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\nimage-pixel-format-gray8 = [\"i-slint-core/image-pixel-format-gray8\"]\nimage-pixel-format-rgb565 = [\"i-slint-core/image-pixel-format-rgb565\"]\ndefault = []\nopengl = []\nwgpu = [\"wgpu-30\"]\nwgpu-30 = [\"dep:wgpu-30\", \"femtovg/wgpu\", \"i-slint-core/wgpu-30\"]\nunstable-wgpu-30 = [\"wgpu-30\", \"i-slint-core/unstable-wgpu-30\"]\n\n[dependencies]\npin-weak = \"1\"\n\n[dependencies.i-slint-core]\nfeatures = [\"default\", \"box-shadow-cache\", \"shared-fontique\", \"shared-parley\"]\nversion = \"=1.19.0\"\npath = \"internal/core\"\ndefault-features = false\n\n[dependencies.i-slint-core-macros]\nfeatures = [\"default\"]\nversion = \"=1.19.0\"\npath = \"internal/core-macros\"\ndefault-features = false\n\n[dependencies.i-slint-common]\nfeatures = [\"default\", \"shared-fontique\"]\nversion = \"=1.19.0\"\npath = \"internal/common\"\ndefault-features = false\n\n[dependencies.const-field-offset]\nversion = \"0.2.1\"\npath = \"../../../helper_crates/const-field-offset\"\n\n[dependencies.lyon_path]\nversion = \"1.0\"\ndefault-features = false\n\n[dependencies.femtovg]\nversion = \"0.28\"\ndefault-features = false\nfeatures = [\"swash\"]\n\n[dependencies.imgref]\nversion = \"1.6.1\"\n\n[dependencies.rgb]\nversion = \"0.8.27\"\n\n[dependencies.glow]\nversion = \"0.18\"\n\n[dependencies.wgpu-30]\noptional = true\ndefault-features = false\npackage = \"wgpu\"\nversion = \"30\"\n\n[target.\"cfg(all(target_arch = \\\"wasm32\\\", not(target_os = \\\"emscripten\\\")))\".dependencies.web-sys]\nfeatures = [\"console\", \"WebGlContextAttributes\", \"WebGlTexture\", \"CanvasRenderingContext2d\", \"HtmlInputElement\", \"HtmlCanvasElement\", \"Window\", \"Document\", \"Element\", \"WebGl2RenderingContext\", \"WebglLoseContext\"]\nversion = \"0.3.72\"\ndefault-features = false\n\n[target.\"cfg(all(target_arch = \\\"wasm32\\\", not(target_os = \\\"emscripten\\\")))\".dependencies.wasm-bindgen]\nversion = \"0.2\"\n\n[target.\"cfg(all(target_arch = \\\"wasm32\\\", not(target_os = \\\"emscripten\\\")))\".dependencies.wgpu-30]\noptional = true\nfeatures = [\"webgl\"]\npackage = \"wgpu\"\nversion = \"30\"\ndefault-features = false\n\n[target.\"cfg(any(not(target_arch = \\\"wasm32\\\"), target_os = \\\"emscripten\\\"))\".dependencies.i-slint-core]\nfeatures = [\"image-decoders\", \"svg\"]\nversion = \"=1.19.0\"\npath = \"internal/core\"\ndefault-features = false\n\n[dev-dependencies.slint]\npath = \"../../../api/rs/slint\"\ndefault-features = false\nfeatures = [\"std\", \"compat-1-2\"]\n\n[lints.rust.unexpected_cfgs]\nlevel = \"warn\"\ncheck-cfg = [\"cfg(slint_nightly_test)\"]\n",
         "dest": "cargo/vendor/i-slint-renderer-femtovg",
         "dest-filename": "Cargo.toml"
     },
@@ -3534,12 +3495,12 @@
     {
         "type": "shell",
         "commands": [
-            "cp -r --reflink=auto \"flatpak-cargo/git/slint-552e4dd/internal/renderers/skia\" \"cargo/vendor/i-slint-renderer-skia\""
+            "cp -r --reflink=auto \"flatpak-cargo/git/slint-3100296/internal/renderers/skia\" \"cargo/vendor/i-slint-renderer-skia\""
         ]
     },
     {
         "type": "inline",
-        "contents": "[package]\nname = \"i-slint-renderer-skia\"\ndescription = \"Skia based renderer for Slint\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.92\"\nversion = \"1.18.1\"\nbuild = \"build.rs\"\n\n[package.metadata.docs.rs]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\nwayland = [\"glutin/wayland\", \"softbuffer/wayland\", \"softbuffer/wayland-dlopen\"]\nx11 = [\"glutin/x11\", \"glutin/glx\", \"softbuffer/x11\", \"softbuffer/x11-dlopen\"]\nopengl = []\nvulkan = [\"skia-safe/vulkan\", \"wgpu-30\", \"wgpu-30/vulkan\", \"wgpu-30/vulkan-portability\", \"wgpu-29?/vulkan\", \"wgpu-29?/vulkan-portability\"]\nkms = [\"softbuffer/kms\"]\nwgpu-29 = [\"i-slint-core/wgpu-29\", \"dep:wgpu-29\", \"dep:spin_on\", \"dep:windows-core\", \"dep:wgpu-hal-29\"]\nunstable-wgpu-29 = [\"i-slint-core/unstable-wgpu-29\", \"wgpu-29\"]\nwgpu-30 = [\"i-slint-core/wgpu-30\", \"dep:wgpu-30\", \"dep:spin_on\", \"dep:windows-core\", \"dep:wgpu-hal-30\"]\nunstable-wgpu-30 = [\"i-slint-core/unstable-wgpu-30\", \"wgpu-30\"]\ndefault = [\"softbuffer\", \"wgpu-30\"]\n\n[dependencies]\ncfg-if = \"1\"\npin-weak = \"1\"\nscoped-tls-hkt = \"0.1\"\n\n[dependencies.i-slint-core]\nfeatures = [\"default\", \"box-shadow-cache\", \"shared-parley\", \"image-decoders\", \"svg\"]\nversion = \"=1.18.1\"\npath = \"internal/core\"\ndefault-features = false\n\n[dependencies.i-slint-core-macros]\nfeatures = [\"default\"]\nversion = \"=1.18.1\"\npath = \"internal/core-macros\"\ndefault-features = false\n\n[dependencies.i-slint-common]\nfeatures = [\"default\"]\nversion = \"=1.18.1\"\npath = \"internal/common\"\ndefault-features = false\n\n[dependencies.const-field-offset]\nversion = \"0.2.1\"\npath = \"../../../helper_crates/const-field-offset\"\n\n[dependencies.vtable]\nversion = \"0.5\"\npath = \"helper_crates/vtable\"\n\n[dependencies.lyon_path]\nversion = \"1.0\"\ndefault-features = false\n\n[dependencies.raw-window-handle]\nversion = \"0.6\"\nfeatures = [\"std\"]\n\n[dependencies.clru]\nversion = \"0.6.0\"\n\n[dependencies.skia-safe]\nversion = \"0.153.3\"\nfeatures = [\"gl\"]\n\n[dependencies.glow]\nversion = \"0.18\"\n\n[dependencies.unicode-segmentation]\nversion = \"1.12.0\"\n\n[dependencies.wgpu-29]\noptional = true\npackage = \"wgpu\"\nversion = \"29.0.4\"\ndefault-features = false\n\n[dependencies.wgpu-30]\noptional = true\npackage = \"wgpu\"\nversion = \"30\"\ndefault-features = false\n\n[dependencies.spin_on]\nversion = \"0.1\"\noptional = true\n\n[target.\"cfg(any(not(target_vendor = \\\"apple\\\"), target_os = \\\"macos\\\"))\".dependencies.glutin]\ndefault-features = false\nfeatures = [\"egl\", \"wgl\"]\nversion = \"0.32.0\"\n\n[target.\"cfg(not(target_os = \\\"android\\\"))\".dependencies.softbuffer]\ndefault-features = false\noptional = true\nversion = \"0.4.4\"\n\n[target.\"cfg(not(target_os = \\\"android\\\"))\".dependencies.bytemuck]\nversion = \"1.13.1\"\n\n[target.\"cfg(target_family = \\\"windows\\\")\".dependencies.windows]\nfeatures = [\"Win32\", \"Win32_Graphics\", \"Win32_Graphics_Dxgi\", \"Win32_Graphics_Direct3D12\", \"Win32_Graphics_Direct3D\", \"Win32_Foundation\", \"Win32_Graphics_Dxgi_Common\"]\nversion = \"0.62\"\n\n[target.\"cfg(target_family = \\\"windows\\\")\".dependencies.windows-core]\noptional = true\nversion = \"0.62.0\"\n\n[target.\"cfg(target_family = \\\"windows\\\")\".dependencies.skia-safe]\nversion = \"0.153.3\"\nfeatures = [\"d3d\"]\n\n[target.\"cfg(target_family = \\\"windows\\\")\".dependencies.wgpu-29]\noptional = true\nfeatures = [\"dx12\"]\npackage = \"wgpu\"\nversion = \"29.0.4\"\ndefault-features = false\n\n[target.\"cfg(target_family = \\\"windows\\\")\".dependencies.wgpu-30]\noptional = true\nfeatures = [\"dx12\"]\npackage = \"wgpu\"\nversion = \"30\"\ndefault-features = false\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.objc2]\nversion = \"0.6.0\"\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.objc2-metal]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"std\", \"MTLCommandQueue\", \"MTLCommandBuffer\", \"MTLDevice\", \"MTLResource\", \"MTLTexture\", \"MTLTypes\"]\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.objc2-foundation]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"std\", \"NSGeometry\"]\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.objc2-quartz-core]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"std\", \"objc2-metal\", \"CALayer\", \"CAMetalLayer\", \"objc2-core-foundation\"]\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.objc2-app-kit]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"std\", \"NSResponder\", \"NSView\"]\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.objc2-core-foundation]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"CFCGTypes\"]\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.skia-safe]\nversion = \"0.153.3\"\nfeatures = [\"metal\"]\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.wgpu-29]\noptional = true\nfeatures = [\"metal\"]\npackage = \"wgpu\"\nversion = \"29.0.4\"\ndefault-features = false\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.wgpu-30]\noptional = true\nfeatures = [\"metal\"]\npackage = \"wgpu\"\nversion = \"30\"\ndefault-features = false\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.wgpu-hal-29]\noptional = true\npackage = \"wgpu-hal\"\nversion = \"29.0.4\"\ndefault-features = false\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.wgpu-hal-30]\noptional = true\npackage = \"wgpu-hal\"\nversion = \"30\"\ndefault-features = false\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.read-fonts]\nversion = \"0.41\"\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.write-fonts]\nversion = \"0.50\"\n\n[target.\"cfg(not(any(target_vendor = \\\"apple\\\", target_family = \\\"windows\\\")))\".dependencies.skia-safe]\nversion = \"0.153.3\"\nfeatures = [\"gl\", \"vulkan\"]\n\n[target.\"cfg(not(any(target_vendor = \\\"apple\\\", target_family = \\\"windows\\\")))\".dependencies.wgpu-29]\noptional = true\nfeatures = [\"vulkan\"]\npackage = \"wgpu\"\nversion = \"29.0.4\"\ndefault-features = false\n\n[target.\"cfg(not(any(target_vendor = \\\"apple\\\", target_family = \\\"windows\\\")))\".dependencies.wgpu-30]\noptional = true\nfeatures = [\"vulkan\"]\npackage = \"wgpu\"\nversion = \"30\"\ndefault-features = false\n\n[target.aarch64-apple-ios-sim.dependencies.objc2]\nversion = \"0.6.0\"\nfeatures = [\"disable-encoding-assertions\"]\n\n[build-dependencies.cfg_aliases]\nversion = \"0.2.2\"\n",
+        "contents": "[package]\nname = \"i-slint-renderer-skia\"\ndescription = \"Skia based renderer for Slint\"\ncategories = [\"gui\", \"rendering\"]\nkeywords = [\"skia\", \"vulkan\", \"opengl\", \"gui\", \"ui\"]\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.95\"\nversion = \"1.19.0\"\nbuild = \"build.rs\"\n\n[package.metadata.docs.rs]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\nimage-pixel-format-gray8 = [\"i-slint-core/image-pixel-format-gray8\"]\nimage-pixel-format-rgb565 = [\"i-slint-core/image-pixel-format-rgb565\"]\nwayland = [\"glutin/wayland\", \"softbuffer/wayland\", \"softbuffer/wayland-dlopen\"]\nx11 = [\"glutin/x11\", \"glutin/glx\", \"softbuffer/x11\", \"softbuffer/x11-dlopen\"]\nopengl = []\nvulkan = [\"skia-safe/vulkan\", \"wgpu-30\", \"wgpu-30/vulkan\", \"wgpu-30/vulkan-portability\", \"wgpu-29?/vulkan\", \"wgpu-29?/vulkan-portability\"]\nkms = [\"softbuffer/kms\"]\nwgpu-29 = [\"i-slint-core/wgpu-29\", \"dep:wgpu-29\", \"dep:spin_on\", \"dep:windows-core\", \"dep:wgpu-hal-29\"]\nunstable-wgpu-29 = [\"i-slint-core/unstable-wgpu-29\", \"wgpu-29\"]\nwgpu-30 = [\"i-slint-core/wgpu-30\", \"dep:wgpu-30\", \"dep:spin_on\", \"dep:windows-core\", \"dep:wgpu-hal-30\"]\nunstable-wgpu-30 = [\"i-slint-core/unstable-wgpu-30\", \"wgpu-30\"]\ndefault = [\"softbuffer\", \"wgpu-30\"]\n\n[dependencies]\npin-weak = \"1\"\nscoped-tls-hkt = \"0.1\"\n\n[dependencies.i-slint-core]\nfeatures = [\"default\", \"box-shadow-cache\", \"shared-parley\", \"image-decoders\", \"svg\"]\nversion = \"=1.19.0\"\npath = \"internal/core\"\ndefault-features = false\n\n[dependencies.i-slint-core-macros]\nfeatures = [\"default\"]\nversion = \"=1.19.0\"\npath = \"internal/core-macros\"\ndefault-features = false\n\n[dependencies.i-slint-common]\nfeatures = [\"default\"]\nversion = \"=1.19.0\"\npath = \"internal/common\"\ndefault-features = false\n\n[dependencies.const-field-offset]\nversion = \"0.2.1\"\npath = \"../../../helper_crates/const-field-offset\"\n\n[dependencies.vtable]\nversion = \"0.5.1\"\npath = \"helper_crates/vtable\"\n\n[dependencies.lyon_path]\nversion = \"1.0\"\ndefault-features = false\n\n[dependencies.raw-window-handle]\nversion = \"0.6\"\nfeatures = [\"std\"]\n\n[dependencies.clru]\nversion = \"0.6.0\"\n\n[dependencies.bytemuck]\nversion = \"1.13.1\"\n\n[dependencies.skia-safe]\nversion = \"0.157.0\"\nfeatures = [\"gl\"]\n\n[dependencies.glow]\nversion = \"0.18\"\n\n[dependencies.unicode-segmentation]\nversion = \"1.12.0\"\n\n[dependencies.wgpu-29]\noptional = true\npackage = \"wgpu\"\nversion = \"29.0.4\"\ndefault-features = false\n\n[dependencies.wgpu-30]\noptional = true\npackage = \"wgpu\"\nversion = \"30\"\ndefault-features = false\n\n[dependencies.spin_on]\nversion = \"0.1\"\noptional = true\n\n[target.\"cfg(any(not(target_vendor = \\\"apple\\\"), target_os = \\\"macos\\\"))\".dependencies.glutin]\ndefault-features = false\nfeatures = [\"egl\", \"wgl\"]\nversion = \"0.32.0\"\n\n[target.\"cfg(not(target_os = \\\"android\\\"))\".dependencies.softbuffer]\ndefault-features = false\noptional = true\nversion = \"0.4.4\"\n\n[target.\"cfg(target_family = \\\"windows\\\")\".dependencies.windows]\nfeatures = [\"Win32\", \"Win32_Graphics\", \"Win32_Graphics_Dxgi\", \"Win32_Graphics_Direct3D12\", \"Win32_Graphics_Direct3D\", \"Win32_Foundation\", \"Win32_Graphics_Dxgi_Common\"]\nversion = \"0.62\"\n\n[target.\"cfg(target_family = \\\"windows\\\")\".dependencies.windows-core]\noptional = true\nversion = \"0.62.0\"\n\n[target.\"cfg(target_family = \\\"windows\\\")\".dependencies.skia-safe]\nversion = \"0.157.0\"\nfeatures = [\"d3d\"]\n\n[target.\"cfg(target_family = \\\"windows\\\")\".dependencies.wgpu-29]\noptional = true\nfeatures = [\"dx12\"]\npackage = \"wgpu\"\nversion = \"29.0.4\"\ndefault-features = false\n\n[target.\"cfg(target_family = \\\"windows\\\")\".dependencies.wgpu-30]\noptional = true\nfeatures = [\"dx12\"]\npackage = \"wgpu\"\nversion = \"30\"\ndefault-features = false\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.objc2]\nversion = \"0.6.0\"\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.objc2-metal]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"std\", \"MTLCommandQueue\", \"MTLCommandBuffer\", \"MTLDevice\", \"MTLResource\", \"MTLTexture\", \"MTLTypes\"]\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.objc2-foundation]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"std\", \"NSGeometry\"]\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.objc2-quartz-core]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"std\", \"objc2-metal\", \"CALayer\", \"CAMetalLayer\", \"objc2-core-foundation\"]\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.objc2-app-kit]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"std\", \"NSResponder\", \"NSView\"]\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.objc2-core-foundation]\nversion = \"0.3.2\"\ndefault-features = false\nfeatures = [\"CFCGTypes\"]\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.skia-safe]\nversion = \"0.157.0\"\nfeatures = [\"metal\"]\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.wgpu-29]\noptional = true\nfeatures = [\"metal\"]\npackage = \"wgpu\"\nversion = \"29.0.4\"\ndefault-features = false\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.wgpu-30]\noptional = true\nfeatures = [\"metal\"]\npackage = \"wgpu\"\nversion = \"30\"\ndefault-features = false\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.wgpu-hal-29]\noptional = true\npackage = \"wgpu-hal\"\nversion = \"29.0.4\"\ndefault-features = false\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.wgpu-hal-30]\noptional = true\npackage = \"wgpu-hal\"\nversion = \"30\"\ndefault-features = false\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.read-fonts]\nversion = \"0.41\"\n\n[target.\"cfg(target_vendor = \\\"apple\\\")\".dependencies.write-fonts]\nversion = \"0.50\"\n\n[target.\"cfg(not(any(target_vendor = \\\"apple\\\", target_family = \\\"windows\\\")))\".dependencies.skia-safe]\nversion = \"0.157.0\"\nfeatures = [\"gl\", \"vulkan\"]\n\n[target.\"cfg(not(any(target_vendor = \\\"apple\\\", target_family = \\\"windows\\\")))\".dependencies.wgpu-29]\noptional = true\nfeatures = [\"vulkan\"]\npackage = \"wgpu\"\nversion = \"29.0.4\"\ndefault-features = false\n\n[target.\"cfg(not(any(target_vendor = \\\"apple\\\", target_family = \\\"windows\\\")))\".dependencies.wgpu-30]\noptional = true\nfeatures = [\"vulkan\"]\npackage = \"wgpu\"\nversion = \"30\"\ndefault-features = false\n\n[target.aarch64-apple-ios-sim.dependencies.objc2]\nversion = \"0.6.0\"\nfeatures = [\"disable-encoding-assertions\"]\n\n[build-dependencies.cfg_aliases]\nversion = \"0.2.2\"\n\n[dev-dependencies.slint]\npath = \"../../../api/rs/slint\"\ndefault-features = false\nfeatures = [\"std\", \"compat-1-2\"]\n",
         "dest": "cargo/vendor/i-slint-renderer-skia",
         "dest-filename": "Cargo.toml"
     },
@@ -3552,12 +3513,12 @@
     {
         "type": "shell",
         "commands": [
-            "cp -r --reflink=auto \"flatpak-cargo/git/slint-552e4dd/internal/renderers/software\" \"cargo/vendor/i-slint-renderer-software\""
+            "cp -r --reflink=auto \"flatpak-cargo/git/slint-3100296/internal/renderers/software\" \"cargo/vendor/i-slint-renderer-software\""
         ]
     },
     {
         "type": "inline",
-        "contents": "[package]\nname = \"i-slint-renderer-software\"\ndescription = \"Slint's Software renderer implementation\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.92\"\nversion = \"1.18.1\"\n\n[package.metadata.docs.rs]\nrustdoc-args = [\"--generate-link-to-definition\"]\nfeatures = [\"experimental\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\nsystemfonts = [\"i-slint-core/shared-fontique\", \"i-slint-common/shared-fontique\", \"dep:skrifa\", \"dep:swash\", \"i-slint-core/shared-parley\", \"i-slint-core/shared-swash\", \"std\", \"dep:clru\"]\npath = [\"dep:zeno\", \"dep:lyon_path\", \"i-slint-core/path\"]\nstd = [\"zeno?/std\", \"num-traits/std\", \"euclid/std\", \"i-slint-core/std\", \"path\", \"systemfonts\", \"swash?/std\"]\nlibm = [\"zeno?/libm\", \"num-traits/libm\", \"euclid/libm\", \"i-slint-core/libm\", \"swash?/libm\"]\nexperimental = []\ntesting = [\"i-slint-core/testing\"]\ndefault = [\"std\"]\n\n[dependencies.i-slint-core]\nversion = \"=1.18.1\"\npath = \"internal/core\"\ndefault-features = false\n\n[dependencies.i-slint-common]\nversion = \"=1.18.1\"\npath = \"internal/common\"\ndefault-features = false\n\n[dependencies.bytemuck]\nfeatures = [\"derive\"]\nversion = \"1.13.1\"\n\n[dependencies.clru]\noptional = true\nversion = \"0.6.0\"\n\n[dependencies.derive_more]\nfeatures = [\"error\", \"deref\", \"deref_mut\", \"into\", \"from\", \"add\", \"add_assign\", \"mul\", \"not\", \"display\"]\nversion = \"2.0.0\"\ndefault-features = false\n\n[dependencies.euclid]\nversion = \"0.22.1\"\ndefault-features = false\n\n[dependencies.num-traits]\nversion = \"0.2\"\ndefault-features = false\n\n[dependencies.skrifa]\noptional = true\nversion = \"0.44\"\n\n[dependencies.swash]\noptional = true\nfeatures = [\"scale\", \"render\"]\nversion = \"0.2.7\"\ndefault-features = false\n\n[dependencies.zeno]\nversion = \"0.3.3\"\noptional = true\ndefault-features = false\nfeatures = [\"eval\"]\n\n[dependencies.lyon_path]\noptional = true\nversion = \"1.0\"\ndefault-features = false\n\n[lints.rust.unexpected_cfgs]\nlevel = \"warn\"\ncheck-cfg = [\"cfg(cbindgen)\", \"cfg(slint_nightly_test)\"]\n",
+        "contents": "[package]\nname = \"i-slint-renderer-software\"\ndescription = \"Software renderer of Slint, for embedded GUIs on microcontrollers such as STM32, ESP32, and RP2040, and on devices without a GPU\"\ncategories = [\"gui\", \"embedded\", \"no-std\", \"rendering\"]\nkeywords = [\"gui\", \"ui\", \"mcu\", \"esp32\", \"stm32\"]\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.dev\"\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.95\"\nversion = \"1.19.0\"\n\n[package.metadata.docs.rs]\nrustdoc-args = [\"--generate-link-to-definition\"]\nfeatures = [\"experimental\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\nimage-pixel-format-gray8 = [\"i-slint-core/image-pixel-format-gray8\"]\nimage-pixel-format-rgb565 = [\"i-slint-core/image-pixel-format-rgb565\"]\nowned-pre-rendered-resources = [\"i-slint-core/owned-pre-rendered-resources\"]\nsystemfonts = [\"i-slint-core/shared-fontique\", \"i-slint-common/shared-fontique\", \"dep:skrifa\", \"dep:swash\", \"i-slint-core/shared-parley\", \"i-slint-core/shared-swash\", \"std\", \"dep:clru\"]\npath = [\"dep:zeno\", \"dep:lyon_path\", \"i-slint-core/path\"]\nstd = [\"zeno?/std\", \"num-traits/std\", \"euclid/std\", \"i-slint-core/std\", \"path\", \"systemfonts\", \"swash?/std\"]\nlibm = [\"zeno?/libm\", \"num-traits/libm\", \"euclid/libm\", \"i-slint-core/libm\", \"swash?/libm\"]\nexperimental = []\ntesting = [\"i-slint-core/testing\"]\ndefault = [\"std\"]\n\n[dependencies.i-slint-core]\nversion = \"=1.19.0\"\npath = \"internal/core\"\ndefault-features = false\n\n[dependencies.i-slint-common]\nversion = \"=1.19.0\"\npath = \"internal/common\"\ndefault-features = false\n\n[dependencies.bytemuck]\nfeatures = [\"derive\"]\nversion = \"1.13.1\"\n\n[dependencies.clru]\noptional = true\nversion = \"0.6.0\"\n\n[dependencies.derive_more]\nfeatures = [\"error\", \"deref\", \"deref_mut\", \"into\", \"from\", \"add\", \"add_assign\", \"mul\", \"not\", \"display\"]\nversion = \"2.0.0\"\ndefault-features = false\n\n[dependencies.euclid]\nversion = \"0.22.1\"\ndefault-features = false\n\n[dependencies.num-traits]\nversion = \"0.2\"\ndefault-features = false\n\n[dependencies.skrifa]\noptional = true\nversion = \"0.44\"\n\n[dependencies.swash]\noptional = true\nfeatures = [\"scale\", \"render\"]\nversion = \"0.2.7\"\ndefault-features = false\n\n[dependencies.zeno]\nversion = \"0.3.3\"\noptional = true\ndefault-features = false\nfeatures = [\"eval\"]\n\n[dependencies.lyon_path]\noptional = true\nversion = \"1.0\"\ndefault-features = false\n\n[lints.rust.unexpected_cfgs]\nlevel = \"warn\"\ncheck-cfg = [\"cfg(cbindgen)\", \"cfg(slint_nightly_test)\"]\n",
         "dest": "cargo/vendor/i-slint-renderer-software",
         "dest-filename": "Cargo.toml"
     },
@@ -3986,19 +3947,6 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/itertools/itertools-0.13.0.crate",
-        "sha256": "413ee7dfc52ee1a4949ceeb7dbc8a33f2d6c088194d9f922fb8318faf1f01186",
-        "dest": "cargo/vendor/itertools-0.13.0"
-    },
-    {
-        "type": "inline",
-        "contents": "{\"package\": \"413ee7dfc52ee1a4949ceeb7dbc8a33f2d6c088194d9f922fb8318faf1f01186\", \"files\": {}}",
-        "dest": "cargo/vendor/itertools-0.13.0",
-        "dest-filename": ".cargo-checksum.json"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
         "url": "https://static.crates.io/crates/itertools/itertools-0.14.0.crate",
         "sha256": "2b192c782037fadd9cfa75548310488aabdbf3d2da73885b31bd0abd03351285",
         "dest": "cargo/vendor/itertools-0.14.0"
@@ -4194,14 +4142,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/keyboard-types/keyboard-types-0.7.0.crate",
-        "sha256": "b750dcadc39a09dbadd74e118f6dd6598df77fa01df0cfcdc52c28dece74528a",
-        "dest": "cargo/vendor/keyboard-types-0.7.0"
+        "url": "https://static.crates.io/crates/keyboard-types/keyboard-types-0.8.3.crate",
+        "sha256": "0fbe853b403ae61a04233030ae8a79d94975281ed9770a1f9e246732b534b28d",
+        "dest": "cargo/vendor/keyboard-types-0.8.3"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"b750dcadc39a09dbadd74e118f6dd6598df77fa01df0cfcdc52c28dece74528a\", \"files\": {}}",
-        "dest": "cargo/vendor/keyboard-types-0.7.0",
+        "contents": "{\"package\": \"0fbe853b403ae61a04233030ae8a79d94975281ed9770a1f9e246732b534b28d\", \"files\": {}}",
+        "dest": "cargo/vendor/keyboard-types-0.8.3",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -4740,14 +4688,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/muda/muda-0.19.3.crate",
-        "sha256": "1dd04e60bc0b07438a6771710ee1698f98f6ebbc7f89b61264af1563b8aeb878",
-        "dest": "cargo/vendor/muda-0.19.3"
+        "url": "https://static.crates.io/crates/muda/muda-0.21.2.crate",
+        "sha256": "4340e89c178916e62879c5c36b7f699019369be413e496178a6983ce91b8bc03",
+        "dest": "cargo/vendor/muda-0.21.2"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"1dd04e60bc0b07438a6771710ee1698f98f6ebbc7f89b61264af1563b8aeb878\", \"files\": {}}",
-        "dest": "cargo/vendor/muda-0.19.3",
+        "contents": "{\"package\": \"4340e89c178916e62879c5c36b7f699019369be413e496178a6983ce91b8bc03\", \"files\": {}}",
+        "dest": "cargo/vendor/muda-0.21.2",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -5507,19 +5455,6 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/os_pipe/os_pipe-1.2.3.crate",
-        "sha256": "7d8fae84b431384b68627d0f9b3b1245fcf9f46f6c0e3dc902e9dce64edd1967",
-        "dest": "cargo/vendor/os_pipe-1.2.3"
-    },
-    {
-        "type": "inline",
-        "contents": "{\"package\": \"7d8fae84b431384b68627d0f9b3b1245fcf9f46f6c0e3dc902e9dce64edd1967\", \"files\": {}}",
-        "dest": "cargo/vendor/os_pipe-1.2.3",
-        "dest-filename": ".cargo-checksum.json"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
         "url": "https://static.crates.io/crates/owned_ttf_parser/owned_ttf_parser-0.25.1.crate",
         "sha256": "36820e9051aca1014ddc75770aab4d68bc1e9e632f0f5627c4086bc216fb583b",
         "dest": "cargo/vendor/owned_ttf_parser-0.25.1"
@@ -5585,27 +5520,53 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/parley/parley-0.11.1.crate",
-        "sha256": "22d2ff88bd3f7d68d1d9b09c7e6209f9a8e8c05088295140a2bcf2e9b17038c5",
-        "dest": "cargo/vendor/parley-0.11.1"
+        "url": "https://static.crates.io/crates/parley/parley-0.12.0.crate",
+        "sha256": "61bd0c0c1737f0b3d3726dc06b225083af213b61913e4fbae1670613a106c6ce",
+        "dest": "cargo/vendor/parley-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"22d2ff88bd3f7d68d1d9b09c7e6209f9a8e8c05088295140a2bcf2e9b17038c5\", \"files\": {}}",
-        "dest": "cargo/vendor/parley-0.11.1",
+        "contents": "{\"package\": \"61bd0c0c1737f0b3d3726dc06b225083af213b61913e4fbae1670613a106c6ce\", \"files\": {}}",
+        "dest": "cargo/vendor/parley-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/parley_data/parley_data-0.11.1.crate",
-        "sha256": "1567535334d6ba2d3cde19221ba9a7bd0fabb3cbd99046ddfb10ae061cfcc889",
-        "dest": "cargo/vendor/parley_data-0.11.1"
+        "url": "https://static.crates.io/crates/parley_data/parley_data-0.12.0.crate",
+        "sha256": "c43b63f808f6cc8f4a3b07de0d62a977bddd2e0bb5c232bd9e93ba8ef92e5e4b",
+        "dest": "cargo/vendor/parley_data-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"1567535334d6ba2d3cde19221ba9a7bd0fabb3cbd99046ddfb10ae061cfcc889\", \"files\": {}}",
-        "dest": "cargo/vendor/parley_data-0.11.1",
+        "contents": "{\"package\": \"c43b63f808f6cc8f4a3b07de0d62a977bddd2e0bb5c232bd9e93ba8ef92e5e4b\", \"files\": {}}",
+        "dest": "cargo/vendor/parley_data-0.12.0",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/parley_emoji/parley_emoji-0.12.0.crate",
+        "sha256": "9c4482d912d7671a7cd2089794f90ef3bb5f5f8c738230fb0fcd50fa020f0ed3",
+        "dest": "cargo/vendor/parley_emoji-0.12.0"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"9c4482d912d7671a7cd2089794f90ef3bb5f5f8c738230fb0fcd50fa020f0ed3\", \"files\": {}}",
+        "dest": "cargo/vendor/parley_emoji-0.12.0",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/parley_engine/parley_engine-0.12.0.crate",
+        "sha256": "b74c0d373e462e504ad4436710a39f099e18e848e1ee711f70cd2dcd5a69b290",
+        "dest": "cargo/vendor/parley_engine-0.12.0"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"b74c0d373e462e504ad4436710a39f099e18e848e1ee711f70cd2dcd5a69b290\", \"files\": {}}",
+        "dest": "cargo/vendor/parley_engine-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -5689,66 +5650,53 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/petgraph/petgraph-0.8.3.crate",
-        "sha256": "8701b58ea97060d5e5b155d383a69952a60943f0e6dfe30b04c287beb0b27455",
-        "dest": "cargo/vendor/petgraph-0.8.3"
+        "url": "https://static.crates.io/crates/phf/phf-0.14.0.crate",
+        "sha256": "010378780309880b08997fae13be7834dba947d36393bd372f2b1556deb2a2f6",
+        "dest": "cargo/vendor/phf-0.14.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"8701b58ea97060d5e5b155d383a69952a60943f0e6dfe30b04c287beb0b27455\", \"files\": {}}",
-        "dest": "cargo/vendor/petgraph-0.8.3",
+        "contents": "{\"package\": \"010378780309880b08997fae13be7834dba947d36393bd372f2b1556deb2a2f6\", \"files\": {}}",
+        "dest": "cargo/vendor/phf-0.14.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/phf/phf-0.13.1.crate",
-        "sha256": "c1562dc717473dbaa4c1f85a36410e03c047b2e7df7f45ee938fbef64ae7fadf",
-        "dest": "cargo/vendor/phf-0.13.1"
+        "url": "https://static.crates.io/crates/phf_generator/phf_generator-0.14.0.crate",
+        "sha256": "aeb62e0959d5a1bebc965f4d15d9e2b7cea002b6b0f5ba8cde6cc26738467100",
+        "dest": "cargo/vendor/phf_generator-0.14.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"c1562dc717473dbaa4c1f85a36410e03c047b2e7df7f45ee938fbef64ae7fadf\", \"files\": {}}",
-        "dest": "cargo/vendor/phf-0.13.1",
+        "contents": "{\"package\": \"aeb62e0959d5a1bebc965f4d15d9e2b7cea002b6b0f5ba8cde6cc26738467100\", \"files\": {}}",
+        "dest": "cargo/vendor/phf_generator-0.14.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/phf_generator/phf_generator-0.13.1.crate",
-        "sha256": "135ace3a761e564ec88c03a77317a7c6b80bb7f7135ef2544dbe054243b89737",
-        "dest": "cargo/vendor/phf_generator-0.13.1"
+        "url": "https://static.crates.io/crates/phf_macros/phf_macros-0.14.0.crate",
+        "sha256": "5fa8d0ca26d424d27630da600c6624696e7dec8bf7b3b492b383c5dc49e5e085",
+        "dest": "cargo/vendor/phf_macros-0.14.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"135ace3a761e564ec88c03a77317a7c6b80bb7f7135ef2544dbe054243b89737\", \"files\": {}}",
-        "dest": "cargo/vendor/phf_generator-0.13.1",
+        "contents": "{\"package\": \"5fa8d0ca26d424d27630da600c6624696e7dec8bf7b3b492b383c5dc49e5e085\", \"files\": {}}",
+        "dest": "cargo/vendor/phf_macros-0.14.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/phf_macros/phf_macros-0.13.1.crate",
-        "sha256": "812f032b54b1e759ccd5f8b6677695d5268c588701effba24601f6932f8269ef",
-        "dest": "cargo/vendor/phf_macros-0.13.1"
+        "url": "https://static.crates.io/crates/phf_shared/phf_shared-0.14.0.crate",
+        "sha256": "c6fd9027e2d9319be6349febd1db4e8d02aa544921200c9b777720ac34a3aa89",
+        "dest": "cargo/vendor/phf_shared-0.14.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"812f032b54b1e759ccd5f8b6677695d5268c588701effba24601f6932f8269ef\", \"files\": {}}",
-        "dest": "cargo/vendor/phf_macros-0.13.1",
-        "dest-filename": ".cargo-checksum.json"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/phf_shared/phf_shared-0.13.1.crate",
-        "sha256": "e57fef6bc5981e38c2ce2d63bfa546861309f875b8a75f092d1d54ae2d64f266",
-        "dest": "cargo/vendor/phf_shared-0.13.1"
-    },
-    {
-        "type": "inline",
-        "contents": "{\"package\": \"e57fef6bc5981e38c2ce2d63bfa546861309f875b8a75f092d1d54ae2d64f266\", \"files\": {}}",
-        "dest": "cargo/vendor/phf_shared-0.13.1",
+        "contents": "{\"package\": \"c6fd9027e2d9319be6349febd1db4e8d02aa544921200c9b777720ac34a3aa89\", \"files\": {}}",
+        "dest": "cargo/vendor/phf_shared-0.14.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -6040,14 +5988,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/prettyplease/prettyplease-0.2.37.crate",
-        "sha256": "479ca8adacdd7ce8f1fb39ce9ecccbfe93a3f1344b3d0d97f20bc0196208f62b",
-        "dest": "cargo/vendor/prettyplease-0.2.37"
+        "url": "https://static.crates.io/crates/prettyplease/prettyplease-0.3.0.crate",
+        "sha256": "2bfe0f4c752e450fc2faf62654f1c134747922825d5b04ca717b8874f41a40c0",
+        "dest": "cargo/vendor/prettyplease-0.3.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"479ca8adacdd7ce8f1fb39ce9ecccbfe93a3f1344b3d0d97f20bc0196208f62b\", \"files\": {}}",
-        "dest": "cargo/vendor/prettyplease-0.2.37",
+        "contents": "{\"package\": \"2bfe0f4c752e450fc2faf62654f1c134747922825d5b04ca717b8874f41a40c0\", \"files\": {}}",
+        "dest": "cargo/vendor/prettyplease-0.3.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -6469,14 +6417,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/resvg/resvg-0.48.1.crate",
-        "sha256": "67e3803f97b999e80cbf7c6ecdd07a8102204d92e1633cf48783720c521196bd",
-        "dest": "cargo/vendor/resvg-0.48.1"
+        "url": "https://static.crates.io/crates/resvg/resvg-0.49.0.crate",
+        "sha256": "1572844b6727a1bf842190e9947641a68ac44bed83f50afb4bd1407a2564bee8",
+        "dest": "cargo/vendor/resvg-0.49.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"67e3803f97b999e80cbf7c6ecdd07a8102204d92e1633cf48783720c521196bd\", \"files\": {}}",
-        "dest": "cargo/vendor/resvg-0.48.1",
+        "contents": "{\"package\": \"1572844b6727a1bf842190e9947641a68ac44bed83f50afb4bd1407a2564bee8\", \"files\": {}}",
+        "dest": "cargo/vendor/resvg-0.49.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -7002,19 +6950,6 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/shlex/shlex-1.3.0.crate",
-        "sha256": "0fda2ff0d084019ba4d7c6f371c95d8fd75ce3524c3cb8fb653a3023f6323e64",
-        "dest": "cargo/vendor/shlex-1.3.0"
-    },
-    {
-        "type": "inline",
-        "contents": "{\"package\": \"0fda2ff0d084019ba4d7c6f371c95d8fd75ce3524c3cb8fb653a3023f6323e64\", \"files\": {}}",
-        "dest": "cargo/vendor/shlex-1.3.0",
-        "dest-filename": ".cargo-checksum.json"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
         "url": "https://static.crates.io/crates/shlex/shlex-2.0.1.crate",
         "sha256": "f8fadd59c855ef2080decdef8ff161eb6661b86933c9d82e5ba29dc602a55aba",
         "dest": "cargo/vendor/shlex-2.0.1"
@@ -7132,27 +7067,27 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/skia-bindings/skia-bindings-0.153.3.crate",
-        "sha256": "eb325787c91b3f6c34a7c6f2b8a2297b20292d733ca53a08c233e5028aec49af",
-        "dest": "cargo/vendor/skia-bindings-0.153.3"
+        "url": "https://static.crates.io/crates/skia-bindings/skia-bindings-0.157.0.crate",
+        "sha256": "3930c7f5e8d813364d74c3b17b227f3bb3a84504f93bb1f8c222d8fd5a7d9c6f",
+        "dest": "cargo/vendor/skia-bindings-0.157.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"eb325787c91b3f6c34a7c6f2b8a2297b20292d733ca53a08c233e5028aec49af\", \"files\": {}}",
-        "dest": "cargo/vendor/skia-bindings-0.153.3",
+        "contents": "{\"package\": \"3930c7f5e8d813364d74c3b17b227f3bb3a84504f93bb1f8c222d8fd5a7d9c6f\", \"files\": {}}",
+        "dest": "cargo/vendor/skia-bindings-0.157.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/skia-safe/skia-safe-0.153.3.crate",
-        "sha256": "c61cb643dac43067f3eb76c866635a74377ac0abca0ff2590674e1e295514c3d",
-        "dest": "cargo/vendor/skia-safe-0.153.3"
+        "url": "https://static.crates.io/crates/skia-safe/skia-safe-0.157.0.crate",
+        "sha256": "dc1c946dbc1a10b6b1ace7e368ea71f96c81448bbf55effcad0a9a3a392358eb",
+        "dest": "cargo/vendor/skia-safe-0.157.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"c61cb643dac43067f3eb76c866635a74377ac0abca0ff2590674e1e295514c3d\", \"files\": {}}",
-        "dest": "cargo/vendor/skia-safe-0.153.3",
+        "contents": "{\"package\": \"dc1c946dbc1a10b6b1ace7e368ea71f96c81448bbf55effcad0a9a3a392358eb\", \"files\": {}}",
+        "dest": "cargo/vendor/skia-safe-0.157.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -7184,12 +7119,12 @@
     {
         "type": "shell",
         "commands": [
-            "cp -r --reflink=auto \"flatpak-cargo/git/slint-552e4dd/api/rs/slint\" \"cargo/vendor/slint\""
+            "cp -r --reflink=auto \"flatpak-cargo/git/slint-3100296/api/rs/slint\" \"cargo/vendor/slint\""
         ]
     },
     {
         "type": "inline",
-        "contents": "[package]\nname = \"slint\"\ndescription = \"GUI toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\ndocumentation = \"https://slint.dev/docs\"\nedition = \"2024\"\nhomepage = \"https://slint.rs\"\nkeywords = [\"gui\", \"toolkit\", \"graphics\", \"design\", \"ui\"]\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.92\"\nversion = \"1.18.1\"\ncategories = [\"gui\", \"rendering::engine\", \"no-std\"]\n\n[package.metadata.docs.rs]\nfeatures = [\"document-features\", \"log\", \"gettext\", \"renderer-software\", \"renderer-femtovg\", \"raw-window-handle-06\", \"unstable-wgpu-29\", \"unstable-wgpu-30\", \"unstable-winit-030\", \"unstable-libinput-09\", \"unstable-fontique-011\"]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\ndefault = [\"std\", \"backend-default\", \"renderer-femtovg\", \"renderer-software\", \"accessibility\", \"compat-1-2\", \"system-tray\"]\ncompat-1-18 = []\ncompat-1-2 = [\"compat-1-18\", \"i-slint-backend-linuxkms?/libseat\", \"i-slint-backend-linuxkms?/libinput\"]\ncompat-1-0 = [\"compat-1-2\", \"renderer-software\"]\nstd = [\"i-slint-core/std\", \"i-slint-renderer-software?/std\"]\ngettext = [\"i-slint-core/gettext-rs\"]\nlibm = [\"i-slint-core/libm\", \"i-slint-renderer-software?/libm\"]\nlog = [\"i-slint-core/log\"]\nserde = [\"i-slint-core/serde\"]\nsoftware-renderer-systemfonts = [\"renderer-software\"]\nsoftware-renderer-path = [\"i-slint-renderer-software/path\"]\nunsafe-single-threaded = [\"i-slint-core/unsafe-single-threaded\"]\naccessibility = [\"i-slint-backend-selector/accessibility\"]\nsystem-tray = [\"i-slint-core/system-tray\"]\nraw-window-handle-06 = [\"dep:raw-window-handle-06\", \"i-slint-backend-selector/raw-window-handle-06\"]\nimage-default-formats = [\"i-slint-core/image-default-formats\"]\nlive-preview = [\"dep:i-slint-live-preview\"]\nmcp = [\"std\", \"i-slint-backend-selector/mcp\"]\nsystem-testing = [\"std\", \"i-slint-backend-selector/system-testing\"]\nbackend-qt = [\"i-slint-backend-selector/backend-qt\", \"std\", \"i-slint-backend-qt\"]\nbackend-winit = [\"i-slint-backend-selector/backend-winit\", \"std\"]\nbackend-winit-x11 = [\"i-slint-backend-selector/backend-winit-x11\", \"std\"]\nbackend-winit-wayland = [\"i-slint-backend-selector/backend-winit-wayland\", \"std\"]\nbackend-default = [\"i-slint-backend-selector/default\"]\nrenderer-winit-femtovg = [\"renderer-femtovg\"]\nrenderer-winit-skia = [\"renderer-skia\"]\nrenderer-winit-skia-opengl = [\"renderer-skia-opengl\"]\nrenderer-winit-skia-vulkan = [\"renderer-skia-vulkan\"]\nrenderer-winit-software = [\"renderer-software\"]\nrenderer-femtovg = [\"i-slint-backend-selector/renderer-femtovg\", \"i-slint-renderer-femtovg/opengl\", \"std\"]\nrenderer-femtovg-wgpu = [\"i-slint-backend-selector/renderer-femtovg-wgpu\", \"i-slint-renderer-femtovg/wgpu\", \"std\"]\nrenderer-skia = [\"i-slint-backend-selector/renderer-skia\", \"dep:i-slint-renderer-skia\", \"std\"]\nrenderer-skia-opengl = [\"i-slint-backend-selector/renderer-skia-opengl\", \"dep:i-slint-renderer-skia\", \"std\"]\nrenderer-skia-vulkan = [\"i-slint-backend-selector/renderer-skia-vulkan\", \"dep:i-slint-renderer-skia\", \"std\"]\nrenderer-software = [\"i-slint-backend-selector/renderer-software\", \"dep:i-slint-renderer-software\"]\nrenderer-vello = [\"i-slint-backend-selector/renderer-vello\", \"std\"]\nbackend-linuxkms = [\"i-slint-backend-selector/backend-linuxkms\", \"dep:i-slint-backend-linuxkms\", \"std\"]\nbackend-linuxkms-libseat = [\"i-slint-backend-selector/backend-linuxkms-libseat\", \"std\"]\nbackend-linuxkms-libinput = [\"i-slint-backend-selector/backend-linuxkms-libinput\", \"std\"]\nbackend-linuxkms-noseat = [\"i-slint-backend-selector/backend-linuxkms-noseat\", \"std\"]\nbackend-android-activity-06 = [\"i-slint-backend-android-activity/native-activity\", \"i-slint-backend-android-activity/aa-06\", \"i-slint-backend-selector/backend-android-activity\"]\nbackend-android-activity-05 = [\"i-slint-backend-android-activity/native-activity\", \"i-slint-backend-android-activity/aa-05\"]\nunstable-wgpu-29 = [\"i-slint-core/unstable-wgpu-29\", \"i-slint-backend-selector/unstable-wgpu-29\", \"i-slint-backend-android-activity?/unstable-wgpu-29\", \"dep:wgpu-29\"]\nunstable-wgpu-30 = [\"i-slint-core/unstable-wgpu-30\", \"i-slint-backend-selector/unstable-wgpu-30\", \"i-slint-backend-android-activity?/unstable-wgpu-30\", \"dep:wgpu-30\"]\nunstable-winit-030 = [\"backend-winit\", \"dep:i-slint-backend-winit\", \"i-slint-backend-selector/unstable-winit-030\"]\nunstable-libinput-09 = [\"i-slint-backend-selector/unstable-libinput-09\"]\nunstable-fontique-011 = [\"i-slint-common/shared-fontique\"]\n\n[dependencies.i-slint-core]\nversion = \"=1.18.1\"\npath = \"internal/core\"\ndefault-features = false\n\n[dependencies.slint-macros]\nversion = \"=1.18.1\"\npath = \"api/rs/macros\"\ndefault-features = false\n\n[dependencies.i-slint-backend-selector]\nversion = \"=1.18.1\"\npath = \"internal/backends/selector\"\ndefault-features = false\n\n[dependencies.i-slint-core-macros]\nversion = \"=1.18.1\"\npath = \"internal/core-macros\"\ndefault-features = false\n\n[dependencies.i-slint-common]\nversion = \"=1.18.1\"\npath = \"internal/common\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-software]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/renderers/software\"\ndefault-features = false\n\n[dependencies.i-slint-live-preview]\noptional = true\nfeatures = [\"live-component\"]\nversion = \"=1.18.1\"\npath = \"internal/live-preview\"\ndefault-features = false\n\n[dependencies.const-field-offset]\nversion = \"0.2.1\"\npath = \"../../../helper_crates/const-field-offset\"\n\n[dependencies.document-features]\nversion = \"0.2.0\"\noptional = true\n\n[dependencies.vtable]\nversion = \"0.5\"\npath = \"helper_crates/vtable\"\n\n[dependencies.once_cell]\nversion = \"1.5\"\ndefault-features = false\nfeatures = [\"alloc\"]\n\n[dependencies.pin-weak]\nversion = \"1.1\"\ndefault-features = false\n\n[dependencies.num-traits]\nversion = \"0.2\"\ndefault-features = false\n\n[dependencies.raw-window-handle-06]\noptional = true\npackage = \"raw-window-handle\"\nversion = \"0.6\"\nfeatures = [\"alloc\"]\n\n[dependencies.unicode-segmentation]\nversion = \"1.12.0\"\n\n[dependencies.wgpu-29]\noptional = true\npackage = \"wgpu\"\nversion = \"29.0.4\"\ndefault-features = false\n\n[dependencies.wgpu-30]\noptional = true\npackage = \"wgpu\"\nversion = \"30\"\ndefault-features = false\n\n[dependencies.i-slint-backend-winit]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/backends/winit\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-skia]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/renderers/skia\"\ndefault-features = false\n\n[target.\"cfg(not(target_os = \\\"android\\\"))\".dependencies.i-slint-renderer-femtovg]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/renderers/femtovg\"\ndefault-features = false\n\n[target.\"cfg(target_os = \\\"android\\\")\".dependencies.i-slint-backend-android-activity]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/backends/android-activity\"\ndefault-features = false\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.i-slint-backend-qt]\nfeatures = [\"enable\"]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/backends/qt\"\ndefault-features = false\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.i-slint-backend-linuxkms]\noptional = true\nversion = \"=1.18.1\"\npath = \"internal/backends/linuxkms\"\ndefault-features = false\n\n[dev-dependencies.slint-build]\npath = \"../build\"\n\n[dev-dependencies.i-slint-backend-testing]\npath = \"../../../internal/backends/testing\"\nfeatures = [\"internal\"]\n\n[dev-dependencies.i-slint-renderer-skia]\npath = \"../../../internal/renderers/skia\"\n\n[dev-dependencies.serde_json]\nversion = \"1.0.96\"\n\n[dev-dependencies.serde]\nversion = \"1.0.163\"\ndefault-features = false\nfeatures = [\"derive\"]\n\n[dev-dependencies.tokio]\nversion = \"1\"\nfeatures = [\"rt-multi-thread\", \"macros\", \"sync\", \"net\", \"io-util\"]\n\n[dev-dependencies.async-compat]\nversion = \"0.2.4\"\n\n[dev-dependencies.bytemuck]\nversion = \"1.13.1\"\n\n[dev-dependencies.i-slint-renderer-software]\npath = \"../../../internal/renderers/software\"\nfeatures = [\"testing\"]\n",
+        "contents": "[package]\nname = \"slint\"\ndescription = \"Declarative GUI toolkit to build native user interfaces for desktop, Android, iOS, the web, and embedded devices, from microcontrollers to embedded Linux\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\ndocumentation = \"https://slint.dev/docs\"\nedition = \"2024\"\nhomepage = \"https://slint.rs\"\nkeywords = [\"gui\", \"ui\", \"hmi\", \"embedded\", \"framework\"]\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.95\"\nversion = \"1.19.0\"\ncategories = [\"gui\", \"embedded\", \"no-std\", \"rendering::engine\", \"wasm\"]\n\n[package.metadata.docs.rs]\nfeatures = [\"document-features\", \"log\", \"gettext\", \"renderer-software\", \"image-pixel-format-rgb565\", \"image-pixel-format-gray8\", \"renderer-femtovg\", \"raw-window-handle-06\", \"unstable-wgpu-29\", \"unstable-wgpu-30\", \"unstable-winit-030\", \"unstable-libinput-09\", \"unstable-fontique-012\"]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\ndefault = [\"std\", \"backend-default\", \"renderer-femtovg\", \"renderer-software\", \"accessibility\", \"compat-1-2\", \"system-tray\"]\ncompat-1-18 = []\ncompat-1-2 = [\"compat-1-18\", \"i-slint-backend-linuxkms?/libseat\", \"i-slint-backend-linuxkms?/libinput\"]\ncompat-1-0 = [\"compat-1-2\", \"renderer-software\"]\nstd = [\"i-slint-core/std\", \"i-slint-renderer-software?/std\"]\ngettext = [\"i-slint-core/gettext-rs\"]\nlibm = [\"i-slint-core/libm\", \"i-slint-renderer-software?/libm\"]\nlog = [\"i-slint-core/log\"]\nserde = [\"i-slint-core/serde\"]\nsoftware-renderer-systemfonts = [\"renderer-software\"]\nsoftware-renderer-path = [\"i-slint-renderer-software/path\"]\nunsafe-single-threaded = [\"i-slint-core/unsafe-single-threaded\"]\naccessibility = [\"i-slint-backend-selector/accessibility\"]\nsystem-tray = [\"i-slint-core/system-tray\"]\nraw-window-handle-06 = [\"dep:raw-window-handle-06\", \"i-slint-backend-selector/raw-window-handle-06\"]\nimage-default-formats = [\"i-slint-core/image-default-formats\"]\nimage-pixel-format-rgb565 = [\"i-slint-core/image-pixel-format-rgb565\", \"i-slint-renderer-software?/image-pixel-format-rgb565\", \"i-slint-backend-selector/image-pixel-format-rgb565\"]\nimage-pixel-format-gray8 = [\"i-slint-core/image-pixel-format-gray8\", \"i-slint-renderer-software?/image-pixel-format-gray8\", \"i-slint-backend-selector/image-pixel-format-gray8\"]\nlive-preview = [\"dep:i-slint-live-preview\"]\nmcp = [\"std\", \"i-slint-backend-selector/mcp\"]\nsystem-testing = [\"std\", \"i-slint-backend-selector/system-testing\"]\nbackend-qt = [\"i-slint-backend-selector/backend-qt\", \"std\", \"i-slint-backend-qt\"]\nbackend-winit = [\"i-slint-backend-selector/backend-winit\", \"std\"]\nbackend-winit-x11 = [\"i-slint-backend-selector/backend-winit-x11\", \"std\"]\nbackend-winit-wayland = [\"i-slint-backend-selector/backend-winit-wayland\", \"std\"]\nbackend-default = [\"i-slint-backend-selector/default\"]\nrenderer-winit-femtovg = [\"renderer-femtovg\"]\nrenderer-winit-skia = [\"renderer-skia\"]\nrenderer-winit-skia-opengl = [\"renderer-skia-opengl\"]\nrenderer-winit-skia-vulkan = [\"renderer-skia-vulkan\"]\nrenderer-winit-software = [\"renderer-software\"]\nrenderer-femtovg = [\"i-slint-backend-selector/renderer-femtovg\", \"i-slint-renderer-femtovg/opengl\", \"std\"]\nrenderer-femtovg-wgpu = [\"i-slint-backend-selector/renderer-femtovg-wgpu\", \"i-slint-renderer-femtovg/wgpu\", \"std\"]\nrenderer-skia = [\"i-slint-backend-selector/renderer-skia\", \"dep:i-slint-renderer-skia\", \"std\"]\nrenderer-skia-opengl = [\"i-slint-backend-selector/renderer-skia-opengl\", \"dep:i-slint-renderer-skia\", \"std\"]\nrenderer-skia-vulkan = [\"i-slint-backend-selector/renderer-skia-vulkan\", \"dep:i-slint-renderer-skia\", \"std\"]\nrenderer-skia-software = [\"i-slint-backend-selector/renderer-skia-software\", \"std\"]\nrenderer-software = [\"i-slint-backend-selector/renderer-software\", \"dep:i-slint-renderer-software\"]\nrenderer-vello = [\"i-slint-backend-selector/renderer-vello\", \"std\"]\nbackend-linuxkms = [\"i-slint-backend-selector/backend-linuxkms\", \"dep:i-slint-backend-linuxkms\", \"std\"]\nbackend-linuxkms-libseat = [\"i-slint-backend-selector/backend-linuxkms-libseat\", \"std\"]\nbackend-linuxkms-libinput = [\"i-slint-backend-selector/backend-linuxkms-libinput\", \"std\"]\nbackend-linuxkms-noseat = [\"i-slint-backend-selector/backend-linuxkms-noseat\", \"std\"]\nbackend-linuxkms-libdlmclient = [\"i-slint-backend-selector/backend-linuxkms-libdlmclient\", \"std\"]\nbackend-android-activity-06 = [\"i-slint-backend-android-activity/native-activity\", \"i-slint-backend-android-activity/aa-06\", \"i-slint-backend-selector/backend-android-activity\"]\nbackend-android-activity-05 = [\"i-slint-backend-android-activity/native-activity\", \"i-slint-backend-android-activity/aa-05\"]\nunstable-wgpu-29 = [\"i-slint-core/unstable-wgpu-29\", \"i-slint-backend-selector/unstable-wgpu-29\", \"i-slint-backend-android-activity?/unstable-wgpu-29\", \"dep:wgpu-29\"]\nunstable-wgpu-30 = [\"i-slint-core/unstable-wgpu-30\", \"i-slint-backend-selector/unstable-wgpu-30\", \"i-slint-backend-android-activity?/unstable-wgpu-30\", \"dep:wgpu-30\"]\nunstable-winit-030 = [\"backend-winit\", \"dep:i-slint-backend-winit\", \"i-slint-backend-selector/unstable-winit-030\"]\nunstable-libinput-09 = [\"i-slint-backend-selector/unstable-libinput-09\"]\nunstable-fontique-012 = [\"i-slint-common/shared-fontique\", \"i-slint-core/shared-parley\"]\n\n[dependencies.i-slint-core]\nversion = \"=1.19.0\"\npath = \"internal/core\"\ndefault-features = false\n\n[dependencies.slint-macros]\nversion = \"=1.19.0\"\npath = \"api/rs/macros\"\ndefault-features = false\n\n[dependencies.i-slint-backend-selector]\nversion = \"=1.19.0\"\npath = \"internal/backends/selector\"\ndefault-features = false\n\n[dependencies.i-slint-core-macros]\nversion = \"=1.19.0\"\npath = \"internal/core-macros\"\ndefault-features = false\n\n[dependencies.i-slint-common]\nversion = \"=1.19.0\"\npath = \"internal/common\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-software]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/renderers/software\"\ndefault-features = false\n\n[dependencies.i-slint-live-preview]\noptional = true\nfeatures = [\"live-component\"]\nversion = \"=1.19.0\"\npath = \"internal/live-preview\"\ndefault-features = false\n\n[dependencies.const-field-offset]\nversion = \"0.2.1\"\npath = \"../../../helper_crates/const-field-offset\"\n\n[dependencies.document-features]\nversion = \"0.2.0\"\noptional = true\n\n[dependencies.vtable]\nversion = \"0.5.1\"\npath = \"helper_crates/vtable\"\n\n[dependencies.once_cell]\nversion = \"1.5\"\ndefault-features = false\nfeatures = [\"alloc\"]\n\n[dependencies.pin-weak]\nversion = \"1.1\"\ndefault-features = false\n\n[dependencies.raw-window-handle-06]\noptional = true\npackage = \"raw-window-handle\"\nversion = \"0.6\"\nfeatures = [\"alloc\"]\n\n[dependencies.wgpu-29]\noptional = true\npackage = \"wgpu\"\nversion = \"29.0.4\"\ndefault-features = false\n\n[dependencies.wgpu-30]\noptional = true\npackage = \"wgpu\"\nversion = \"30\"\ndefault-features = false\n\n[dependencies.i-slint-backend-winit]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/backends/winit\"\ndefault-features = false\n\n[dependencies.i-slint-renderer-skia]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/renderers/skia\"\ndefault-features = false\n\n[target.\"cfg(not(target_os = \\\"android\\\"))\".dependencies.i-slint-renderer-femtovg]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/renderers/femtovg\"\ndefault-features = false\n\n[target.\"cfg(target_os = \\\"android\\\")\".dependencies.i-slint-backend-android-activity]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/backends/android-activity\"\ndefault-features = false\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.i-slint-backend-qt]\nfeatures = [\"enable\"]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/backends/qt\"\ndefault-features = false\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.i-slint-backend-linuxkms]\noptional = true\nversion = \"=1.19.0\"\npath = \"internal/backends/linuxkms\"\ndefault-features = false\n\n[dev-dependencies.slint-build]\npath = \"../build\"\n\n[dev-dependencies.i-slint-backend-testing]\npath = \"../../../internal/backends/testing\"\nfeatures = [\"internal\"]\n\n[dev-dependencies.i-slint-renderer-skia]\npath = \"../../../internal/renderers/skia\"\n\n[dev-dependencies.serde_json]\nversion = \"1.0.96\"\n\n[dev-dependencies.serde]\nversion = \"1.0.163\"\ndefault-features = false\nfeatures = [\"derive\"]\n\n[dev-dependencies.tokio]\nversion = \"1\"\nfeatures = [\"rt-multi-thread\", \"macros\", \"sync\", \"net\", \"io-util\"]\n\n[dev-dependencies.async-compat]\nversion = \"0.2.4\"\n\n[dev-dependencies.bytemuck]\nversion = \"1.13.1\"\n\n[dev-dependencies.i-slint-renderer-software]\npath = \"../../../internal/renderers/software\"\nfeatures = [\"testing\", \"owned-pre-rendered-resources\"]\n",
         "dest": "cargo/vendor/slint",
         "dest-filename": "Cargo.toml"
     },
@@ -7202,12 +7137,12 @@
     {
         "type": "shell",
         "commands": [
-            "cp -r --reflink=auto \"flatpak-cargo/git/slint-552e4dd/api/rs/build\" \"cargo/vendor/slint-build\""
+            "cp -r --reflink=auto \"flatpak-cargo/git/slint-3100296/api/rs/build\" \"cargo/vendor/slint-build\""
         ]
     },
     {
         "type": "inline",
-        "contents": "[package]\nname = \"slint-build\"\ndescription = \"Helper for Slint build script\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.rs\"\nkeywords = [\"gui\", \"toolkit\", \"graphics\", \"design\", \"ui\"]\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.92\"\nversion = \"1.18.1\"\ncategories = [\"gui\", \"rendering::engine\", \"development-tools::build-utils\"]\n\n[package.metadata.docs.rs]\nfeatures = [\"sdf-fonts\", \"document-features\"]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\ndefault = [\"compat-1-18\", \"renderer-software\"]\ncompat-1-18 = []\nrenderer-software = [\"i-slint-compiler/renderer-software\", \"dep:fontique\"]\nimage-default-formats = [\"i-slint-compiler/image-default-formats\"]\nsdf-fonts = [\"renderer-software\", \"i-slint-compiler/sdf-fonts\"]\nexperimental-module-builds = [\"i-slint-compiler/experimental-library-module\"]\n\n[dependencies.i-slint-compiler]\nfeatures = [\"default\", \"rust\", \"display-diagnostics\", \"bundle-translations\"]\nversion = \"=1.18.1\"\npath = \"internal/compiler\"\ndefault-features = false\n\n[dependencies.spin_on]\nversion = \"0.1\"\n\n[dependencies.toml_edit]\nversion = \"0.25.0\"\n\n[dependencies.derive_more]\nfeatures = [\"std\", \"error\", \"deref\", \"deref_mut\", \"into\", \"from\", \"add\", \"add_assign\", \"mul\", \"not\", \"display\"]\nversion = \"2.0.0\"\ndefault-features = false\n\n[dependencies.document-features]\nversion = \"0.2.0\"\noptional = true\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.fontique]\nfeatures = [\"fontconfig-dlopen\"]\noptional = true\nversion = \"0.11.1\"\n",
+        "contents": "[package]\nname = \"slint-build\"\ndescription = \"Compile .slint UI files to Rust code from a Cargo build script\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.rs\"\nkeywords = [\"gui\", \"ui\", \"build-script\", \"codegen\"]\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.95\"\nversion = \"1.19.0\"\ncategories = [\"gui\", \"rendering::engine\", \"development-tools::build-utils\"]\n\n[package.metadata.docs.rs]\nfeatures = [\"sdf-fonts\", \"document-features\"]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\npath = \"lib.rs\"\n\n[features]\ndefault = [\"compat-1-18\", \"renderer-software\"]\ncompat-1-18 = []\nrenderer-software = [\"i-slint-compiler/renderer-software\", \"dep:fontique\"]\nimage-default-formats = [\"i-slint-compiler/image-default-formats\"]\nsdf-fonts = [\"renderer-software\", \"i-slint-compiler/sdf-fonts\"]\nexperimental-module-builds = [\"i-slint-compiler/experimental-library-module\"]\n\n[dependencies.i-slint-compiler]\nfeatures = [\"default\", \"rust\", \"display-diagnostics\", \"bundle-translations\"]\nversion = \"=1.19.0\"\npath = \"internal/compiler\"\ndefault-features = false\n\n[dependencies.spin_on]\nversion = \"0.1\"\n\n[dependencies.toml_edit]\nversion = \"0.25.0\"\n\n[dependencies.derive_more]\nfeatures = [\"std\", \"error\", \"deref\", \"deref_mut\", \"into\", \"from\", \"add\", \"add_assign\", \"mul\", \"not\", \"display\"]\nversion = \"2.0.0\"\ndefault-features = false\n\n[dependencies.document-features]\nversion = \"0.2.0\"\noptional = true\n\n[dev-dependencies]\ntempfile = \"3\"\n\n[target.\"cfg(target_os = \\\"linux\\\")\".dependencies.fontique]\nfeatures = [\"fontconfig-dlopen\"]\noptional = true\nversion = \"0.12.0\"\n",
         "dest": "cargo/vendor/slint-build",
         "dest-filename": "Cargo.toml"
     },
@@ -7220,12 +7155,12 @@
     {
         "type": "shell",
         "commands": [
-            "cp -r --reflink=auto \"flatpak-cargo/git/slint-552e4dd/api/rs/macros\" \"cargo/vendor/slint-macros\""
+            "cp -r --reflink=auto \"flatpak-cargo/git/slint-3100296/api/rs/macros\" \"cargo/vendor/slint-macros\""
         ]
     },
     {
         "type": "inline",
-        "contents": "[package]\nname = \"slint-macros\"\ndescription = \"Macro helper for slint crate\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.rs\"\nkeywords = [\"gui\", \"toolkit\", \"graphics\", \"design\", \"ui\"]\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.92\"\nversion = \"1.18.1\"\ncategories = [\"gui\", \"development-tools\"]\n\n[package.metadata.docs.rs]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\nproc-macro = true\npath = \"lib.rs\"\n\n[features]\ndefault = []\n\n[dependencies]\nproc-macro2 = \"1.0.17\"\nquote = \"1.0\"\n\n[dependencies.i-slint-compiler]\nfeatures = [\"default\", \"proc_macro_span\", \"rust\", \"display-diagnostics\"]\nversion = \"=1.18.1\"\npath = \"internal/compiler\"\ndefault-features = false\n\n[dependencies.spin_on]\nversion = \"0.1\"\n",
+        "contents": "[package]\nname = \"slint-macros\"\ndescription = \"Macro helper for slint crate\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nhomepage = \"https://slint.rs\"\nkeywords = [\"macro\", \"gui\", \"ui\"]\nlicense = \"GPL-3.0-only OR LicenseRef-Slint-Royalty-free-2.0 OR LicenseRef-Slint-Software-3.0\"\nrepository = \"https://github.com/slint-ui/slint\"\nrust-version = \"1.95\"\nversion = \"1.19.0\"\ncategories = [\"gui\", \"development-tools\"]\n\n[package.metadata.docs.rs]\nrustdoc-args = [\"--generate-link-to-definition\"]\n\n[lib]\nproc-macro = true\npath = \"lib.rs\"\n\n[features]\ndefault = []\n\n[dependencies]\nproc-macro2 = \"1.0.17\"\nquote = \"1.0\"\n\n[dependencies.i-slint-compiler]\nfeatures = [\"default\", \"proc_macro_span\", \"rust\", \"display-diagnostics\"]\nversion = \"=1.19.0\"\npath = \"internal/compiler\"\ndefault-features = false\n\n[dependencies.spin_on]\nversion = \"0.1\"\n",
         "dest": "cargo/vendor/slint-macros",
         "dest-filename": "Cargo.toml"
     },
@@ -7272,6 +7207,32 @@
         "type": "inline",
         "contents": "{\"package\": \"3457dea1f0eb631b4034d61d4d8c32074caa6cd1ab2d59f2327bd8461e2c0016\", \"files\": {}}",
         "dest": "cargo/vendor/smithay-client-toolkit-0.19.2",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/smithay-client-toolkit/smithay-client-toolkit-0.20.0.crate",
+        "sha256": "0512da38f5e2b31201a93524adb8d3136276fa4fe4aafab4e1f727a82b534cc0",
+        "dest": "cargo/vendor/smithay-client-toolkit-0.20.0"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"0512da38f5e2b31201a93524adb8d3136276fa4fe4aafab4e1f727a82b534cc0\", \"files\": {}}",
+        "dest": "cargo/vendor/smithay-client-toolkit-0.20.0",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/smithay-clipboard/smithay-clipboard-0.7.3.crate",
+        "sha256": "71704c03f739f7745053bde45fa203a46c58d25bc5c4efba1d9a60e9dba81226",
+        "dest": "cargo/vendor/smithay-clipboard-0.7.3"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"71704c03f739f7745053bde45fa203a46c58d25bc5c4efba1d9a60e9dba81226\", \"files\": {}}",
+        "dest": "cargo/vendor/smithay-clipboard-0.7.3",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -7615,14 +7576,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/taffy/taffy-0.10.1.crate",
-        "sha256": "aea22054047c16c3f34d3ac473a2170be1424b1115b2a3adcf28cfb067c88859",
-        "dest": "cargo/vendor/taffy-0.10.1"
+        "url": "https://static.crates.io/crates/taffy/taffy-0.15.1.crate",
+        "sha256": "31f7bd2d97198df05186f93a3a3c306845f40e8b3c22bf9279cdd7e5cf5fea7d",
+        "dest": "cargo/vendor/taffy-0.15.1"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"aea22054047c16c3f34d3ac473a2170be1424b1115b2a3adcf28cfb067c88859\", \"files\": {}}",
-        "dest": "cargo/vendor/taffy-0.10.1",
+        "contents": "{\"package\": \"31f7bd2d97198df05186f93a3a3c306845f40e8b3c22bf9279cdd7e5cf5fea7d\", \"files\": {}}",
+        "dest": "cargo/vendor/taffy-0.15.1",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -8096,19 +8057,6 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/tree_magic_mini/tree_magic_mini-3.2.2.crate",
-        "sha256": "b8765b90061cba6c22b5831f675da109ae5561588290f9fa2317adab2714d5a6",
-        "dest": "cargo/vendor/tree_magic_mini-3.2.2"
-    },
-    {
-        "type": "inline",
-        "contents": "{\"package\": \"b8765b90061cba6c22b5831f675da109ae5561588290f9fa2317adab2714d5a6\", \"files\": {}}",
-        "dest": "cargo/vendor/tree_magic_mini-3.2.2",
-        "dest-filename": ".cargo-checksum.json"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
         "url": "https://static.crates.io/crates/try-lock/try-lock-0.2.5.crate",
         "sha256": "e421abadd41a4225275504ea4d6566923418b7f05506fbc9c0fe86ba7396114b",
         "dest": "cargo/vendor/try-lock-0.2.5"
@@ -8395,6 +8343,19 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/usvg/usvg-0.49.0.crate",
+        "sha256": "d09b73ee83641d390ad7ffd9000f347b16eb128e437675b6ff277ea5c7fcf22c",
+        "dest": "cargo/vendor/usvg-0.49.0"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"d09b73ee83641d390ad7ffd9000f347b16eb128e437675b6ff277ea5c7fcf22c\", \"files\": {}}",
+        "dest": "cargo/vendor/usvg-0.49.0",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://static.crates.io/crates/utf8-zero/utf8-zero-0.8.1.crate",
         "sha256": "b8c0a043c9540bae7c578c88f91dda8bd82e59ae27c21baca69c8b191aaf5a6e",
         "dest": "cargo/vendor/utf8-zero-0.8.1"
@@ -8525,12 +8486,12 @@
     {
         "type": "shell",
         "commands": [
-            "cp -r --reflink=auto \"flatpak-cargo/git/slint-552e4dd/helper_crates/vtable\" \"cargo/vendor/vtable\""
+            "cp -r --reflink=auto \"flatpak-cargo/git/slint-3100296/helper_crates/vtable\" \"cargo/vendor/vtable\""
         ]
     },
     {
         "type": "inline",
-        "contents": "[package]\nname = \"vtable\"\nversion = \"0.5.0\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nrust-version = \"1.88\"\nlicense = \"MIT OR Apache-2.0\"\ndescription = \"Helper crate to generate ffi-friendly virtual tables\"\nrepository = \"https://github.com/slint-ui/slint\"\nhomepage = \"https://slint.dev\"\n\n[lib]\n\n[dependencies]\nportable-atomic = \"1\"\n\n[dependencies.vtable-macro]\nversion = \"=0.5.0\"\npath = \"./macro\"\n\n[dependencies.const-field-offset]\nversion = \"0.2.1\"\npath = \"../const-field-offset\"\n\n[dependencies.stable_deref_trait]\nversion = \"1.2.0\"\ndefault-features = false\n",
+        "contents": "[package]\nname = \"vtable\"\nversion = \"0.5.1\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nrust-version = \"1.95\"\nlicense = \"MIT OR Apache-2.0\"\ndescription = \"Helper crate to generate ffi-friendly virtual tables\"\nrepository = \"https://github.com/slint-ui/slint\"\nhomepage = \"https://slint.dev\"\n\n[lib]\n\n[dependencies]\nportable-atomic = \"1\"\n\n[dependencies.vtable-macro]\nversion = \"=0.5.1\"\npath = \"./macro\"\n\n[dependencies.const-field-offset]\nversion = \"0.2.1\"\npath = \"../const-field-offset\"\n\n[dependencies.stable_deref_trait]\nversion = \"1.2.0\"\ndefault-features = false\n",
         "dest": "cargo/vendor/vtable",
         "dest-filename": "Cargo.toml"
     },
@@ -8543,12 +8504,12 @@
     {
         "type": "shell",
         "commands": [
-            "cp -r --reflink=auto \"flatpak-cargo/git/slint-552e4dd/helper_crates/vtable/macro\" \"cargo/vendor/vtable-macro\""
+            "cp -r --reflink=auto \"flatpak-cargo/git/slint-3100296/helper_crates/vtable/macro\" \"cargo/vendor/vtable-macro\""
         ]
     },
     {
         "type": "inline",
-        "contents": "[package]\nname = \"vtable-macro\"\nversion = \"0.5.0\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nlicense = \"MIT OR Apache-2.0\"\ndescription = \"Helper crate to generate ffi-friendly virtual tables\"\nrepository = \"https://github.com/slint-ui/slint\"\nhomepage = \"https://slint.dev\"\n\n[lib]\nproc-macro = true\npath = \"macro.rs\"\n\n[dependencies]\nquote = \"1.0\"\nproc-macro2 = \"1.0\"\n\n[dependencies.syn]\nversion = \"3.0\"\nfeatures = [\"full\"]\n\n[dev-dependencies.vtable]\npath = \"..\"\n",
+        "contents": "[package]\nname = \"vtable-macro\"\nversion = \"0.5.1\"\nauthors = [\"Slint Developers <info@slint.dev>\"]\nedition = \"2024\"\nrust-version = \"1.95\"\nlicense = \"MIT OR Apache-2.0\"\ndescription = \"Helper crate to generate ffi-friendly virtual tables\"\nrepository = \"https://github.com/slint-ui/slint\"\nhomepage = \"https://slint.dev\"\n\n[lib]\nproc-macro = true\npath = \"macro.rs\"\n\n[dependencies]\nquote = \"1.0\"\nproc-macro2 = \"1.0\"\n\n[dependencies.syn]\nversion = \"3.0\"\nfeatures = [\"full\"]\n\n[dev-dependencies.vtable]\npath = \"..\"\n",
         "dest": "cargo/vendor/vtable-macro",
         "dest-filename": "Cargo.toml"
     },
@@ -8738,6 +8699,32 @@
         "type": "inline",
         "contents": "{\"package\": \"23d0c813de3daa2ed6520af85a3bd49b0e722a3078506899aa9686fea58dc4b6\", \"files\": {}}",
         "dest": "cargo/vendor/wayland-protocols-0.32.13",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/wayland-protocols-experimental/wayland-protocols-experimental-20250721.0.1.crate",
+        "sha256": "40a1f863128dcaaec790d7b4b396cc9b9a7a079e878e18c47e6c2d2c5a8dcbb1",
+        "dest": "cargo/vendor/wayland-protocols-experimental-20250721.0.1"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"40a1f863128dcaaec790d7b4b396cc9b9a7a079e878e18c47e6c2d2c5a8dcbb1\", \"files\": {}}",
+        "dest": "cargo/vendor/wayland-protocols-experimental-20250721.0.1",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/wayland-protocols-misc/wayland-protocols-misc-0.3.12.crate",
+        "sha256": "6e9567599ef23e09b8dad6e429e5738d4509dfc46b3b21f32841a304d16b29c8",
+        "dest": "cargo/vendor/wayland-protocols-misc-0.3.12"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"6e9567599ef23e09b8dad6e429e5738d4509dfc46b3b21f32841a304d16b29c8\", \"files\": {}}",
+        "dest": "cargo/vendor/wayland-protocols-misc-0.3.12",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -9505,19 +9492,6 @@
         "type": "inline",
         "contents": "{\"package\": \"1ebf944e87a7c253233ad6766e082e3cd714b5d03812acc24c318f549614536e\", \"files\": {}}",
         "dest": "cargo/vendor/wit-bindgen-0.57.1",
-        "dest-filename": ".cargo-checksum.json"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/wl-clipboard-rs/wl-clipboard-rs-0.9.5.crate",
-        "sha256": "959c7ac3b8afde864f7a7448ac16f29b2b83350b7eccbf77fb781c3999aa6848",
-        "dest": "cargo/vendor/wl-clipboard-rs-0.9.5"
-    },
-    {
-        "type": "inline",
-        "contents": "{\"package\": \"959c7ac3b8afde864f7a7448ac16f29b2b83350b7eccbf77fb781c3999aa6848\", \"files\": {}}",
-        "dest": "cargo/vendor/wl-clipboard-rs-0.9.5",
         "dest-filename": ".cargo-checksum.json"
     },
     {
